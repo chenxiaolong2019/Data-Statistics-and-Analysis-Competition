@@ -1,0 +1,1246 @@
+﻿0,4743314111371608445,"[{'sentiment': 2, 'abstract': '论文的结构合理<span></span>', 'prop': '结构', 'begin_pos': 14, 'end_pos': 14, 'adj': '合理'}, {'sentiment': 2, 'abstract': '论文结构合理<span></span>', 'prop': '结构', 'begin_pos': 12, 'end_pos': 12, 'adj': '合理'}]"
+0,8638098355594538141,"[{'sentiment': 2, 'abstract': '论文的结构合理<span></span>', 'prop': '结构', 'begin_pos': 14, 'end_pos': 14, 'adj': '合理'}, {'sentiment': 2, 'abstract': '结构合理<span></span>', 'prop': '结构', 'begin_pos': 8, 'end_pos': 8, 'adj': '合理'}]"
+0,8427489617198726109,[]
+0,8365275008724080925,"[{'sentiment': 0, 'abstract': '表达<span>语言不够准确</span>选题偏大', 'prop': '语言', 'begin_pos': 4, 'end_pos': 16, 'adj': '不够准确'}]"
+0,8209024651870574141,"[{'sentiment': 0, 'abstract': '研究现状不足部分内容牵强<span></span>', 'prop': '内容', 'begin_pos': 24, 'end_pos': 24, 'adj': '牵强'}]"
+0,302763669727986685,"[{'sentiment': 0, 'abstract': '对所研究主题的<span>视野不够开阔</span>', 'prop': '视野', 'begin_pos': 14, 'end_pos': 26, 'adj': '不够开阔'}]"
+0,5448522104230947485,[]
+0,4043240813158934237,[]
+0,4408982269433969597,[]
+0,882846686792208157,[]
+0,3219824453943942493,[]
+0,2644404437798956733,[]
+0,8661296421694880925,"[{'sentiment': 2, 'abstract': '<span>整体论述有一定的深度</span>', 'prop': '整体不错', 'begin_pos': 0, 'end_pos': 20, 'adj': ''}, {'sentiment': 2, 'abstract': '研究<span>内容比较丰富</span>', 'prop': '内容', 'begin_pos': 4, 'end_pos': 16, 'adj': '丰富'}]"
+0,2258771723213647709,[]
+0,5859061635343453245,[]
+0,7697603053272639709,"[{'sentiment': 2, 'abstract': '结构合理<span></span>', 'prop': '结构', 'begin_pos': 8, 'end_pos': 8, 'adj': '合理'}, {'sentiment': 2, 'abstract': '论文<span>条理清晰</span>', 'prop': '条理', 'begin_pos': 4, 'end_pos': 12, 'adj': '清晰'}, {'sentiment': 2, 'abstract': '结构合理<span></span>', 'prop': '结构', 'begin_pos': 8, 'end_pos': 8, 'adj': '合理'}]"
+0,4187601046527886685,"[{'sentiment': 2, 'abstract': '语言严谨<span></span>', 'prop': '语言', 'begin_pos': 8, 'end_pos': 8, 'adj': '严谨'}]"
+0,7450812202159656509,[]
+0,5508146831823571677,"[{'sentiment': 0, 'abstract': '论文<span>题目不够准确</span>', 'prop': '题目', 'begin_pos': 4, 'end_pos': 16, 'adj': '不够准确'}]"
+0,2315334778583797757,"[{'sentiment': 0, 'abstract': '\n结构<span>安排有不合理</span>之处', 'prop': '安排', 'begin_pos': 5, 'end_pos': 17, 'adj': '不合理'}]"
+0,4187818401382158621,"[{'sentiment': 2, 'abstract': '结构<span>安排合理</span>.写作较规范', 'prop': '安排', 'begin_pos': 4, 'end_pos': 12, 'adj': '合理'}, {'sentiment': 2, 'abstract': '<span>语言表达准确</span>合理', 'prop': '语言', 'begin_pos': 0, 'end_pos': 12, 'adj': '准确'}]"
+0,1324551964583756637,[]
+0,1127028916231198941,"[{'sentiment': 0, 'abstract': '<span>缺乏对成本管理过程和业务管理过程的分析</span>', 'prop': '管理一般', 'begin_pos': 0, 'end_pos': 38, 'adj': ''}]"
+0,5906789418220235453,[]
+0,4111037919115616157,"[{'sentiment': 2, 'abstract': '对美的集团进行了分析<span></span>', 'prop': '环境', 'begin_pos': 20, 'end_pos': 20, 'adj': '好'}]"
+0,2573534719812088925,[]
+0,9195718167878948829,"[{'sentiment': 0, 'abstract': '\n文章并没有说明“涉农”和一般企业在评价上有何不同<span></span>', 'prop': '感觉', 'begin_pos': 49, 'end_pos': 49, 'adj': '一般'}, {'sentiment': 2, 'abstract': '1.论文研究<span>内容需要丰富</span>', 'prop': '内容', 'begin_pos': 10, 'end_pos': 22, 'adj': '丰富'}]"
+0,5461316858213854909,[]
+0,862182304959202813,[]
+0,1927703720333899037,"[{'sentiment': 2, 'abstract': '结构<span>安排合理</span>.写作较规范', 'prop': '安排', 'begin_pos': 4, 'end_pos': 12, 'adj': '合理'}, {'sentiment': 2, 'abstract': '<span>语言表达准确</span>合理', 'prop': '语言', 'begin_pos': 0, 'end_pos': 12, 'adj': '准确'}]"
+0,6283731138787856957,"[{'sentiment': 2, 'abstract': '论文<span>思路较为清晰</span>', 'prop': '思路', 'begin_pos': 4, 'end_pos': 16, 'adj': '清晰'}, {'sentiment': 2, 'abstract': '行文较为流畅<span></span>', 'prop': '环境', 'begin_pos': 12, 'end_pos': 12, 'adj': '行'}, {'sentiment': 2, 'abstract': '<span>符合专业要求</span>', 'prop': '专业不错', 'begin_pos': 0, 'end_pos': 12, 'adj': ''}, {'sentiment': 2, 'abstract': '结构<span>安排合理</span>.写作较规范', 'prop': '安排', 'begin_pos': 4, 'end_pos': 12, 'adj': '合理'}, {'sentiment': 2, 'abstract': '<span>语言表达准确</span>合理', 'prop': '语言', 'begin_pos': 0, 'end_pos': 12, 'adj': '准确'}]"
+0,5929698055575510141,[]
+0,3270111802171750941,"[{'sentiment': 2, 'abstract': '<span>专业性强</span>', 'prop': '专业性', 'begin_pos': 0, 'end_pos': 8, 'adj': '强'}, {'sentiment': 2, 'abstract': '结构<span>安排合理</span>.分析专业化', 'prop': '安排', 'begin_pos': 4, 'end_pos': 12, 'adj': '合理'}, {'sentiment': 2, 'abstract': '<span>语言表达准确</span>合理', 'prop': '语言', 'begin_pos': 0, 'end_pos': 12, 'adj': '准确'}, {'sentiment': 0, 'abstract': '\n结果分析对问题的总结不到位<span></span>', 'prop': '服务', 'begin_pos': 27, 'end_pos': 27, 'adj': '服务一般'}]"
+0,1474263623912783069,"[{'sentiment': 2, 'abstract': '论文结构<span>安排合理</span>.写作较规范', 'prop': '安排', 'begin_pos': 8, 'end_pos': 16, 'adj': '合理'}, {'sentiment': 2, 'abstract': '<span>语言表达准确</span>合理', 'prop': '语言', 'begin_pos': 0, 'end_pos': 12, 'adj': '准确'}, {'sentiment': 2, 'abstract': '平衡记分卡四个方面的赋值比率是否科学合理值得推敲<span></span>', 'prop': '科学', 'begin_pos': 48, 'end_pos': 48, 'adj': '合理'}]"
+0,8100636694287235101,"[{'sentiment': 0, 'abstract': '没能深入总结\n2.创新性总结不到位<span></span>', 'prop': '服务', 'begin_pos': 31, 'end_pos': 31, 'adj': '服务一般'}]"
+0,765709065250093149,[]
+0,1698091157067161053,"[{'sentiment': 2, 'abstract': '具有较好的实践意义<span></span>', 'prop': '感觉', 'begin_pos': 18, 'end_pos': 18, 'adj': '好'}, {'sentiment': 2, 'abstract': '论文研究<span>思路较清晰</span>', 'prop': '思路', 'begin_pos': 8, 'end_pos': 18, 'adj': '清晰'}]"
+0,8592399364255021277,"[{'sentiment': 2, 'abstract': '研究<span>思路基本清晰</span>', 'prop': '思路', 'begin_pos': 4, 'end_pos': 16, 'adj': '清晰'}]"
+0,5826005234168580413,"[{'sentiment': 0, 'abstract': '<span>对于mm期货公司资产管理存在的问题认识不到位</span>', 'prop': '管理一般', 'begin_pos': 0, 'end_pos': 42, 'adj': ''}, {'sentiment': 0, 'abstract': '从而难以形成以其<span>指导一般</span>的相关启示', 'prop': '指导', 'begin_pos': 16, 'end_pos': 24, 'adj': '一般'}]"
+0,2566008864947367901,"[{'sentiment': 0, 'abstract': '政策环境分析比较单薄<span></span>', 'prop': '环境', 'begin_pos': 20, 'end_pos': 20, 'adj': '环境一般'}]"
+0,3791249126208324285,"[{'sentiment': 0, 'abstract': '关键词<span>选择的不好</span>', 'prop': '选择', 'begin_pos': 6, 'end_pos': 16, 'adj': '不好'}]"
+0,1434171810942189437,[]
+0,2341619919059093661,[]
+0,4181307624359394141,"[{'sentiment': 0, 'abstract': '关键词<span>选择不合适</span>', 'prop': '选择', 'begin_pos': 6, 'end_pos': 16, 'adj': '不合适'}]"
+0,3867073722788290045,[]
+0,644507046920854973,"[{'sentiment': 0, 'abstract': '<span>研究深度一般</span>', 'prop': '研究', 'begin_pos': 0, 'end_pos': 12, 'adj': '一般'}]"
+0,2878769669128254589,"[{'sentiment': 0, 'abstract': '论文关键词<span>选择不够准确</span>研究意义阐述不够', 'prop': '选择', 'begin_pos': 10, 'end_pos': 22, 'adj': '不够准确'}]"
+0,4981617022480931645,"[{'sentiment': 0, 'abstract': '论文<span>规范性一般</span>', 'prop': '规范', 'begin_pos': 4, 'end_pos': 14, 'adj': '一般'}]"
+0,2392448211297486205,[]
+0,2519382859549022429,"[{'sentiment': 0, 'abstract': '该与绪论部分合并\n创新点和不足写的不好分析<span></span>', 'prop': '感觉', 'begin_pos': 41, 'end_pos': 41, 'adj': '不好'}]"
+0,5557649648453356509,[]
+0,6346335552734106429,[]
+0,3067605357259481757,[]
+0,3000427652656282909,"[{'sentiment': 0, 'abstract': '论文<span>规范性一般</span>', 'prop': '规范', 'begin_pos': 4, 'end_pos': 14, 'adj': '一般'}]"
+0,3248395839332763837,[]
+0,4739643282853256861,"[{'sentiment': 2, 'abstract': '部分图表缺少数据来源论文<span>题目未能准确</span>概括内容', 'prop': '题目', 'begin_pos': 24, 'end_pos': 36, 'adj': '准确'}]"
+0,6554814323439073821,[]
+0,6776113526323998525,"[{'sentiment': 0, 'abstract': '<span>省农行互联网金融服务“三农”存在的问题分析缺乏客观性</span>', 'prop': '服务一般', 'begin_pos': 0, 'end_pos': 52, 'adj': ''}]"
+0,6696552252768735549,"[{'sentiment': 0, 'abstract': '论文<span>规范性一般</span>', 'prop': '规范', 'begin_pos': 4, 'end_pos': 14, 'adj': '一般'}]"
+0,4919903496577650461,"[{'sentiment': 2, 'abstract': '研究<span>思路较清晰</span>', 'prop': '思路', 'begin_pos': 4, 'end_pos': 14, 'adj': '清晰'}]"
+0,8970146492720380541,"[{'sentiment': 0, 'abstract': '深度不够<span></span>', 'prop': '深度', 'begin_pos': 8, 'end_pos': 8, 'adj': '不够'}]"
+0,9139162810369506237,[]
+0,6648492877824319037,[]
+0,4620898938477624733,[]
+0,5654027364246155741,[]
+0,4272566431421849437,[]
+0,507124796450931965,"[{'sentiment': 0, 'abstract': '\n论文<span>规范性一般</span>', 'prop': '规范', 'begin_pos': 5, 'end_pos': 15, 'adj': '一般'}]"
+0,6256282671543653661,"[{'sentiment': 2, 'abstract': '较好<span></span>', 'prop': '感觉', 'begin_pos': 4, 'end_pos': 4, 'adj': '好'}]"
+0,8792358710128810781,[]
+0,1507820610509686077,"[{'sentiment': 2, 'abstract': '结构合理<span></span>', 'prop': '结构', 'begin_pos': 8, 'end_pos': 8, 'adj': '合理'}]"
+0,8699435536936874557,"[{'sentiment': 0, 'abstract': '写作<span>思路不清晰</span>', 'prop': '思路', 'begin_pos': 4, 'end_pos': 14, 'adj': '不清晰'}]"
+0,450665057668452445,"[{'sentiment': 2, 'abstract': '结构合理<span></span>', 'prop': '结构', 'begin_pos': 8, 'end_pos': 8, 'adj': '合理'}, {'sentiment': 0, 'abstract': '<span>语言表述不精炼</span>选题具有一点现实意义', 'prop': '语言', 'begin_pos': 0, 'end_pos': 14, 'adj': '不精炼'}, {'sentiment': 0, 'abstract': '部分内容阐述不到位<span></span>', 'prop': '服务', 'begin_pos': 18, 'end_pos': 18, 'adj': '服务一般'}]"
+0,7263218192403980573,[]
+0,6988640026738303069,"[{'sentiment': 0, 'abstract': '属于作者独创的<span>东西不多</span>', 'prop': '种类', 'begin_pos': 14, 'end_pos': 22, 'adj': '不多'}, {'sentiment': 0, 'abstract': '作者的<span>理论功底一般</span>', 'prop': '理论', 'begin_pos': 6, 'end_pos': 18, 'adj': '一般'}, {'sentiment': 0, 'abstract': '说明作者的认真程度不够<span></span>', 'prop': '态度', 'begin_pos': 22, 'end_pos': 22, 'adj': '态度一般'}, {'sentiment': 2, 'abstract': '结构<span>设计合理</span>', 'prop': '设计', 'begin_pos': 4, 'end_pos': 12, 'adj': '合理'}]"
+0,306169319500866557,[]
+0,589316979168729053,"[{'sentiment': 2, 'abstract': '结构相对合理<span></span>', 'prop': '结构', 'begin_pos': 12, 'end_pos': 12, 'adj': '合理'}, {'sentiment': 0, 'abstract': '<span>致使论文整体脱离案件中应提炼出的问题</span>', 'prop': '整体一般', 'begin_pos': 0, 'end_pos': 36, 'adj': ''}]"
+0,6933119430128766397,[]
+0,3589427171041234013,"[{'sentiment': 2, 'abstract': '结构<span>设计合理</span>', 'prop': '设计', 'begin_pos': 4, 'end_pos': 12, 'adj': '合理'}]"
+0,5832021310222721661,"[{'sentiment': 2, 'abstract': '结构清晰<span></span>', 'prop': '结构', 'begin_pos': 8, 'end_pos': 8, 'adj': '清晰'}]"
+0,1173929289410081085,[]
+0,8253437983520347709,"[{'sentiment': 0, 'abstract': '界都松散<span>语言表达不准确</span>标点符号不对', 'prop': '语言', 'begin_pos': 8, 'end_pos': 22, 'adj': '不准确'}]"
+0,3158626827305310141,"[{'sentiment': 2, 'abstract': '改革和建构与新时代中国特色社会主义发展道路相适应的环境责任保险制度体系<span></span>', 'prop': '环境', 'begin_pos': 70, 'end_pos': 70, 'adj': '环境不错'}]"
+0,5496861337578996157,[]
+0,4644562783432678621,[]
+0,6587240771458752861,[]
+0,810883359497327805,[]
+0,7629157435301448605,[]
+0,5300865428983063709,"[{'sentiment': 2, 'abstract': '结构合理<span></span>', 'prop': '结构', 'begin_pos': 8, 'end_pos': 8, 'adj': '合理'}, {'sentiment': 0, 'abstract': '<span>建议将环境监管失职罪的刑事立法问题和司法实践中存在的问题经一步研究</span>', 'prop': '环境一般', 'begin_pos': 0, 'end_pos': 66, 'adj': ''}]"
+0,4836710777098704797,[]
+0,2888153239118858141,[]
+0,4128778519345961405,[]
+0,1209583874373723229,"[{'sentiment': 2, 'abstract': '<span>内容丰富</span>', 'prop': '内容', 'begin_pos': 0, 'end_pos': 8, 'adj': '丰富'}]"
+0,3797485756554259069,[]
+0,8139496528155078685,[]
+0,5844499230382296061,[]
+0,785596502752514493,"[{'sentiment': 2, 'abstract': '内容<span>安排合理</span>', 'prop': '安排', 'begin_pos': 4, 'end_pos': 12, 'adj': '合理'}]"
+0,3241430207487272285,[]
+0,4215307047629566173,[]
+0,2211490088949604317,"[{'sentiment': 0, 'abstract': '论文研究方法的法学<span>特色不够鲜明</span>', 'prop': '特色', 'begin_pos': 18, 'end_pos': 30, 'adj': '不够鲜明'}]"
+0,6808346463008462653,"[{'sentiment': 0, 'abstract': '<span>研究思路和方法的法学特色不够鲜明</span>', 'prop': '特色', 'begin_pos': 0, 'end_pos': 32, 'adj': '不够鲜明'}]"
+0,1586591772818490589,[]
+0,1447481741755665469,"[{'sentiment': 2, 'abstract': '结构<span>设计合理</span>', 'prop': '设计', 'begin_pos': 4, 'end_pos': 12, 'adj': '合理'}]"
+0,829189457203340285,[]
+0,8864046194178698909,[]
+0,8950512074737286493,"[{'sentiment': 2, 'abstract': '结论<span>设计合理</span>', 'prop': '设计', 'begin_pos': 4, 'end_pos': 12, 'adj': '合理'}]"
+0,6334060938260138589,[]
+0,4552460352836342013,[]
+0,1197659185803302173,[]
+0,5828367266158227389,"[{'sentiment': 0, 'abstract': '<span>环境损害鉴定缺乏实证研究</span>', 'prop': '环境一般', 'begin_pos': 0, 'end_pos': 24, 'adj': ''}, {'sentiment': 2, 'abstract': '层次清晰<span></span>', 'prop': '层次', 'begin_pos': 8, 'end_pos': 8, 'adj': '清晰'}]"
+0,1185964626214232317,[]
+0,7068157862576665405,[]
+0,794387370515690973,[]
+0,3168994755107157629,"[{'sentiment': 2, 'abstract': '结构合理<span></span>', 'prop': '结构', 'begin_pos': 8, 'end_pos': 8, 'adj': '合理'}]"
+0,7816886123095196765,"[{'sentiment': 2, 'abstract': '结构相对合理<span></span>', 'prop': '结构', 'begin_pos': 12, 'end_pos': 12, 'adj': '合理'}]"
+0,4847944442487198013,[]
+0,1144339065444468669,"[{'sentiment': 0, 'abstract': '理论抽象<span>程度不高</span>', 'prop': '程度', 'begin_pos': 8, 'end_pos': 16, 'adj': '不高'}]"
+0,9008744699789678525,"[{'sentiment': 2, 'abstract': '结构清晰<span></span>', 'prop': '结构', 'begin_pos': 8, 'end_pos': 8, 'adj': '清晰'}]"
+0,8697502327203147037,[]
+0,874215419640749661,"[{'sentiment': 2, 'abstract': '结构合理<span></span>', 'prop': '结构', 'begin_pos': 8, 'end_pos': 8, 'adj': '合理'}]"
+0,1969916053023351901,[]
+0,1211974852975391741,[]
+0,3876068419961304797,"[{'sentiment': 0, 'abstract': '<span>实际调查的是“城市小学生”</span>', 'prop': '小学一般', 'begin_pos': 0, 'end_pos': 26, 'adj': ''}]"
+0,854582331903543965,"[{'sentiment': 0, 'abstract': '<span>解决实际问题的针对性不强选题符合教育管理领域要求</span>', 'prop': '管理一般', 'begin_pos': 0, 'end_pos': 48, 'adj': ''}, {'sentiment': 2, 'abstract': '<span>语言表达准确</span>', 'prop': '语言', 'begin_pos': 0, 'end_pos': 12, 'adj': '准确'}]"
+0,7514970735445970813,"[{'sentiment': 2, 'abstract': '合理<span></span>', 'prop': '感觉', 'begin_pos': 4, 'end_pos': 4, 'adj': '合理'}]"
+0,8272433593240628733,"[{'sentiment': 2, 'abstract': '研究过程较为合理<span></span>', 'prop': '过程', 'begin_pos': 16, 'end_pos': 16, 'adj': '合理'}]"
+0,6682023293648901277,"[{'sentiment': 0, 'abstract': '实验<span>研究一般</span>要求持续一个学期', 'prop': '研究', 'begin_pos': 4, 'end_pos': 12, 'adj': '一般'}]"
+0,7413872705474451709,"[{'sentiment': 0, 'abstract': '文字功底差<span></span>', 'prop': '服务', 'begin_pos': 10, 'end_pos': 10, 'adj': '服务一般'}]"
+0,3738558977096688925,[]
+0,8772121986347327581,[]
+0,3250536011909977117,[]
+0,2615527349878498813,[]
+0,4056985139295156413,"[{'sentiment': 2, 'abstract': '论文整体设计<span>思路较为清晰</span>', 'prop': '思路', 'begin_pos': 12, 'end_pos': 24, 'adj': '清晰'}]"
+0,4457600734579182237,[]
+0,8329150055315209533,[]
+0,7983304257645971581,"[{'sentiment': 2, 'abstract': '<span>论文完成了对中职作文分层教学的论证</span>', 'prop': '教学质量不错', 'begin_pos': 0, 'end_pos': 34, 'adj': ''}, {'sentiment': 0, 'abstract': '<span>教学策略部分和问卷调查的问题部分衔接不够紧密</span>', 'prop': '教学质量一般', 'begin_pos': 0, 'end_pos': 44, 'adj': ''}]"
+0,3797045309369546685,"[{'sentiment': 0, 'abstract': '文末参考文献有些注释<span>信息不完整</span>', 'prop': '信息', 'begin_pos': 20, 'end_pos': 30, 'adj': '不完整'}]"
+0,675684378257059229,"[{'sentiment': 0, 'abstract': '论文存在以下几个方面的问题：1.样本<span>数目太少</span>（60人）并且局限于张家口一中一所中学', 'prop': '数目', 'begin_pos': 34, 'end_pos': 42, 'adj': '少'}]"
+0,2991833292572086909,"[{'sentiment': 2, 'abstract': '<span>思路清晰</span>', 'prop': '思路', 'begin_pos': 0, 'end_pos': 8, 'adj': '清晰'}]"
+0,8904079770435204349,"[{'sentiment': 0, 'abstract': '<span>论文在论述新媒体对班级管理的影响时</span>', 'prop': '管理一般', 'begin_pos': 0, 'end_pos': 34, 'adj': ''}, {'sentiment': 0, 'abstract': '<span>不免让人产生这样的疑问：新媒体真需要在教育管理中引入吗</span>', 'prop': '管理一般', 'begin_pos': 0, 'end_pos': 54, 'adj': ''}, {'sentiment': 0, 'abstract': '<span>所得到的结论与前文班级管理的四个内容</span>', 'prop': '管理一般', 'begin_pos': 0, 'end_pos': 36, 'adj': ''}]"
+0,322683310510869789,"[{'sentiment': 0, 'abstract': '2.论文第二部分必要性可行性混乱<span></span>', 'prop': '可行性', 'begin_pos': 30, 'end_pos': 30, 'adj': '混乱'}]"
+0,9320870076040445,"[{'sentiment': 2, 'abstract': '研究的技术路线比较合理<span></span>', 'prop': '路线', 'begin_pos': 22, 'end_pos': 22, 'adj': '合理'}]"
+0,1567797190423430781,"[{'sentiment': 2, 'abstract': '结构合理<span></span>', 'prop': '结构', 'begin_pos': 8, 'end_pos': 8, 'adj': '合理'}, {'sentiment': 0, 'abstract': '<span>缺乏对学生安全管理的概念</span>', 'prop': '管理一般', 'begin_pos': 0, 'end_pos': 24, 'adj': ''}]"
+0,84672797543371101,"[{'sentiment': 0, 'abstract': '<span>如何提高高中生地理认知水平的问题回归</span>', 'prop': '水平一般', 'begin_pos': 0, 'end_pos': 36, 'adj': ''}]"
+0,6749422402372908605,"[{'sentiment': 2, 'abstract': '<span>思路清晰</span>', 'prop': '思路', 'begin_pos': 0, 'end_pos': 8, 'adj': '清晰'}]"
+0,7890705317416654429,"[{'sentiment': 2, 'abstract': '论文整体架构比较合理<span></span>', 'prop': '架构', 'begin_pos': 20, 'end_pos': 20, 'adj': '合理'}, {'sentiment': 2, 'abstract': '<span>2.信息技术辅助教学的目的在于改变教与学的方式</span>', 'prop': '教学质量不错', 'begin_pos': 0, 'end_pos': 44, 'adj': ''}]"
+0,9132535730810463389,[]
+0,7052225424557099389,"[{'sentiment': 2, 'abstract': '结构合理<span></span>', 'prop': '结构', 'begin_pos': 8, 'end_pos': 8, 'adj': '合理'}, {'sentiment': 2, 'abstract': '论文结构合理<span></span>', 'prop': '结构', 'begin_pos': 12, 'end_pos': 12, 'adj': '合理'}]"
+0,6394782780099629853,"[{'sentiment': 2, 'abstract': '<span>选题符合专业学位方向范围要求</span>', 'prop': '专业不错', 'begin_pos': 0, 'end_pos': 28, 'adj': ''}, {'sentiment': 2, 'abstract': '行文较为流畅<span></span>', 'prop': '环境', 'begin_pos': 12, 'end_pos': 12, 'adj': '行'}]"
+0,7465782858013804093,"[{'sentiment': 2, 'abstract': '论文选题合理<span></span>', 'prop': '感觉', 'begin_pos': 12, 'end_pos': 12, 'adj': '合理'}, {'sentiment': 0, 'abstract': '<span>所以实施效果如何无法评测</span>', 'prop': '效果一般', 'begin_pos': 0, 'end_pos': 24, 'adj': ''}, {'sentiment': 2, 'abstract': '<span>教学活动设计与应用</span>', 'prop': '教学质量不错', 'begin_pos': 0, 'end_pos': 18, 'adj': ''}]"
+0,3083265437033612989,[]
+0,1220157892662586685,"[{'sentiment': 2, 'abstract': '<span>设计合理</span>', 'prop': '设计', 'begin_pos': 0, 'end_pos': 8, 'adj': '合理'}, {'sentiment': 0, 'abstract': '<span>语言不够精炼</span>', 'prop': '语言', 'begin_pos': 0, 'end_pos': 12, 'adj': '不够精炼'}, {'sentiment': 2, 'abstract': '<span>思路清晰</span>', 'prop': '思路', 'begin_pos': 0, 'end_pos': 8, 'adj': '清晰'}]"
+0,165250200149509789,[]
+0,498293521485099389,"[{'sentiment': 2, 'abstract': '<span>设计合理</span>', 'prop': '设计', 'begin_pos': 0, 'end_pos': 8, 'adj': '合理'}, {'sentiment': 2, 'abstract': '行文流畅<span></span>', 'prop': '环境', 'begin_pos': 8, 'end_pos': 8, 'adj': '行'}, {'sentiment': 2, 'abstract': '逻辑清晰<span></span>', 'prop': '逻辑', 'begin_pos': 8, 'end_pos': 8, 'adj': '清晰'}, {'sentiment': 2, 'abstract': '<span>是一篇较为优秀的专业学位论文</span>', 'prop': '专业不错', 'begin_pos': 0, 'end_pos': 28, 'adj': ''}, {'sentiment': 0, 'abstract': '已有<span>研究成果未准确</span>标注论著的发表期刊名称及时间', 'prop': '研究', 'begin_pos': 4, 'end_pos': 18, 'adj': '未准确'}, {'sentiment': 2, 'abstract': '<span>符合历史专业学位论文的基本要求</span>', 'prop': '专业不错', 'begin_pos': 0, 'end_pos': 30, 'adj': ''}]"
+0,9418309388176829,"[{'sentiment': 2, 'abstract': '<span>论文选题符合专业学位论文方向要求</span>', 'prop': '专业不错', 'begin_pos': 0, 'end_pos': 32, 'adj': ''}, {'sentiment': 2, 'abstract': '结构合理<span></span>', 'prop': '结构', 'begin_pos': 8, 'end_pos': 8, 'adj': '合理'}, {'sentiment': 2, 'abstract': '行文流畅<span></span>', 'prop': '环境', 'begin_pos': 8, 'end_pos': 8, 'adj': '行'}, {'sentiment': 0, 'abstract': '<span>2.需进一步提高策略观点的个性特征与创新水平</span>', 'prop': '水平一般', 'begin_pos': 0, 'end_pos': 42, 'adj': ''}]"
+0,2674949278349353501,[]
+0,3213014750463037245,[]
+0,5697267721868420541,"[{'sentiment': 2, 'abstract': '结构合理<span></span>', 'prop': '结构', 'begin_pos': 8, 'end_pos': 8, 'adj': '合理'}]"
+0,4541231100230857245,"[{'sentiment': 2, 'abstract': '论文整体设计<span>思路清晰</span>', 'prop': '思路', 'begin_pos': 12, 'end_pos': 20, 'adj': '清晰'}, {'sentiment': 2, 'abstract': '研究方法合理<span></span>', 'prop': '方法', 'begin_pos': 12, 'end_pos': 12, 'adj': '合理'}]"
+0,8167764845583698397,"[{'sentiment': 0, 'abstract': '国外研究资料单薄<span></span>', 'prop': '资料', 'begin_pos': 16, 'end_pos': 16, 'adj': '单薄'}]"
+0,6032467511883199741,"[{'sentiment': 2, 'abstract': '应对国外少年儿童活动中新媒体应用现状和研究成果有更深入了解<span></span>', 'prop': '确实', 'begin_pos': 58, 'end_pos': 58, 'adj': '新'}, {'sentiment': 0, 'abstract': '<span>对小学生采用问卷调查的可靠性应进一步考虑</span>', 'prop': '小学一般', 'begin_pos': 0, 'end_pos': 40, 'adj': ''}]"
+0,8221205103447248605,"[{'sentiment': 2, 'abstract': '研究方法合理<span></span>', 'prop': '方法', 'begin_pos': 12, 'end_pos': 12, 'adj': '合理'}]"
+0,3040122372998694973,"[{'sentiment': 0, 'abstract': '培训脱贫效能评价模型构建与调查内容之间的关系不明确<span></span>', 'prop': '关系', 'begin_pos': 50, 'end_pos': 50, 'adj': '明确'}]"
+0,8926046456337215037,"[{'sentiment': 2, 'abstract': '研究过程较为合理<span></span>', 'prop': '过程', 'begin_pos': 16, 'end_pos': 16, 'adj': '合理'}]"
+0,2098629857953662973,"[{'sentiment': 2, 'abstract': '研究过程较为合理<span></span>', 'prop': '过程', 'begin_pos': 16, 'end_pos': 16, 'adj': '合理'}, {'sentiment': 0, 'abstract': '<span>例如缺少城乡学生差距的原因分析以及相应的教学建议论文是有关初中生无理数掌握情况的调查</span>', 'prop': '教学质量一般', 'begin_pos': 0, 'end_pos': 84, 'adj': ''}]"
+0,3008950594582575965,[]
+0,2429665675617047325,[]
+0,6014847393293355197,[]
+0,4302383122313190973,"[{'sentiment': 0, 'abstract': '对照组的控制<span>过程不够详细</span>', 'prop': '过程', 'begin_pos': 12, 'end_pos': 24, 'adj': '不够详细'}]"
+0,9133319967030381821,[]
+0,2687336901655041021,"[{'sentiment': 2, 'abstract': '统计学方法在研究方法部分没有<span>详细说明</span>', 'prop': '说明', 'begin_pos': 28, 'end_pos': 36, 'adj': '详细'}]"
+0,5328416665924163549,[]
+0,7992935269902172285,[]
+0,5628371175254811485,[]
+0,4179105477203981309,[]
+0,4503984640117528957,[]
+0,1669498531661433597,[]
+0,3897100883223061981,[]
+0,3751239653956357181,"[{'sentiment': 2, 'abstract': '研究过程较为合理<span></span>', 'prop': '过程', 'begin_pos': 16, 'end_pos': 16, 'adj': '合理'}]"
+0,3983277102031409949,[]
+0,2903098174340234813,"[{'sentiment': 2, 'abstract': '研究<span>设计较为合理</span>', 'prop': '设计', 'begin_pos': 4, 'end_pos': 16, 'adj': '合理'}]"
+0,4882211648681696477,"[{'sentiment': 0, 'abstract': '<span>条理不清晰</span>', 'prop': '条理', 'begin_pos': 0, 'end_pos': 10, 'adj': '不清晰'}, {'sentiment': 0, 'abstract': '实验干预组和对照组<span>人数太少</span>', 'prop': '人数', 'begin_pos': 18, 'end_pos': 26, 'adj': '少'}, {'sentiment': 0, 'abstract': '2.干预实验由于被试<span>人数过少</span>', 'prop': '人数', 'begin_pos': 18, 'end_pos': 26, 'adj': '少'}]"
+0,3939764836934102941,[]
+0,1892637557551296861,[]
+0,4460568253123393917,"[{'sentiment': 2, 'abstract': '选题很好<span></span>', 'prop': '选题', 'begin_pos': 8, 'end_pos': 8, 'adj': '好'}, {'sentiment': 0, 'abstract': '<span>所展现教学案例略显粗糙</span>', 'prop': '教学质量一般', 'begin_pos': 0, 'end_pos': 22, 'adj': ''}]"
+0,6370211428500378493,[]
+0,7270158849653893949,"[{'sentiment': 0, 'abstract': '文章<span>条理不清晰</span>', 'prop': '条理', 'begin_pos': 4, 'end_pos': 14, 'adj': '不清晰'}]"
+0,8253147755957201469,[]
+0,172852483768105117,"[{'sentiment': 2, 'abstract': '<span>对于专业学位论文来说</span>', 'prop': '专业不错', 'begin_pos': 0, 'end_pos': 20, 'adj': ''}]"
+0,7949860854122091901,"[{'sentiment': 0, 'abstract': '一些地方存在语言运用不<span>准确的问题</span>', 'prop': '问题', 'begin_pos': 22, 'end_pos': 32, 'adj': '不准确'}, {'sentiment': 0, 'abstract': '一些地方存在<span>语言运用不准确</span>的问题', 'prop': '语言', 'begin_pos': 12, 'end_pos': 26, 'adj': '不准确'}]"
+0,7982760782774829725,[]
+0,4671698008570111197,"[{'sentiment': 0, 'abstract': '<span>应该进一步明晰并细化“课程组织实施”的内容</span>', 'prop': '课程一般', 'begin_pos': 0, 'end_pos': 42, 'adj': ''}, {'sentiment': 0, 'abstract': '不应忽略《幼儿园教育指导纲要（试行）》《3-6岁儿童学习与发展指南》等涉及科学<span>课程的重要</span>政策文件', 'prop': '课程', 'begin_pos': 75, 'end_pos': 85, 'adj': '重要'}, {'sentiment': 2, 'abstract': '选题合理<span></span>', 'prop': '选题', 'begin_pos': 8, 'end_pos': 8, 'adj': '合理'}]"
+0,5591516958409179101,"[{'sentiment': 2, 'abstract': '<span>论文聚焦北京高职院校计算机应用技术专业人才培养模式进行研究</span>', 'prop': '专业不错', 'begin_pos': 0, 'end_pos': 58, 'adj': ''}, {'sentiment': 2, 'abstract': '<span>论文以“北京高职院校计算机应用技术专业人才培养模式”为研究对象</span>', 'prop': '专业不错', 'begin_pos': 0, 'end_pos': 62, 'adj': ''}, {'sentiment': 2, 'abstract': '<span>研究对北京市高职院校计算机专业的人才培养模式进行了分析</span>', 'prop': '专业不错', 'begin_pos': 0, 'end_pos': 54, 'adj': ''}]"
+0,8631910062342584509,"[{'sentiment': 0, 'abstract': '<span>缺少对高职院校图书馆的服务功能存在问题的原因分析</span>', 'prop': '服务一般', 'begin_pos': 0, 'end_pos': 48, 'adj': ''}, {'sentiment': 2, 'abstract': '大数据与高职院校图书馆的服务功能的结合部分论述不足<span></span>', 'prop': '服务', 'begin_pos': 50, 'end_pos': 50, 'adj': '服务不错'}, {'sentiment': 2, 'abstract': '了解高职院校图书馆服务功能的现状<span></span>', 'prop': '服务', 'begin_pos': 32, 'end_pos': 32, 'adj': '服务不错'}]"
+0,7581479459094285757,[]
+0,915911183299647037,"[{'sentiment': 0, 'abstract': '结构<span>安排不合理</span>', 'prop': '安排', 'begin_pos': 4, 'end_pos': 14, 'adj': '不合理'}, {'sentiment': 2, 'abstract': '<span>符合本专业要求</span>', 'prop': '专业不错', 'begin_pos': 0, 'end_pos': 14, 'adj': ''}]"
+0,1884752817370345181,"[{'sentiment': 2, 'abstract': '结构比较合理<span></span>', 'prop': '结构', 'begin_pos': 12, 'end_pos': 12, 'adj': '合理'}, {'sentiment': 2, 'abstract': '个别章节内容<span>安排欠合理</span>（如3.2）个别案例译文欠准确（如例7和10）', 'prop': '安排', 'begin_pos': 12, 'end_pos': 22, 'adj': '合理'}, {'sentiment': 0, 'abstract': '3.陈旧参考文献偏多<span></span>', 'prop': '位置', 'begin_pos': 18, 'end_pos': 18, 'adj': '偏'}]"
+0,3399644005333491965,"[{'sentiment': 0, 'abstract': '或校对不认真处（如例20<span></span>', 'prop': '态度', 'begin_pos': 22, 'end_pos': 22, 'adj': '态度一般'}]"
+0,7041582117640990813,"[{'sentiment': 2, 'abstract': '结构合理<span></span>', 'prop': '结构', 'begin_pos': 8, 'end_pos': 8, 'adj': '合理'}, {'sentiment': 2, 'abstract': '文字表达较准确<span></span>', 'prop': '地方', 'begin_pos': 14, 'end_pos': 14, 'adj': '准确'}, {'sentiment': 0, 'abstract': '译者对原文中个别词句的理解不到位<span></span>', 'prop': '服务', 'begin_pos': 32, 'end_pos': 32, 'adj': '服务一般'}]"
+0,3949534565417430621,[]
+0,6319246451021926557,"[{'sentiment': 0, 'abstract': '<span>导致论文整体的应用性价值有所欠缺</span>', 'prop': '整体一般', 'begin_pos': 0, 'end_pos': 32, 'adj': ''}]"
+0,9117282505221680925,[]
+0,356321111146611677,[]
+0,3162984494400247581,"[{'sentiment': 2, 'abstract': '结构比较合理<span></span>', 'prop': '结构', 'begin_pos': 12, 'end_pos': 12, 'adj': '合理'}, {'sentiment': 0, 'abstract': '3.陈旧和无关参考文献偏多<span></span>', 'prop': '位置', 'begin_pos': 24, 'end_pos': 24, 'adj': '偏'}]"
+0,7068371054779021693,"[{'sentiment': 0, 'abstract': '论文写作<span>工作量大</span>', 'prop': '工作量', 'begin_pos': 8, 'end_pos': 16, 'adj': '大'}, {'sentiment': 1, 'abstract': '翻译任务<span>难度较大</span>', 'prop': '难度', 'begin_pos': 8, 'end_pos': 16, 'adj': '大'}]"
+0,1098527600820066845,"[{'sentiment': 2, 'abstract': '<span>论文选题符合专业学位要求</span>', 'prop': '专业不错', 'begin_pos': 0, 'end_pos': 24, 'adj': ''}, {'sentiment': 2, 'abstract': '结构合理<span></span>', 'prop': '结构', 'begin_pos': 8, 'end_pos': 8, 'adj': '合理'}, {'sentiment': 2, 'abstract': '<span>论文整体结构规范</span>', 'prop': '整体不错', 'begin_pos': 0, 'end_pos': 16, 'adj': ''}, {'sentiment': 0, 'abstract': '<span>与翻译硕士水平差距太大</span>', 'prop': '水平一般', 'begin_pos': 0, 'end_pos': 22, 'adj': ''}]"
+0,7316352499549621341,"[{'sentiment': 2, 'abstract': '结构比较合理<span></span>', 'prop': '结构', 'begin_pos': 12, 'end_pos': 12, 'adj': '合理'}]"
+0,308646478446877725,"[{'sentiment': 2, 'abstract': '<span>思路基本清晰</span>', 'prop': '思路', 'begin_pos': 0, 'end_pos': 12, 'adj': '清晰'}, {'sentiment': 2, 'abstract': '<span>符合专业要求</span>', 'prop': '专业不错', 'begin_pos': 0, 'end_pos': 12, 'adj': ''}]"
+0,1062863022386490205,"[{'sentiment': 2, 'abstract': '译文<span>整体较准确</span>流畅', 'prop': '整体', 'begin_pos': 4, 'end_pos': 14, 'adj': '准确'}, {'sentiment': 2, 'abstract': '译者实践工作量饱满<span></span>', 'prop': '量', 'begin_pos': 18, 'end_pos': 18, 'adj': '饱满'}]"
+0,105581164490896541,"[{'sentiment': 2, 'abstract': '结构比较合理<span></span>', 'prop': '结构', 'begin_pos': 12, 'end_pos': 12, 'adj': '合理'}, {'sentiment': 2, 'abstract': '<span>语言比较准确</span>', 'prop': '语言', 'begin_pos': 0, 'end_pos': 12, 'adj': '准确'}]"
+0,2724338005848225149,"[{'sentiment': 2, 'abstract': '论文<span>题目欠准确</span>', 'prop': '题目', 'begin_pos': 4, 'end_pos': 14, 'adj': '准确'}]"
+0,4453112101348373629,"[{'sentiment': 1, 'abstract': '翻译任务<span>难度较大</span>', 'prop': '难度', 'begin_pos': 8, 'end_pos': 16, 'adj': '大'}, {'sentiment': 0, 'abstract': '译文<span>质量一般</span>', 'prop': '质量', 'begin_pos': 4, 'end_pos': 12, 'adj': '一般'}]"
+0,4961745171449676477,"[{'sentiment': 1, 'abstract': '翻译任务<span>难度较大</span>', 'prop': '难度', 'begin_pos': 8, 'end_pos': 16, 'adj': '大'}, {'sentiment': 0, 'abstract': '译文<span>质量很一般</span>', 'prop': '质量', 'begin_pos': 4, 'end_pos': 14, 'adj': '一般'}, {'sentiment': 2, 'abstract': '<span>忽视了文章整体风格和文化内涵的把握</span>', 'prop': '整体不错', 'begin_pos': 0, 'end_pos': 34, 'adj': ''}]"
+0,8954496565280820445,"[{'sentiment': 2, 'abstract': '具有较好的实践意义<span></span>', 'prop': '感觉', 'begin_pos': 18, 'end_pos': 18, 'adj': '好'}, {'sentiment': 2, 'abstract': '论文研究<span>思路较清晰</span>', 'prop': '思路', 'begin_pos': 8, 'end_pos': 18, 'adj': '清晰'}]"
+0,5745178874390265949,"[{'sentiment': 0, 'abstract': '关键词<span>选择不准确</span>创新点表述不规范', 'prop': '选择', 'begin_pos': 6, 'end_pos': 16, 'adj': '不准确'}]"
+0,6329722533294142525,[]
+0,8428529111668705469,[]
+0,8804398922673111325,"[{'sentiment': 2, 'abstract': '具有较好的实践意义<span></span>', 'prop': '感觉', 'begin_pos': 18, 'end_pos': 18, 'adj': '好'}, {'sentiment': 2, 'abstract': '研究<span>思路较清晰</span>', 'prop': '思路', 'begin_pos': 4, 'end_pos': 14, 'adj': '清晰'}]"
+0,7444300875941057629,"[{'sentiment': 2, 'abstract': '<span>优点：选题符合专业要求</span>', 'prop': '专业不错', 'begin_pos': 0, 'end_pos': 22, 'adj': ''}]"
+0,2477385659267622749,"[{'sentiment': 2, 'abstract': '论证较合理<span></span>', 'prop': '价格', 'begin_pos': 10, 'end_pos': 10, 'adj': '价格低'}]"
+0,3286495060622577053,"[{'sentiment': 2, 'abstract': '<span>对于提高留学生的跨文化交际能力和促进对外汉语教学的发展具有一定的意义</span>', 'prop': '教学质量不错', 'begin_pos': 0, 'end_pos': 68, 'adj': ''}, {'sentiment': 2, 'abstract': '在问卷调查的<span>设计上还可以</span>更加切合语言交际的环境', 'prop': '设计', 'begin_pos': 12, 'end_pos': 24, 'adj': '还可以'}]"
+0,2703407189690566013,[]
+0,8461331134620460413,"[{'sentiment': 2, 'abstract': '选题合理<span></span>', 'prop': '选题', 'begin_pos': 8, 'end_pos': 8, 'adj': '合理'}]"
+0,293427911658243805,"[{'sentiment': 0, 'abstract': '结论借鉴意义和创新价值都一般<span></span>', 'prop': '意义', 'begin_pos': 28, 'end_pos': 28, 'adj': '一般'}, {'sentiment': 2, 'abstract': '学术<span>规范性很好</span>', 'prop': '规范', 'begin_pos': 4, 'end_pos': 14, 'adj': '很好'}]"
+0,7205461148976561373,[]
+0,1539770161938429437,[]
+0,4017644412409674845,[]
+0,5717679269427787197,[]
+0,5059712649534457757,[]
+0,1106987961371829853,[]
+0,184421693880687069,[]
+0,1150084721395090877,[]
+0,4411015490177509789,[]
+0,4096630893016095549,"[{'sentiment': 2, 'abstract': '<span>文章总体结构较为完整</span>', 'prop': '总体不错', 'begin_pos': 0, 'end_pos': 20, 'adj': ''}]"
+0,4416085524767674717,[]
+0,1779938911020733693,"[{'sentiment': 0, 'abstract': '<span>专业性一般</span>', 'prop': '专业性', 'begin_pos': 0, 'end_pos': 10, 'adj': '一般'}, {'sentiment': 0, 'abstract': '精神<span>压力大</span>', 'prop': '压力', 'begin_pos': 4, 'end_pos': 10, 'adj': '大'}]"
+0,4743845401724492317,"[{'sentiment': 2, 'abstract': '如在谈到内容的垂直化<span>特征明显</span>', 'prop': '特征', 'begin_pos': 20, 'end_pos': 28, 'adj': '明显'}]"
+0,5028539819536790525,[]
+0,2925672540576790173,"[{'sentiment': 2, 'abstract': '研究<span>思路清晰</span>', 'prop': '思路', 'begin_pos': 4, 'end_pos': 12, 'adj': '清晰'}]"
+0,6198459877852317661,"[{'sentiment': 2, 'abstract': '<span>内容很丰富</span>', 'prop': '内容', 'begin_pos': 0, 'end_pos': 10, 'adj': '丰富'}]"
+0,8976852261748838749,[]
+0,2554178452552028509,"[{'sentiment': 0, 'abstract': '<span>本文选择“数据新闻”与“环境报道”的交汇领域展开研究</span>', 'prop': '环境一般', 'begin_pos': 0, 'end_pos': 52, 'adj': ''}, {'sentiment': 2, 'abstract': '<span>整体框架较为合理</span>', 'prop': '整体不错', 'begin_pos': 0, 'end_pos': 16, 'adj': ''}]"
+0,5553035054438119005,[]
+0,6430705248671230301,"[{'sentiment': 0, 'abstract': '结构上存在不<span>准确的问题</span>', 'prop': '问题', 'begin_pos': 12, 'end_pos': 22, 'adj': '不准确'}]"
+0,6171776534108129853,"[{'sentiment': 0, 'abstract': '但翻译任务完成<span>质量一般</span>', 'prop': '质量', 'begin_pos': 14, 'end_pos': 22, 'adj': '一般'}, {'sentiment': 0, 'abstract': '译文<span>水平较低</span>', 'prop': '水平', 'begin_pos': 4, 'end_pos': 12, 'adj': '低'}]"
+0,1947746633908886557,"[{'sentiment': 2, 'abstract': '选题准确<span></span>', 'prop': '选题', 'begin_pos': 8, 'end_pos': 8, 'adj': '准确'}, {'sentiment': 2, 'abstract': '基本结构合理<span></span>', 'prop': '结构', 'begin_pos': 12, 'end_pos': 12, 'adj': '合理'}, {'sentiment': 0, 'abstract': '分析偏肤浅<span></span>', 'prop': '位置', 'begin_pos': 10, 'end_pos': 10, 'adj': '偏'}]"
+0,1865849165238731037,"[{'sentiment': 0, 'abstract': '论文对翻译过程中的问题提炼总结不到位<span></span>', 'prop': '服务', 'begin_pos': 36, 'end_pos': 36, 'adj': '服务一般'}]"
+0,7067475018435771997,[]
+0,8188429799880995261,[]
+0,5687369120920676445,"[{'sentiment': 0, 'abstract': '结论偏笼统<span></span>', 'prop': '位置', 'begin_pos': 10, 'end_pos': 10, 'adj': '偏'}, {'sentiment': 2, 'abstract': '<span>专业学位硕士毕业论文要求是基于真实任务的实践总结</span>', 'prop': '专业不错', 'begin_pos': 0, 'end_pos': 48, 'adj': ''}]"
+0,1350198807135074973,"[{'sentiment': 2, 'abstract': '有很好的学术价值与现实意义<span></span>', 'prop': '感觉', 'begin_pos': 26, 'end_pos': 26, 'adj': '好'}, {'sentiment': 2, 'abstract': '<span>内容较丰富</span>', 'prop': '内容', 'begin_pos': 0, 'end_pos': 10, 'adj': '丰富'}, {'sentiment': 2, 'abstract': '<span>条理较为清晰</span>', 'prop': '条理', 'begin_pos': 0, 'end_pos': 12, 'adj': '清晰'}]"
+0,539408750771943421,"[{'sentiment': 2, 'abstract': '<span>条理清晰</span>', 'prop': '条理', 'begin_pos': 0, 'end_pos': 8, 'adj': '清晰'}]"
+0,8721188632989934365,"[{'sentiment': 2, 'abstract': '文笔流畅<span></span>', 'prop': '文笔', 'begin_pos': 8, 'end_pos': 8, 'adj': '流畅'}, {'sentiment': 2, 'abstract': '<span>条理清晰</span>', 'prop': '条理', 'begin_pos': 0, 'end_pos': 8, 'adj': '清晰'}]"
+0,3333360350578399741,"[{'sentiment': 2, 'abstract': '是一篇较为优秀的硕士学位论文<span></span>', 'prop': '确实', 'begin_pos': 28, 'end_pos': 28, 'adj': '优秀'}]"
+0,2838894715888656957,"[{'sentiment': 2, 'abstract': '论文选题不错<span></span>', 'prop': '选题', 'begin_pos': 12, 'end_pos': 12, 'adj': '不错'}]"
+0,6883599296569419069,"[{'sentiment': 2, 'abstract': '<span>总体行文基本规范</span>', 'prop': '总体不错', 'begin_pos': 0, 'end_pos': 16, 'adj': ''}, {'sentiment': 0, 'abstract': '但论文的<span>语言表述不够准确</span>', 'prop': '语言', 'begin_pos': 8, 'end_pos': 24, 'adj': '不够准确'}]"
+0,190930913939299837,[]
+0,6361090703111976701,"[{'sentiment': 2, 'abstract': '语言通畅<span></span>', 'prop': '语言', 'begin_pos': 8, 'end_pos': 8, 'adj': '通畅'}, {'sentiment': 2, 'abstract': '<span>对两部词典的收词和释义方面的分析和建议也带有一定的主观色彩</span>', 'prop': '色彩不错', 'begin_pos': 0, 'end_pos': 58, 'adj': ''}]"
+0,5839589299925028445,[]
+0,4718458064190599965,"[{'sentiment': 2, 'abstract': '说明了对文献<span>研究缺乏认真</span>细致的态度', 'prop': '研究', 'begin_pos': 12, 'end_pos': 24, 'adj': '认真'}]"
+0,4992315326720286205,"[{'sentiment': 2, 'abstract': '是一篇较好的硕士毕业论文<span></span>', 'prop': '感觉', 'begin_pos': 24, 'end_pos': 24, 'adj': '好'}]"
+0,71735070105246557,"[{'sentiment': 2, 'abstract': '论文选题合理<span></span>', 'prop': '感觉', 'begin_pos': 12, 'end_pos': 12, 'adj': '合理'}, {'sentiment': 2, 'abstract': '逻辑清晰<span></span>', 'prop': '逻辑', 'begin_pos': 8, 'end_pos': 8, 'adj': '清晰'}, {'sentiment': 2, 'abstract': '论文选题合理<span></span>', 'prop': '感觉', 'begin_pos': 12, 'end_pos': 12, 'adj': '合理'}]"
+0,8518100293320890781,"[{'sentiment': 2, 'abstract': '人为主观因素<span>影响太大</span>', 'prop': '影响', 'begin_pos': 12, 'end_pos': 20, 'adj': '大'}]"
+0,7880416186221096573,"[{'sentiment': 2, 'abstract': '<span>条理清晰</span>', 'prop': '条理', 'begin_pos': 0, 'end_pos': 8, 'adj': '清晰'}, {'sentiment': 0, 'abstract': '<span>但边界条件设置不够科学</span>', 'prop': '条件一般', 'begin_pos': 0, 'end_pos': 22, 'adj': ''}]"
+0,6619045880109976029,[]
+0,4700801450205946685,[]
+0,168096551971291517,[]
+0,4259859449781341821,[]
+0,6544618872203444829,[]
+0,1401762976133543421,[]
+0,5211823804938453309,[]
+0,8081571081787886909,[]
+0,3184935289735884029,[]
+0,8253222811978879837,"[{'sentiment': 0, 'abstract': '图表格式<span>规范一般</span>', 'prop': '规范', 'begin_pos': 8, 'end_pos': 16, 'adj': '一般'}, {'sentiment': 2, 'abstract': '个别参考文献格式不一致图表格式<span>规范一般</span>', 'prop': '规范', 'begin_pos': 30, 'end_pos': 38, 'adj': '一般'}, {'sentiment': 2, 'abstract': '个别参考文献格式不一致图表格式<span>规范一般</span>', 'prop': '规范', 'begin_pos': 30, 'end_pos': 38, 'adj': '一般'}]"
+0,7362521363236861981,[]
+0,9148114843451880221,"[{'sentiment': 0, 'abstract': '<span>工作量大</span>', 'prop': '工作量', 'begin_pos': 0, 'end_pos': 8, 'adj': '大'}, {'sentiment': 2, 'abstract': '分析合理<span></span>', 'prop': '价格', 'begin_pos': 8, 'end_pos': 8, 'adj': '价格低'}, {'sentiment': 2, 'abstract': '是一篇优秀的学位论文<span></span>', 'prop': '确实', 'begin_pos': 20, 'end_pos': 20, 'adj': '优秀'}]"
+0,7525189997123211965,"[{'sentiment': 0, 'abstract': '<span>工作量较大</span>', 'prop': '工作量', 'begin_pos': 0, 'end_pos': 10, 'adj': '大'}, {'sentiment': 2, 'abstract': '分析合理<span></span>', 'prop': '价格', 'begin_pos': 8, 'end_pos': 8, 'adj': '价格低'}, {'sentiment': 2, 'abstract': '逻辑清晰<span></span>', 'prop': '逻辑', 'begin_pos': 8, 'end_pos': 8, 'adj': '清晰'}, {'sentiment': 2, 'abstract': '是一篇优秀的学位论文<span></span>', 'prop': '确实', 'begin_pos': 20, 'end_pos': 20, 'adj': '优秀'}, {'sentiment': 0, 'abstract': '1.排版不认真<span></span>', 'prop': '态度', 'begin_pos': 12, 'end_pos': 12, 'adj': '态度一般'}]"
+0,784544270947490717,"[{'sentiment': 0, 'abstract': '论文<span>工作量较大</span>', 'prop': '工作量', 'begin_pos': 4, 'end_pos': 14, 'adj': '大'}, {'sentiment': 2, 'abstract': '论文<span>工作较为细致</span>', 'prop': '工作', 'begin_pos': 4, 'end_pos': 16, 'adj': '细致'}, {'sentiment': 2, 'abstract': '格式清晰<span></span>', 'prop': '格式', 'begin_pos': 8, 'end_pos': 8, 'adj': '清晰'}, {'sentiment': 0, 'abstract': '<span>但总体思路逻辑性不够强</span>', 'prop': '总体一般', 'begin_pos': 0, 'end_pos': 22, 'adj': ''}]"
+0,5386078443043189885,"[{'sentiment': 0, 'abstract': '论文<span>工作量较大</span>', 'prop': '工作量', 'begin_pos': 4, 'end_pos': 14, 'adj': '大'}, {'sentiment': 2, 'abstract': '数据翔实并分析合理<span></span>', 'prop': '感觉', 'begin_pos': 18, 'end_pos': 18, 'adj': '合理'}]"
+0,628865980867307357,"[{'sentiment': 0, 'abstract': '论文<span>工作量较大</span>', 'prop': '工作量', 'begin_pos': 4, 'end_pos': 14, 'adj': '大'}, {'sentiment': 2, 'abstract': '数据翔实并分析合理<span></span>', 'prop': '感觉', 'begin_pos': 18, 'end_pos': 18, 'adj': '合理'}, {'sentiment': 2, 'abstract': '本论文缺乏这两<span>方面的详细</span>讨论及研究', 'prop': '方面', 'begin_pos': 14, 'end_pos': 24, 'adj': '详细'}, {'sentiment': 2, 'abstract': '\n结论部分<span>语言需精炼</span>', 'prop': '语言', 'begin_pos': 9, 'end_pos': 19, 'adj': '精炼'}]"
+0,884400105362445405,"[{'sentiment': 0, 'abstract': '底白偏大<span></span>', 'prop': '位置', 'begin_pos': 8, 'end_pos': 8, 'adj': '偏'}, {'sentiment': 2, 'abstract': '数据翔实并分析合理<span></span>', 'prop': '感觉', 'begin_pos': 18, 'end_pos': 18, 'adj': '合理'}]"
+0,881571667033698013,[]
+0,17814046790793277,"[{'sentiment': 0, 'abstract': '论文<span>工作量较大</span>', 'prop': '工作量', 'begin_pos': 4, 'end_pos': 14, 'adj': '大'}]"
+0,8726424699651461309,"[{'sentiment': 2, 'abstract': '论文<span>整体很好</span>', 'prop': '总体', 'begin_pos': 4, 'end_pos': 12, 'adj': '好'}, {'sentiment': 2, 'abstract': '研究<span>内容丰富</span>', 'prop': '内容', 'begin_pos': 4, 'end_pos': 12, 'adj': '丰富'}, {'sentiment': 2, 'abstract': '具有很好的创新性<span></span>', 'prop': '感觉', 'begin_pos': 16, 'end_pos': 16, 'adj': '好'}, {'sentiment': 2, 'abstract': '行文流畅<span></span>', 'prop': '环境', 'begin_pos': 8, 'end_pos': 8, 'adj': '行'}]"
+0,4235023254110997277,"[{'sentiment': 0, 'abstract': '作者并未在文中<span>详细说明</span>', 'prop': '说明', 'begin_pos': 14, 'end_pos': 22, 'adj': '详细'}]"
+0,137204030103348477,[]
+0,5595038839949152253,[]
+0,4605657391785159549,[]
+0,1633614897288839421,[]
+0,9116049699461899965,[]
+0,7428157371253759581,"[{'sentiment': 0, 'abstract': '<span>文中部分对结果的分析不充分该论文筛选催化s型1-6环化倍半粘合酶的结晶条件</span>', 'prop': '条件一般', 'begin_pos': 0, 'end_pos': 70, 'adj': ''}, {'sentiment': 0, 'abstract': '<span>主要不足之处在于对结晶条件的优化不够理想吗</span>', 'prop': '条件一般', 'begin_pos': 0, 'end_pos': 42, 'adj': ''}]"
+0,2923168106276200637,[]
+0,3314604534071614365,[]
+0,3532747738207612733,[]
+0,3240875235662310429,[]
+0,7069918220662932061,"[{'sentiment': 0, 'abstract': '<span>语言表达不够精炼</span>', 'prop': '语言', 'begin_pos': 0, 'end_pos': 16, 'adj': '不够精炼'}]"
+0,8331979594493704701,[]
+0,4011882257425412669,[]
+0,5079492980471540413,[]
+0,2156200818181779933,[]
+0,266250313041949277,[]
+0,4316985167973203261,[]
+0,2153803741754570205,[]
+0,9010532151139998717,[]
+0,2224519366593000221,[]
+0,804056334412300573,"[{'sentiment': 2, 'abstract': '具有较好的研究意义和应用价值<span></span>', 'prop': '感觉', 'begin_pos': 28, 'end_pos': 28, 'adj': '好'}]"
+0,7807537085533383101,[]
+0,1156524218196387581,"[{'sentiment': 2, 'abstract': '对本科国内外发展状况和学术动态的了解<span>程度没有详细</span>表达', 'prop': '程度', 'begin_pos': 36, 'end_pos': 48, 'adj': '详细'}]"
+0,4552334168051689757,"[{'sentiment': 0, 'abstract': '参考文献偏少比较陈旧<span></span>', 'prop': '位置', 'begin_pos': 20, 'end_pos': 20, 'adj': '偏'}]"
+0,6036783262149018461,"[{'sentiment': 0, 'abstract': '实际数据偏少<span></span>', 'prop': '位置', 'begin_pos': 12, 'end_pos': 12, 'adj': '偏'}]"
+0,6011004799018972957,[]
+0,18,Open api qps request limit reached
+0,4031226461646704093,[]
+0,8852032210014026749,"[{'sentiment': 0, 'abstract': '已有的前人结果作为预备<span>知识不需详细</span>文中一些结果是引用已有文献的结论', 'prop': '知识', 'begin_pos': 22, 'end_pos': 34, 'adj': '不详细'}]"
+0,3024706077547091389,"[{'sentiment': 2, 'abstract': '提出了新的方法<span>语言准确</span>', 'prop': '语言', 'begin_pos': 14, 'end_pos': 22, 'adj': '准确'}, {'sentiment': 2, 'abstract': '<span>条理清晰</span>', 'prop': '条理', 'begin_pos': 0, 'end_pos': 8, 'adj': '清晰'}]"
+0,7695974884488368989,[]
+0,4257086743639805629,[]
+0,8512402230085521437,[]
+0,1554424331984428093,"[{'sentiment': 0, 'abstract': '不合理<span></span>', 'prop': '价格', 'begin_pos': 6, 'end_pos': 6, 'adj': '价格高'}]"
+0,3583586087241975037,"[{'sentiment': 0, 'abstract': '研究<span>方法一般</span>', 'prop': '方法', 'begin_pos': 4, 'end_pos': 12, 'adj': '一般'}]"
+0,1499109620146109885,"[{'sentiment': 2, 'abstract': '结构<span>安排合理</span>.分析过程有逻辑', 'prop': '安排', 'begin_pos': 4, 'end_pos': 12, 'adj': '合理'}, {'sentiment': 2, 'abstract': '<span>语言表达准确</span>合理', 'prop': '语言', 'begin_pos': 0, 'end_pos': 12, 'adj': '准确'}]"
+0,206939073474934877,[]
+0,2101080067067404285,[]
+0,9044852570701963965,[]
+0,7836926497896796637,"[{'sentiment': 2, 'abstract': '论文<span>思路清晰</span>', 'prop': '思路', 'begin_pos': 4, 'end_pos': 12, 'adj': '清晰'}]"
+0,7520078270890865789,"[{'sentiment': 2, 'abstract': '论文的选题和研究<span>方法都很好</span>', 'prop': '方法', 'begin_pos': 16, 'end_pos': 26, 'adj': '好'}]"
+0,8741873103772221053,[]
+0,3140592094835446781,[]
+0,6253476603590204509,[]
+0,5654909257088507613,[]
+0,6738264341134675101,"[{'sentiment': 2, 'abstract': '<span>条理清晰</span>', 'prop': '条理', 'begin_pos': 0, 'end_pos': 8, 'adj': '清晰'}]"
+0,2180581286396393853,[]
+0,60554998666166333,"[{'sentiment': 0, 'abstract': '<span>工作量较大</span>', 'prop': '工作量', 'begin_pos': 0, 'end_pos': 10, 'adj': '大'}, {'sentiment': 2, 'abstract': '并且其循环<span>使用性良好</span>”与实验数据不相符', 'prop': '使用', 'begin_pos': 10, 'end_pos': 20, 'adj': '良好'}]"
+0,1614411376853334653,[]
+0,1152697226234023453,"[{'sentiment': 2, 'abstract': '<span>实验数据可信</span>', 'prop': '实验', 'begin_pos': 0, 'end_pos': 12, 'adj': '可信'}, {'sentiment': 2, 'abstract': '写作<span>水平良好</span>', 'prop': '水平', 'begin_pos': 4, 'end_pos': 12, 'adj': '良好'}]"
+0,2806775590810710941,"[{'sentiment': 0, 'abstract': '<span>缺乏条件的优化</span>', 'prop': '条件一般', 'begin_pos': 0, 'end_pos': 14, 'adj': ''}, {'sentiment': 2, 'abstract': '<span>论文研究方法和思路合理清晰</span>', 'prop': '思路', 'begin_pos': 0, 'end_pos': 26, 'adj': '清晰'}]"
+0,4055219452806036157,[]
+0,7282197956798440637,"[{'sentiment': 2, 'abstract': '选题正确<span></span>', 'prop': '选题', 'begin_pos': 8, 'end_pos': 8, 'adj': '正确'}, {'sentiment': 2, 'abstract': '图表清晰<span></span>', 'prop': '图表', 'begin_pos': 8, 'end_pos': 8, 'adj': '清晰'}, {'sentiment': 2, 'abstract': '修改意见：1）表6.4和图6.7中提及蠕化率实测值<span></span>', 'prop': '感觉', 'begin_pos': 43, 'end_pos': 43, 'adj': '值'}]"
+0,7015827922669643645,"[{'sentiment': 2, 'abstract': '图表清晰<span></span>', 'prop': '图表', 'begin_pos': 8, 'end_pos': 8, 'adj': '清晰'}]"
+0,5345063210092864445,[]
+0,870519972586792925,"[{'sentiment': 2, 'abstract': '文献综述中关于合金<span>元素对</span>蠕墨铸铁热分析曲线', 'prop': '元素', 'begin_pos': 18, 'end_pos': 24, 'adj': '对'}, {'sentiment': 2, 'abstract': '论文采用实验方法研究合金<span>元素对</span>蠕墨铸铁热分析曲线特征值的影响', 'prop': '元素', 'begin_pos': 24, 'end_pos': 30, 'adj': '对'}]"
+0,8257209589023335773,[]
+0,3877499122753193501,[]
+0,1005465619187793949,[]
+0,4192452663162499773,"[{'sentiment': 2, 'abstract': '<span>整体研究过程较为完整</span>', 'prop': '整体不错', 'begin_pos': 0, 'end_pos': 20, 'adj': ''}]"
+0,5424358719217153757,"[{'sentiment': 2, 'abstract': '研究<span>内容比较丰富</span>', 'prop': '内容', 'begin_pos': 4, 'end_pos': 16, 'adj': '丰富'}, {'sentiment': 2, 'abstract': '研究<span>思路较为清晰</span>', 'prop': '思路', 'begin_pos': 4, 'end_pos': 16, 'adj': '清晰'}]"
+0,3868811095067530813,"[{'sentiment': 2, 'abstract': '所取得的成果具有较好的创新性<span></span>', 'prop': '感觉', 'begin_pos': 28, 'end_pos': 28, 'adj': '好'}]"
+0,6657845618476505757,"[{'sentiment': 2, 'abstract': '摩擦对型材拉弯<span>影响较大</span>', 'prop': '影响', 'begin_pos': 14, 'end_pos': 22, 'adj': '大'}, {'sentiment': 2, 'abstract': '忽略摩擦对研究结果会造成较<span>大影响</span>', 'prop': '影响', 'begin_pos': 26, 'end_pos': 32, 'adj': '大'}]"
+0,8781305437232650301,[]
+0,7555195327258154781,"[{'sentiment': 2, 'abstract': '但本文在研究驱动力的大小与非晶形成能力对应关系方面做了较<span>好的工作</span>', 'prop': '工作', 'begin_pos': 56, 'end_pos': 64, 'adj': '好'}]"
+0,7409645210003193181,"[{'sentiment': 2, 'abstract': '<span>实验数据可信</span>', 'prop': '实验', 'begin_pos': 0, 'end_pos': 12, 'adj': '可信'}, {'sentiment': 2, 'abstract': '写作<span>水平良好</span>', 'prop': '水平', 'begin_pos': 4, 'end_pos': 12, 'adj': '良好'}, {'sentiment': 2, 'abstract': '图表<span>质量高</span>', 'prop': '质量', 'begin_pos': 4, 'end_pos': 10, 'adj': '高'}]"
+0,3222629203251281149,[]
+0,355775354613211933,"[{'sentiment': 2, 'abstract': '论文<span>质量较好</span>', 'prop': '教学质量', 'begin_pos': 4, 'end_pos': 12, 'adj': '好'}, {'sentiment': 0, 'abstract': '1.关键词<span>选择不准确</span>', 'prop': '选择', 'begin_pos': 8, 'end_pos': 18, 'adj': '不准确'}]"
+0,1266778512654430813,"[{'sentiment': 2, 'abstract': '研究成果具有一定的新意<span></span>', 'prop': '确实', 'begin_pos': 22, 'end_pos': 22, 'adj': '新'}]"
+0,7933775313521136317,"[{'sentiment': 2, 'abstract': '层次清晰<span></span>', 'prop': '层次', 'begin_pos': 8, 'end_pos': 8, 'adj': '清晰'}, {'sentiment': 2, 'abstract': '论据可靠<span></span>', 'prop': '论据', 'begin_pos': 8, 'end_pos': 8, 'adj': '可靠'}]"
+0,6908864734016668765,[]
+0,8866690530409331037,"[{'sentiment': 2, 'abstract': '\n2.注意语言表达的准确性<span></span>', 'prop': '地方', 'begin_pos': 23, 'end_pos': 23, 'adj': '准确'}]"
+0,6195475873823735069,[]
+0,6076018312868445789,[]
+0,7217010862525801277,[]
+0,1718881844747680445,"[{'sentiment': 2, 'abstract': '数据丰富<span></span>', 'prop': '数据', 'begin_pos': 8, 'end_pos': 8, 'adj': '丰富'}, {'sentiment': 2, 'abstract': '方案合理<span></span>', 'prop': '方案', 'begin_pos': 8, 'end_pos': 8, 'adj': '合理'}]"
+0,8336561822501621565,[]
+0,3535235736311448509,"[{'sentiment': 2, 'abstract': '得到了合理的热处理工艺<span></span>', 'prop': '感觉', 'begin_pos': 22, 'end_pos': 22, 'adj': '合理'}]"
+0,7355953265759413661,"[{'sentiment': 2, 'abstract': '层次清晰<span></span>', 'prop': '层次', 'begin_pos': 8, 'end_pos': 8, 'adj': '清晰'}]"
+0,2023972434604368061,"[{'sentiment': 2, 'abstract': '<span>实验数据可信</span>', 'prop': '实验', 'begin_pos': 0, 'end_pos': 12, 'adj': '可信'}, {'sentiment': 2, 'abstract': '写作<span>水平良好</span>', 'prop': '水平', 'begin_pos': 4, 'end_pos': 12, 'adj': '良好'}, {'sentiment': 2, 'abstract': '是由于ti比nb微合金化<span>效果好</span>', 'prop': '学习效果', 'begin_pos': 20, 'end_pos': 26, 'adj': '好'}, {'sentiment': 0, 'abstract': '单纯提出ti的<span>作用不准确</span>', 'prop': '作用', 'begin_pos': 12, 'end_pos': 22, 'adj': '不准确'}]"
+0,6338689279533489373,"[{'sentiment': 2, 'abstract': '既然论文的题目是“稀土<span>元素对</span>富铁铝硅系合金组织与性能的影响”', 'prop': '元素', 'begin_pos': 22, 'end_pos': 28, 'adj': '对'}, {'sentiment': 2, 'abstract': '<span>实验数据可信</span>', 'prop': '实验', 'begin_pos': 0, 'end_pos': 12, 'adj': '可信'}, {'sentiment': 2, 'abstract': '写作<span>水平良好</span>', 'prop': '水平', 'begin_pos': 4, 'end_pos': 12, 'adj': '良好'}]"
+0,5919643867486967869,"[{'sentiment': 0, 'abstract': '个别页版面差摘要太长<span></span>', 'prop': '服务', 'begin_pos': 20, 'end_pos': 20, 'adj': '服务一般'}]"
+0,4033569648890019453,"[{'sentiment': 2, 'abstract': '<span>在设施配置研究中设施选择值得商榷</span>', 'prop': '设施不错', 'begin_pos': 0, 'end_pos': 32, 'adj': ''}]"
+0,7326038732921593309,[]
+0,389547338995258621,[]
+0,3172680013256990493,[]
+0,5167453189598485405,[]
+0,673372241153819709,"[{'sentiment': 0, 'abstract': '论文写作<span>态度不认真</span>', 'prop': '态度', 'begin_pos': 8, 'end_pos': 18, 'adj': '不认真'}]"
+0,367200534336963133,[]
+0,1852111247868456189,[]
+0,2779475210067975741,"[{'sentiment': 2, 'abstract': '论文主要存在以下问题和不足：\n1.实验目的及<span>方法最好</span>放到国内外研究现状之后', 'prop': '方法', 'begin_pos': 41, 'end_pos': 49, 'adj': '好'}]"
+0,8359435766503589853,[]
+0,616324113547835453,[]
+0,5512487025794575709,"[{'sentiment': 2, 'abstract': '层次清晰<span></span>', 'prop': '层次', 'begin_pos': 8, 'end_pos': 8, 'adj': '清晰'}]"
+0,8461691149746520797,[]
+0,3195761746642746205,"[{'sentiment': 0, 'abstract': '但对地下水的影响范围和对现今环境的影响规律并未指明<span></span>', 'prop': '环境', 'begin_pos': 50, 'end_pos': 50, 'adj': '环境一般'}]"
+0,7021009945897978877,[]
+0,983047822184016573,"[{'sentiment': 0, 'abstract': '\n3.结论可信度相对较低<span></span>', 'prop': '结论', 'begin_pos': 21, 'end_pos': 21, 'adj': '低'}]"
+0,7693358291675722621,"[{'sentiment': 2, 'abstract': '<span>总体来说是一篇较优秀的硕士毕业论文</span>', 'prop': '总体不错', 'begin_pos': 0, 'end_pos': 34, 'adj': ''}, {'sentiment': 2, 'abstract': '构造条件等<span>内容进行详细</span>阐述', 'prop': '内容', 'begin_pos': 10, 'end_pos': 22, 'adj': '详细'}]"
+0,6765675583872764029,"[{'sentiment': 2, 'abstract': '研究方案合理<span></span>', 'prop': '方案', 'begin_pos': 12, 'end_pos': 12, 'adj': '合理'}]"
+0,7769895516988043261,"[{'sentiment': 2, 'abstract': '污水排放和水质四个方面构建城市水环境综合质量研究的指标体系<span></span>', 'prop': '环境', 'begin_pos': 58, 'end_pos': 58, 'adj': '环境不错'}, {'sentiment': 2, 'abstract': '对于了解全国的城市水环境概况<span></span>', 'prop': '环境', 'begin_pos': 28, 'end_pos': 28, 'adj': '环境不错'}, {'sentiment': 2, 'abstract': '研究成果具有一定的新意<span></span>', 'prop': '确实', 'begin_pos': 22, 'end_pos': 22, 'adj': '新'}, {'sentiment': 0, 'abstract': '论文<span>工作量大</span>', 'prop': '工作量', 'begin_pos': 4, 'end_pos': 12, 'adj': '大'}]"
+0,8510938878701753213,[]
+0,7952608853439964093,"[{'sentiment': 0, 'abstract': '论文<span>工作量大</span>', 'prop': '工作量', 'begin_pos': 4, 'end_pos': 12, 'adj': '大'}]"
+0,5119262804380094109,[]
+0,3302389442915090749,"[{'sentiment': 2, 'abstract': '研究成果具有一定的新意<span></span>', 'prop': '确实', 'begin_pos': 22, 'end_pos': 22, 'adj': '新'}]"
+0,6293375156767290205,[]
+0,7961775580277525245,"[{'sentiment': 2, 'abstract': '探讨抗震<span>效果好</span>的最佳尺寸\n\n该论文研究了足尺钢筋混凝土短柱的抗震性能', 'prop': '学习效果', 'begin_pos': 8, 'end_pos': 14, 'adj': '好'}]"
+0,2471011878062383005,[]
+0,8675533219600424669,"[{'sentiment': 2, 'abstract': '为余吾矿安全科学合理采煤提供了技术支撑<span></span>', 'prop': '科学', 'begin_pos': 38, 'end_pos': 38, 'adj': '合理'}]"
+0,2424598819357527933,"[{'sentiment': 2, 'abstract': '（1）论文<span>思路清晰</span>', 'prop': '思路', 'begin_pos': 9, 'end_pos': 17, 'adj': '清晰'}, {'sentiment': 2, 'abstract': '结构合理<span></span>', 'prop': '结构', 'begin_pos': 8, 'end_pos': 8, 'adj': '合理'}, {'sentiment': 0, 'abstract': '<span>地球化学特征及其地质指示意义（构造环境</span>', 'prop': '环境一般', 'begin_pos': 0, 'end_pos': 38, 'adj': ''}]"
+0,8304054419142822941,"[{'sentiment': 2, 'abstract': '论文<span>思路清晰</span>', 'prop': '思路', 'begin_pos': 4, 'end_pos': 12, 'adj': '清晰'}, {'sentiment': 2, 'abstract': '<span>内容比较丰富</span>', 'prop': '内容', 'begin_pos': 0, 'end_pos': 12, 'adj': '丰富'}]"
+0,3789482011955481661,"[{'sentiment': 2, 'abstract': '论文选题合理<span></span>', 'prop': '感觉', 'begin_pos': 12, 'end_pos': 12, 'adj': '合理'}, {'sentiment': 0, 'abstract': '完成工作量等<span>内容叙述不准确</span>', 'prop': '内容', 'begin_pos': 12, 'end_pos': 26, 'adj': '不准确'}, {'sentiment': 0, 'abstract': '实质性内容偏少<span></span>', 'prop': '位置', 'begin_pos': 14, 'end_pos': 14, 'adj': '偏'}]"
+0,2157467412011331325,"[{'sentiment': 0, 'abstract': '结论偏简单<span></span>', 'prop': '位置', 'begin_pos': 10, 'end_pos': 10, 'adj': '偏'}]"
+0,980194458157058525,"[{'sentiment': 0, 'abstract': '<span>对成矿条件分析的理论综述应再加强些国内外研究现状了解不够</span>', 'prop': '条件一般', 'begin_pos': 0, 'end_pos': 56, 'adj': ''}, {'sentiment': 2, 'abstract': '论文<span>工作量不大</span>', 'prop': '工作量', 'begin_pos': 4, 'end_pos': 14, 'adj': '不大'}]"
+0,1177408157182689021,[]
+0,1170793694334527389,[]
+0,8170258461937962717,[]
+0,8530856274742169053,[]
+0,924543768504438781,[]
+0,6393288715862510653,[]
+0,4133981482882259421,[]
+0,679858340105164413,[]
+0,1692270883949993597,[]
+0,7779049926150507837,"[{'sentiment': 0, 'abstract': '对于环境分析的现状及方法综述不够全面<span></span>', 'prop': '环境', 'begin_pos': 36, 'end_pos': 36, 'adj': '环境一般'}, {'sentiment': 0, 'abstract': '部分插图不够规范国内外研究现状不足<span></span>', 'prop': '现状', 'begin_pos': 34, 'end_pos': 34, 'adj': '不足'}]"
+0,3052243463473144381,"[{'sentiment': 0, 'abstract': '缺少矿石结构方向的镜下及手标本的照片国内外研究现状内容偏少<span></span>', 'prop': '位置', 'begin_pos': 58, 'end_pos': 58, 'adj': '偏'}]"
+0,7945982427263085661,"[{'sentiment': 0, 'abstract': '镜下照片样品<span>信息不全面</span>', 'prop': '信息', 'begin_pos': 12, 'end_pos': 22, 'adj': '不全面'}]"
+0,8880673586673333181,"[{'sentiment': 2, 'abstract': '<span>论文摘要中提到主要研究成果之一是侵入岩的形成构造环境</span>', 'prop': '环境不错', 'begin_pos': 0, 'end_pos': 52, 'adj': ''}]"
+0,3341721117063363741,"[{'sentiment': 0, 'abstract': '部分图件不够规范国内外研究现状不足<span></span>', 'prop': '现状', 'begin_pos': 34, 'end_pos': 34, 'adj': '不足'}]"
+0,527108699613816669,[]
+0,9071106956539325789,"[{'sentiment': 2, 'abstract': '分析解决问题<span>能力强</span>', 'prop': '能力', 'begin_pos': 12, 'end_pos': 18, 'adj': '强'}]"
+0,869647206866792413,"[{'sentiment': 2, 'abstract': '论文<span>内容丰富</span>', 'prop': '内容', 'begin_pos': 4, 'end_pos': 12, 'adj': '丰富'}, {'sentiment': 0, 'abstract': '个别语句表述欠规范国内外研究现状不足<span></span>', 'prop': '现状', 'begin_pos': 36, 'end_pos': 36, 'adj': '不足'}]"
+0,4383927346750092733,"[{'sentiment': 2, 'abstract': '<span>内容丰富</span>', 'prop': '内容', 'begin_pos': 0, 'end_pos': 8, 'adj': '丰富'}]"
+0,1885028709943269309,[]
+0,5945074980409170781,"[{'sentiment': 2, 'abstract': '论文选题合理<span></span>', 'prop': '感觉', 'begin_pos': 12, 'end_pos': 12, 'adj': '合理'}]"
+0,3131369020024971101,"[{'sentiment': 0, 'abstract': '矿化阶段划分没有相应的图片国内外研究现状内容偏少<span></span>', 'prop': '位置', 'begin_pos': 48, 'end_pos': 48, 'adj': '偏'}]"
+0,6768370661712885245,[]
+0,1541668745493185757,"[{'sentiment': 2, 'abstract': '专业知识与<span>能力系统较强</span>', 'prop': '能力', 'begin_pos': 10, 'end_pos': 22, 'adj': '强'}]"
+0,7073813403477174365,[]
+0,6582949330663036125,"[{'sentiment': 2, 'abstract': '分析与解决问题<span>能力强</span>', 'prop': '能力', 'begin_pos': 14, 'end_pos': 20, 'adj': '强'}, {'sentiment': 0, 'abstract': '镜下薄片<span>信息不完整</span>', 'prop': '信息', 'begin_pos': 8, 'end_pos': 18, 'adj': '不完整'}]"
+0,8082385720927694013,"[{'sentiment': 2, 'abstract': '论文体现的基础理论与<span>专业知识扎实</span>全面', 'prop': '专业知识', 'begin_pos': 20, 'end_pos': 32, 'adj': '扎实'}]"
+0,5260343872712505981,"[{'sentiment': 2, 'abstract': '论文选题合理<span></span>', 'prop': '感觉', 'begin_pos': 12, 'end_pos': 12, 'adj': '合理'}]"
+0,5991005060717712797,[]
+0,6457176486060794653,"[{'sentiment': 2, 'abstract': '论文选题准确<span></span>', 'prop': '选题', 'begin_pos': 12, 'end_pos': 12, 'adj': '准确'}, {'sentiment': 2, 'abstract': '分析与解决问题<span>能力强</span>', 'prop': '能力', 'begin_pos': 14, 'end_pos': 20, 'adj': '强'}]"
+0,3422133449708845149,[]
+0,6037581472405205021,"[{'sentiment': 0, 'abstract': '论文<span>工作量大</span>', 'prop': '工作量', 'begin_pos': 4, 'end_pos': 12, 'adj': '大'}]"
+0,2469163920898676221,"[{'sentiment': 2, 'abstract': '分析与解决问题<span>能力强</span>', 'prop': '能力', 'begin_pos': 14, 'end_pos': 20, 'adj': '强'}]"
+0,4404291329504524829,"[{'sentiment': 2, 'abstract': '论文体现理论扎实分析解决问题的<span>能力强</span>', 'prop': '能力', 'begin_pos': 30, 'end_pos': 36, 'adj': '强'}, {'sentiment': 0, 'abstract': '行文规范样品<span>信息不全面</span>', 'prop': '信息', 'begin_pos': 12, 'end_pos': 22, 'adj': '不全面'}]"
+0,5039305893484993757,"[{'sentiment': 2, 'abstract': '分析与解决问题<span>能力强</span>', 'prop': '能力', 'begin_pos': 14, 'end_pos': 20, 'adj': '强'}]"
+0,58850338024311933,"[{'sentiment': 0, 'abstract': '<span>作者进行了不同堵水环境下奥灰突水治理关键技术分析并用3个矿作为实例进行了验证</span>', 'prop': '环境一般', 'begin_pos': 0, 'end_pos': 75, 'adj': ''}, {'sentiment': 0, 'abstract': '<span>建议标题修改为：不同堵水环境下奥灰突水治理技术及实例验证</span>', 'prop': '环境一般', 'begin_pos': 0, 'end_pos': 56, 'adj': ''}, {'sentiment': 2, 'abstract': '论文结构比较合理<span></span>', 'prop': '结构', 'begin_pos': 16, 'end_pos': 16, 'adj': '合理'}, {'sentiment': 2, 'abstract': '论点正确<span></span>', 'prop': '论点', 'begin_pos': 8, 'end_pos': 8, 'adj': '正确'}, {'sentiment': 2, 'abstract': '论据可靠<span></span>', 'prop': '论据', 'begin_pos': 8, 'end_pos': 8, 'adj': '可靠'}]"
+0,6917652721007932861,[]
+0,1569420181516526461,"[{'sentiment': 2, 'abstract': '分煤层<span>选择较合适</span>的预测方法', 'prop': '选择', 'begin_pos': 6, 'end_pos': 16, 'adj': '合适'}, {'sentiment': 2, 'abstract': '结构合理<span></span>', 'prop': '结构', 'begin_pos': 8, 'end_pos': 8, 'adj': '合理'}, {'sentiment': 2, 'abstract': '语言流畅<span></span>', 'prop': '语言', 'begin_pos': 8, 'end_pos': 8, 'adj': '流畅'}, {'sentiment': 2, 'abstract': '论文从文献综述到具体预计矿井涌水量方案设计到最后计算<span>思路清晰</span>', 'prop': '思路', 'begin_pos': 52, 'end_pos': 60, 'adj': '清晰'}]"
+0,8479355363431778013,"[{'sentiment': 2, 'abstract': '文献掌握较好<span></span>', 'prop': '感觉', 'begin_pos': 12, 'end_pos': 12, 'adj': '好'}, {'sentiment': 2, 'abstract': '语言流畅<span></span>', 'prop': '语言', 'begin_pos': 8, 'end_pos': 8, 'adj': '流畅'}]"
+0,3996062588946049117,"[{'sentiment': 2, 'abstract': '\n4.图最好亲自画一下<span></span>', 'prop': '图', 'begin_pos': 19, 'end_pos': 19, 'adj': '好'}]"
+0,2519256828074812125,"[{'sentiment': 2, 'abstract': '试验<span>设计合理</span>完整', 'prop': '设计', 'begin_pos': 4, 'end_pos': 12, 'adj': '合理'}, {'sentiment': 2, 'abstract': '可更好阐明论文设计方案的优势<span></span>', 'prop': '感觉', 'begin_pos': 28, 'end_pos': 28, 'adj': '好'}]"
+0,4299291193628827549,"[{'sentiment': 2, 'abstract': '\n1.内容（制备方法）<span>研究过多</span>', 'prop': '研究', 'begin_pos': 19, 'end_pos': 27, 'adj': '多'}]"
+0,3071258178532212381,[]
+0,4239272290347892509,"[{'sentiment': 2, 'abstract': '\n论文结构合理<span></span>', 'prop': '结构', 'begin_pos': 13, 'end_pos': 13, 'adj': '合理'}]"
+0,3339560628340401085,"[{'sentiment': 2, 'abstract': '\n论文结构合理<span></span>', 'prop': '结构', 'begin_pos': 13, 'end_pos': 13, 'adj': '合理'}, {'sentiment': 2, 'abstract': '\n不足之处：仅对实验室环境下人工涂污绝的单一色彩及型式（红棕色棒型）绝缘子进行了实验<span></span>', 'prop': '环境', 'begin_pos': 83, 'end_pos': 83, 'adj': '环境不错'}, {'sentiment': 2, 'abstract': '<span>提出的检测技术可以实现实验室环境下绝缘子的快速识别及精确定位</span>', 'prop': '环境不错', 'begin_pos': 0, 'end_pos': 60, 'adj': ''}, {'sentiment': 0, 'abstract': '<span>所提方法尚缺乏电气化铁路实际环境下的有效性验证</span>', 'prop': '环境一般', 'begin_pos': 0, 'end_pos': 46, 'adj': ''}]"
+0,6701455573054392285,"[{'sentiment': 0, 'abstract': '文中<span>语言表达不够准确</span>', 'prop': '语言', 'begin_pos': 4, 'end_pos': 20, 'adj': '不够准确'}]"
+0,2684610274931814557,"[{'sentiment': 2, 'abstract': '\n论文结构合理<span></span>', 'prop': '结构', 'begin_pos': 13, 'end_pos': 13, 'adj': '合理'}, {'sentiment': 0, 'abstract': '<span>工作量较大</span>', 'prop': '工作量', 'begin_pos': 0, 'end_pos': 10, 'adj': '大'}, {'sentiment': 2, 'abstract': '<span>维修区域目标的准确检测与识别是实现设备高效维护的前提</span>', 'prop': '设备不错', 'begin_pos': 0, 'end_pos': 52, 'adj': ''}]"
+0,8609084394424031165,"[{'sentiment': 2, 'abstract': '\n论文结构合理<span></span>', 'prop': '结构', 'begin_pos': 13, 'end_pos': 13, 'adj': '合理'}, {'sentiment': 2, 'abstract': '论文的主要<span>工作多</span>集中于平台的搭建', 'prop': '工作', 'begin_pos': 10, 'end_pos': 16, 'adj': '多'}]"
+0,95009475413675229,"[{'sentiment': 2, 'abstract': '\n论文结构合理<span></span>', 'prop': '结构', 'begin_pos': 13, 'end_pos': 13, 'adj': '合理'}]"
+0,3434184006629228413,[]
+0,4027856730108378045,[]
+0,6436997094813031197,[]
+0,1378445003785574973,"[{'sentiment': 2, 'abstract': '该论文建立了单相磁保持继电器的静力学及动力学仿真模型<span></span>', 'prop': '环境', 'begin_pos': 52, 'end_pos': 52, 'adj': '环境不错'}]"
+0,1062121733208861725,[]
+0,1144883302251776669,"[{'sentiment': 0, 'abstract': '（1）文中第3章将鸟群算法应用到微电网调度模型的所产生的<span>效果描述不够详细</span>', 'prop': '效果', 'begin_pos': 54, 'end_pos': 70, 'adj': '不够详细'}]"
+0,3710338542146586621,"[{'sentiment': 0, 'abstract': '<span>总体评价：\n论文在总结光纤磁场传感器的国内外研究现状的基础上</span>', 'prop': '总体一般', 'begin_pos': 0, 'end_pos': 59, 'adj': ''}, {'sentiment': 2, 'abstract': '论文撰写的<span>条理清晰</span>', 'prop': '条理', 'begin_pos': 10, 'end_pos': 18, 'adj': '清晰'}]"
+0,8944076399139058237,"[{'sentiment': 2, 'abstract': '实验手段正确合理<span></span>', 'prop': '手段', 'begin_pos': 16, 'end_pos': 16, 'adj': '合理'}, {'sentiment': 2, 'abstract': '论文撰写的<span>条理清晰</span>', 'prop': '条理', 'begin_pos': 10, 'end_pos': 18, 'adj': '清晰'}, {'sentiment': 2, 'abstract': '<span>需要详细</span>给予陈述', 'prop': '需要', 'begin_pos': 0, 'end_pos': 8, 'adj': '详细'}, {'sentiment': 0, 'abstract': '<span>文中对效果较差的原因分析的不够细致</span>', 'prop': '效果一般', 'begin_pos': 0, 'end_pos': 34, 'adj': ''}]"
+0,2620819606935400189,[]
+0,7744024808414742237,[]
+0,8006697126094226941,"[{'sentiment': 2, 'abstract': '从而进一步提高全天相机夜间云图自动<span>分类的准确</span>率', 'prop': '分类', 'begin_pos': 34, 'end_pos': 44, 'adj': '准确'}]"
+0,4977318700593734749,"[{'sentiment': 2, 'abstract': '层次清晰<span></span>', 'prop': '层次', 'begin_pos': 8, 'end_pos': 8, 'adj': '清晰'}]"
+0,4261111557912875005,[]
+0,5372228216123747517,"[{'sentiment': 2, 'abstract': '网格处理等关键技术<span>问题缺乏准确</span>的论证', 'prop': '问题', 'begin_pos': 18, 'end_pos': 30, 'adj': '准确'}, {'sentiment': 2, 'abstract': '论文的选题较好<span></span>', 'prop': '选题', 'begin_pos': 14, 'end_pos': 14, 'adj': '好'}]"
+0,7699330821287453885,[]
+0,9093776770866206429,"[{'sentiment': 2, 'abstract': '工作量基本合理<span></span>', 'prop': '量', 'begin_pos': 14, 'end_pos': 14, 'adj': '合理'}]"
+0,5626117384931643581,"[{'sentiment': 2, 'abstract': '但论文工作量尚算合理<span></span>', 'prop': '感觉', 'begin_pos': 20, 'end_pos': 20, 'adj': '合理'}, {'sentiment': 2, 'abstract': '前言部分<span>需要再详细</span>些', 'prop': '需要', 'begin_pos': 8, 'end_pos': 18, 'adj': '详细'}, {'sentiment': 0, 'abstract': '<span>硬件电路设计和系统控制软件编程介绍不够详细</span>', 'prop': '硬件一般', 'begin_pos': 0, 'end_pos': 42, 'adj': ''}]"
+0,2014765540950956669,"[{'sentiment': 2, 'abstract': '模型的建立<span>过程应该详细</span>描述', 'prop': '过程', 'begin_pos': 10, 'end_pos': 22, 'adj': '详细'}]"
+0,6808099429854107133,"[{'sentiment': 2, 'abstract': '在反窃电系统需求分析和系统软件<span>设计的合理</span>性论证上还不够完善', 'prop': '设计', 'begin_pos': 30, 'end_pos': 40, 'adj': '合理'}]"
+0,5175380349783654493,"[{'sentiment': 2, 'abstract': '重点设计和实现了地图服务相关关键技术<span></span>', 'prop': '服务', 'begin_pos': 36, 'end_pos': 36, 'adj': '服务不错'}, {'sentiment': 2, 'abstract': '<span>详细设计</span>中缺少类图反映整个系统的静态结构', 'prop': '设计', 'begin_pos': 0, 'end_pos': 8, 'adj': '详细'}]"
+0,8727340755159788125,"[{'sentiment': 2, 'abstract': '研究<span>思路基本清晰</span>', 'prop': '思路', 'begin_pos': 4, 'end_pos': 16, 'adj': '清晰'}]"
+0,1203632218783548989,"[{'sentiment': 2, 'abstract': '《唐山市地下综合管廊ppp<span>项目全</span>过程财政投资评审研究》选题立足于社会实际问题', 'prop': '项目', 'begin_pos': 23, 'end_pos': 29, 'adj': '全'}, {'sentiment': 2, 'abstract': '研究<span>思路基本清晰</span>', 'prop': '思路', 'begin_pos': 4, 'end_pos': 16, 'adj': '清晰'}]"
+0,5129441078084909085,[]
+0,4402488246594561533,[]
+0,5183067455335074045,[]
+0,2907207287510568797,"[{'sentiment': 2, 'abstract': '逻辑清晰<span></span>', 'prop': '逻辑', 'begin_pos': 8, 'end_pos': 8, 'adj': '清晰'}, {'sentiment': 2, 'abstract': '但表述欠准确流畅<span></span>', 'prop': '地方', 'begin_pos': 16, 'end_pos': 16, 'adj': '准确'}]"
+0,6647136048891691005,"[{'sentiment': 2, 'abstract': '研究<span>思路较清晰</span>', 'prop': '思路', 'begin_pos': 4, 'end_pos': 14, 'adj': '清晰'}]"
+0,8979346775829052829,"[{'sentiment': 2, 'abstract': '研究<span>思路基本清晰</span>', 'prop': '思路', 'begin_pos': 4, 'end_pos': 16, 'adj': '清晰'}]"
+0,5136898295577097693,[]
+0,2481293260529794173,"[{'sentiment': 0, 'abstract': '<span>解决实际问题水平有所欠缺\n2</span>', 'prop': '水平一般', 'begin_pos': 0, 'end_pos': 26, 'adj': ''}]"
+0,6232406456982113565,"[{'sentiment': 2, 'abstract': 'bp网络的结构可能对预测精度的<span>影响更大</span>', 'prop': '影响', 'begin_pos': 28, 'end_pos': 36, 'adj': '大'}, {'sentiment': 0, 'abstract': '<span>国内外高水平期刊文献太少</span>', 'prop': '水平一般', 'begin_pos': 0, 'end_pos': 24, 'adj': ''}]"
+0,4031075696813391581,"[{'sentiment': 2, 'abstract': '同样表4-3多灾种耦合下化工园区选址安全自然条件等级划分也没有<span>详细说明</span>', 'prop': '说明', 'begin_pos': 59, 'end_pos': 67, 'adj': '详细'}]"
+0,2133170201957690429,[]
+0,908089872774519389,"[{'sentiment': 0, 'abstract': '格式存在较<span>大问题</span>', 'prop': '问题', 'begin_pos': 10, 'end_pos': 16, 'adj': '大'}]"
+0,2982618525913073533,"[{'sentiment': 0, 'abstract': '<span>在分析冷却水流量对降温效果的影响时</span>', 'prop': '效果一般', 'begin_pos': 0, 'end_pos': 34, 'adj': ''}, {'sentiment': 0, 'abstract': '“冷却水流量对物料降温<span>影响不大</span>”的片面甚至错误的结论', 'prop': '影响', 'begin_pos': 22, 'end_pos': 30, 'adj': '不大'}]"
+0,2412789266148157469,"[{'sentiment': 2, 'abstract': '<span>《天津房地产业与经济发展相互作用研究》一文相对专业硕士学位论文而言选题过大</span>', 'prop': '专业不错', 'begin_pos': 0, 'end_pos': 74, 'adj': ''}, {'sentiment': 2, 'abstract': '论文研究<span>思路基本清晰</span>', 'prop': '思路', 'begin_pos': 8, 'end_pos': 20, 'adj': '清晰'}, {'sentiment': 2, 'abstract': '研究路线<span>设计基本合理</span>', 'prop': '设计', 'begin_pos': 8, 'end_pos': 20, 'adj': '合理'}]"
+0,8546601212889022077,"[{'sentiment': 2, 'abstract': '研究<span>思路基本清晰</span>', 'prop': '思路', 'begin_pos': 4, 'end_pos': 16, 'adj': '清晰'}, {'sentiment': 0, 'abstract': '但作者对研究方法掌握<span>程度一般</span>', 'prop': '程度', 'begin_pos': 20, 'end_pos': 28, 'adj': '一般'}]"
+0,8043376311318189981,[]
+0,2136274404131458973,"[{'sentiment': 2, 'abstract': '研究<span>思路基本清晰</span>', 'prop': '思路', 'begin_pos': 4, 'end_pos': 16, 'adj': '清晰'}]"
+0,1202263063295005469,[]
+0,3821953776094263741,"[{'sentiment': 0, 'abstract': '<span>不适合专业硕士论文内容</span>', 'prop': '专业一般', 'begin_pos': 0, 'end_pos': 22, 'adj': ''}, {'sentiment': 2, 'abstract': '结构清晰<span></span>', 'prop': '结构', 'begin_pos': 8, 'end_pos': 8, 'adj': '清晰'}, {'sentiment': 2, 'abstract': '全文结构紧凑合理<span></span>', 'prop': '结构', 'begin_pos': 16, 'end_pos': 16, 'adj': '合理'}]"
+0,8762019678417204445,"[{'sentiment': 0, 'abstract': '对实验<span>方法描述不够详细</span>', 'prop': '方法', 'begin_pos': 6, 'end_pos': 22, 'adj': '不够详细'}, {'sentiment': 0, 'abstract': '且没有实验硬件环境和数据集划分等内容的描述<span></span>', 'prop': '环境', 'begin_pos': 42, 'end_pos': 42, 'adj': '环境一般'}, {'sentiment': 0, 'abstract': '<span>国内外高水平期刊文献太少</span>', 'prop': '水平一般', 'begin_pos': 0, 'end_pos': 24, 'adj': ''}]"
+0,1928767584183135069,"[{'sentiment': 0, 'abstract': '沙滩垃圾清理车设计的实践应用性不强<span></span>', 'prop': '感觉', 'begin_pos': 34, 'end_pos': 34, 'adj': '垃圾'}]"
+0,5770029135564533853,[]
+0,6846731194844481949,"[{'sentiment': 2, 'abstract': '<span>\n具有一定的科研能力与专业知识基础</span>', 'prop': '专业不错', 'begin_pos': 0, 'end_pos': 33, 'adj': ''}]"
+0,7321738746877669181,[]
+0,2973332084502976029,[]
+0,7762441531407850749,"[{'sentiment': 2, 'abstract': '证明其架构功能性较好<span></span>', 'prop': '感觉', 'begin_pos': 20, 'end_pos': 20, 'adj': '好'}, {'sentiment': 2, 'abstract': '不足之处在于：\n新能源汽车近5年发展较快<span></span>', 'prop': '确实', 'begin_pos': 38, 'end_pos': 38, 'adj': '新'}]"
+0,4274803742500101341,[]
+0,8024362470562600189,"[{'sentiment': 2, 'abstract': '论文<span>思路清晰</span>', 'prop': '思路', 'begin_pos': 4, 'end_pos': 12, 'adj': '清晰'}, {'sentiment': 2, 'abstract': '技术路线合理<span></span>', 'prop': '路线', 'begin_pos': 12, 'end_pos': 12, 'adj': '合理'}, {'sentiment': 0, 'abstract': '<span>（2）工程造价管理相关名词术语个别欠规范</span>', 'prop': '管理一般', 'begin_pos': 0, 'end_pos': 39, 'adj': ''}]"
+0,1521168742607790877,[]
+0,1241652742818193469,"[{'sentiment': 0, 'abstract': '<span>《肯尼亚蒙内铁路建设项目管理方案研究》选题立足于社会发展实际需求</span>', 'prop': '管理一般', 'begin_pos': 0, 'end_pos': 64, 'adj': ''}, {'sentiment': 2, 'abstract': '研究<span>思路基本清晰</span>', 'prop': '思路', 'begin_pos': 4, 'end_pos': 16, 'adj': '清晰'}, {'sentiment': 0, 'abstract': '深度不够<span></span>', 'prop': '深度', 'begin_pos': 8, 'end_pos': 8, 'adj': '不够'}]"
+0,2430054126944509149,"[{'sentiment': 2, 'abstract': '采用合理的计算方法和模拟方法<span></span>', 'prop': '感觉', 'begin_pos': 28, 'end_pos': 28, 'adj': '合理'}, {'sentiment': 2, 'abstract': '尾矿库溃坝风险指标体系构建过程<span>需要详细</span>说明', 'prop': '需要', 'begin_pos': 30, 'end_pos': 38, 'adj': '详细'}]"
+0,1809269969936030973,[]
+0,7985507954294427165,"[{'sentiment': 2, 'abstract': '研究<span>思路较清晰</span>', 'prop': '思路', 'begin_pos': 4, 'end_pos': 14, 'adj': '清晰'}]"
+0,2737261389343245213,[]
+0,349017668615992221,"[{'sentiment': 0, 'abstract': '<span>研究成果解决专业问题不够突出</span>', 'prop': '专业一般', 'begin_pos': 0, 'end_pos': 28, 'adj': ''}]"
+0,3575916835662958237,[]
+0,6911478111069974685,"[{'sentiment': 0, 'abstract': '（1）摘要部分的撰写<span>条理不清晰</span>', 'prop': '条理', 'begin_pos': 19, 'end_pos': 29, 'adj': '不清晰'}]"
+0,7079189428894764381,"[{'sentiment': 0, 'abstract': '<span>工作量大</span>', 'prop': '工作量', 'begin_pos': 0, 'end_pos': 8, 'adj': '大'}, {'sentiment': 0, 'abstract': '论文总体来看<span>工作量较大</span>', 'prop': '工作量', 'begin_pos': 12, 'end_pos': 22, 'adj': '大'}]"
+0,3317816115060842429,[]
+0,5645799641393091261,[]
+0,7903659392452814909,[]
+0,4968386457674868317,"[{'sentiment': 0, 'abstract': '<span>2.事故预防应达到闭环管理的要求</span>', 'prop': '管理一般', 'begin_pos': 0, 'end_pos': 30, 'adj': ''}, {'sentiment': 2, 'abstract': '具体分工应<span>详细说明</span>', 'prop': '说明', 'begin_pos': 10, 'end_pos': 18, 'adj': '详细'}]"
+0,4801804108437178109,[]
+0,8371859791595825117,"[{'sentiment': 2, 'abstract': '研究<span>思路较清晰</span>', 'prop': '思路', 'begin_pos': 4, 'end_pos': 14, 'adj': '清晰'}]"
+0,8342912711104047613,"[{'sentiment': 2, 'abstract': '研究方案<span>设计合理</span>', 'prop': '设计', 'begin_pos': 8, 'end_pos': 16, 'adj': '合理'}, {'sentiment': 2, 'abstract': '<span>2.论文整体语言表述啰嗦</span>', 'prop': '整体不错', 'begin_pos': 0, 'end_pos': 22, 'adj': ''}, {'sentiment': 2, 'abstract': '研究方案较合理<span></span>', 'prop': '方案', 'begin_pos': 14, 'end_pos': 14, 'adj': '合理'}]"
+0,2985798456691397661,[]
+0,5983602353532134397,"[{'sentiment': 2, 'abstract': '<span>总体较好</span>', 'prop': '总体', 'begin_pos': 0, 'end_pos': 8, 'adj': '好'}, {'sentiment': 2, 'abstract': '这个参数对后边的结果有很<span>大影响</span>', 'prop': '影响', 'begin_pos': 24, 'end_pos': 30, 'adj': '大'}]"
+0,1650129346883292285,[]
+0,5359871646898933373,"[{'sentiment': 0, 'abstract': '论文<span>题目不能准确</span>反映所研究内容', 'prop': '题目', 'begin_pos': 4, 'end_pos': 16, 'adj': '不准确'}, {'sentiment': 0, 'abstract': '论文作者理论<span>基础一般</span>', 'prop': '基础', 'begin_pos': 12, 'end_pos': 20, 'adj': '一般'}, {'sentiment': 2, 'abstract': '不足：研究<span>工作最好</span>有实测内容', 'prop': '工作', 'begin_pos': 10, 'end_pos': 18, 'adj': '好'}]"
+0,8343321923091287581,[]
+0,8885299426734546845,"[{'sentiment': 0, 'abstract': '深度不够<span></span>', 'prop': '深度', 'begin_pos': 8, 'end_pos': 8, 'adj': '不够'}]"
+0,9222221137650915037,"[{'sentiment': 0, 'abstract': '不宜采用一般非饱和土的渗流理论进行计算分析<span></span>', 'prop': '感觉', 'begin_pos': 42, 'end_pos': 42, 'adj': '一般'}, {'sentiment': 2, 'abstract': '模型的大小取值依据和边界<span>条件应详细</span>说明\n2', 'prop': '条件', 'begin_pos': 24, 'end_pos': 34, 'adj': '详细'}]"
+0,7319602983544722141,"[{'sentiment': 0, 'abstract': '英文摘要时态有的<span>地方不正确</span>', 'prop': '地方', 'begin_pos': 16, 'end_pos': 26, 'adj': '不正确'}, {'sentiment': 2, 'abstract': '论文设计较合理<span></span>', 'prop': '感觉', 'begin_pos': 14, 'end_pos': 14, 'adj': '合理'}]"
+0,498575210976307517,"[{'sentiment': 2, 'abstract': '灵巧度及机构的静刚度进行仿真分析<span></span>', 'prop': '环境', 'begin_pos': 32, 'end_pos': 32, 'adj': '环境不错'}]"
+0,6667666149694030013,"[{'sentiment': 2, 'abstract': '\n2）各梁抗剪承载力计算值中<span></span>', 'prop': '感觉', 'begin_pos': 26, 'end_pos': 26, 'adj': '值'}, {'sentiment': 2, 'abstract': '试验过程很细致<span></span>', 'prop': '服务', 'begin_pos': 14, 'end_pos': 14, 'adj': '服务不错'}, {'sentiment': 0, 'abstract': '描述生涩和意思不通顺不完整的<span>地方较多</span>', 'prop': '地方', 'begin_pos': 28, 'end_pos': 36, 'adj': '多'}, {'sentiment': 0, 'abstract': '”建议认真检查全文格式错误较多<span></span>', 'prop': '态度', 'begin_pos': 30, 'end_pos': 30, 'adj': '态度一般'}]"
+0,1646558762718083389,"[{'sentiment': 2, 'abstract': '合理<span></span>', 'prop': '感觉', 'begin_pos': 4, 'end_pos': 4, 'adj': '合理'}, {'sentiment': 2, 'abstract': '具有较好的灵活性<span></span>', 'prop': '感觉', 'begin_pos': 16, 'end_pos': 16, 'adj': '好'}, {'sentiment': 2, 'abstract': '\n论文的实验方案合理<span></span>', 'prop': '方案', 'begin_pos': 19, 'end_pos': 19, 'adj': '合理'}, {'sentiment': 0, 'abstract': '章节的内容<span>安排不够合理</span>', 'prop': '安排', 'begin_pos': 10, 'end_pos': 22, 'adj': '不够合理'}]"
+0,7166410633431018237,[]
+0,5860527517170296893,"[{'sentiment': 2, 'abstract': '结构合理<span></span>', 'prop': '结构', 'begin_pos': 8, 'end_pos': 8, 'adj': '合理'}, {'sentiment': 2, 'abstract': '<span>思路清晰</span>', 'prop': '思路', 'begin_pos': 0, 'end_pos': 8, 'adj': '清晰'}]"
+0,6954105208061214621,"[{'sentiment': 2, 'abstract': '现在国内极端条件下公共交通受到很<span>大影响</span>', 'prop': '影响', 'begin_pos': 32, 'end_pos': 38, 'adj': '大'}]"
+0,7329907923889254077,"[{'sentiment': 0, 'abstract': '仅凭此两项就得出结论建议本工程中新旧路面搭接方案中的台阶宽度宜设置在<span></span>', 'prop': '校区', 'begin_pos': 68, 'end_pos': 68, 'adj': '旧'}]"
+0,3321948578757130461,[]
+0,5251854618725326141,"[{'sentiment': 0, 'abstract': '4-2<span>质量不高</span>', 'prop': '质量', 'begin_pos': 3, 'end_pos': 11, 'adj': '不高'}]"
+0,1448443657234823805,"[{'sentiment': 2, 'abstract': '较好<span></span>', 'prop': '感觉', 'begin_pos': 4, 'end_pos': 4, 'adj': '好'}]"
+0,1185227289730864317,"[{'sentiment': 2, 'abstract': '论文的选题较好<span></span>', 'prop': '选题', 'begin_pos': 14, 'end_pos': 14, 'adj': '好'}]"
+0,3098501900447699645,"[{'sentiment': 0, 'abstract': '图表混乱<span></span>', 'prop': '图表', 'begin_pos': 8, 'end_pos': 8, 'adj': '混乱'}]"
+0,2537058879772453789,"[{'sentiment': 0, 'abstract': '1.排版不认真<span></span>', 'prop': '态度', 'begin_pos': 12, 'end_pos': 12, 'adj': '态度一般'}]"
+0,2495185296565509757,"[{'sentiment': 0, 'abstract': '论文<span>工作量大</span>', 'prop': '工作量', 'begin_pos': 4, 'end_pos': 12, 'adj': '大'}]"
+0,1240193222676245661,"[{'sentiment': 2, 'abstract': '选题合理<span></span>', 'prop': '选题', 'begin_pos': 8, 'end_pos': 8, 'adj': '合理'}]"
+0,1318614019993352413,"[{'sentiment': 2, 'abstract': '模拟<span>效果较好</span>', 'prop': '学习效果', 'begin_pos': 4, 'end_pos': 12, 'adj': '好'}, {'sentiment': 2, 'abstract': '文字表达较为准确<span></span>', 'prop': '地方', 'begin_pos': 16, 'end_pos': 16, 'adj': '准确'}, {'sentiment': 2, 'abstract': '文字表述较准确<span></span>', 'prop': '地方', 'begin_pos': 14, 'end_pos': 14, 'adj': '准确'}]"
+0,8956459601128497405,"[{'sentiment': 2, 'abstract': '论文架构合理<span></span>', 'prop': '架构', 'begin_pos': 12, 'end_pos': 12, 'adj': '合理'}, {'sentiment': 2, 'abstract': '电子票据整合后<span>种类仍偏多</span>', 'prop': '种类', 'begin_pos': 14, 'end_pos': 24, 'adj': '很多'}, {'sentiment': 2, 'abstract': '具有很好的现实意义<span></span>', 'prop': '感觉', 'begin_pos': 18, 'end_pos': 18, 'adj': '好'}, {'sentiment': 2, 'abstract': '<span>作者掌握较为扎实的交通运输工程相关知识</span>', 'prop': '交通方便', 'begin_pos': 0, 'end_pos': 38, 'adj': ''}, {'sentiment': 2, 'abstract': '文字表述准确<span></span>', 'prop': '地方', 'begin_pos': 12, 'end_pos': 12, 'adj': '准确'}]"
+0,6978930322407696029,[]
+0,5603939981333646909,"[{'sentiment': 2, 'abstract': '应进行<span>详细的研究</span>', 'prop': '研究', 'begin_pos': 6, 'end_pos': 16, 'adj': '详细'}, {'sentiment': 2, 'abstract': '文章选题合理<span></span>', 'prop': '设计', 'begin_pos': 12, 'end_pos': 12, 'adj': '合理'}, {'sentiment': 2, 'abstract': '<span>需要认真</span>核对', 'prop': '需要', 'begin_pos': 0, 'end_pos': 8, 'adj': '认真'}]"
+0,7619518423919773725,"[{'sentiment': 2, 'abstract': '<span>实践性较强</span>', 'prop': '实践性', 'begin_pos': 0, 'end_pos': 10, 'adj': '强'}, {'sentiment': 2, 'abstract': '论文<span>条理清晰</span>', 'prop': '条理', 'begin_pos': 4, 'end_pos': 12, 'adj': '清晰'}, {'sentiment': 2, 'abstract': '研究方案合理<span></span>', 'prop': '方案', 'begin_pos': 12, 'end_pos': 12, 'adj': '合理'}, {'sentiment': 0, 'abstract': '\n不足：英文<span>题目翻译不准确</span>', 'prop': '题目', 'begin_pos': 11, 'end_pos': 25, 'adj': '不准确'}, {'sentiment': 0, 'abstract': '<span>实验没给出生化处理效果</span>', 'prop': '效果一般', 'begin_pos': 0, 'end_pos': 22, 'adj': ''}]"
+0,532685954842701085,[]
+0,3137544508880271165,[]
+0,2099077504441754493,[]
+0,5436241742489596221,"[{'sentiment': 2, 'abstract': '选题正确<span></span>', 'prop': '选题', 'begin_pos': 8, 'end_pos': 8, 'adj': '正确'}]"
+0,2381473790572711869,[]
+0,7657422809718032189,"[{'sentiment': 0, 'abstract': '论文中多处<span>语言描述不够准确</span>', 'prop': '语言', 'begin_pos': 10, 'end_pos': 26, 'adj': '不够准确'}, {'sentiment': 2, 'abstract': '论文岩土参数选取最好给出选取依据<span></span>', 'prop': '感觉', 'begin_pos': 32, 'end_pos': 32, 'adj': '好'}]"
+0,1418487777592417725,[]
+0,1903961714498686749,"[{'sentiment': 2, 'abstract': '进而使得麦克风接收到的信号<span>质量较高</span>', 'prop': '质量', 'begin_pos': 26, 'end_pos': 34, 'adj': '高'}]"
+0,6513065832051575773,[]
+0,6777565537861065085,[]
+0,6063900965186467773,"[{'sentiment': 2, 'abstract': '公式编号应对齐并位于<span>行末位置</span>', 'prop': '位置', 'begin_pos': 20, 'end_pos': 28, 'adj': '行'}]"
+0,6855044544330812669,"[{'sentiment': 2, 'abstract': '论文架构合理<span></span>', 'prop': '架构', 'begin_pos': 12, 'end_pos': 12, 'adj': '合理'}, {'sentiment': 2, 'abstract': '<span>符合专业学位的培养要求</span>', 'prop': '专业不错', 'begin_pos': 0, 'end_pos': 22, 'adj': ''}]"
+0,6415518839715269405,[]
+0,7832277248874239837,[]
+0,4249225681086836605,"[{'sentiment': 2, 'abstract': '选题合理<span></span>', 'prop': '选题', 'begin_pos': 8, 'end_pos': 8, 'adj': '合理'}]"
+0,6065583702553988989,[]
+0,4631047781313471965,[]
+0,3609587271423298909,"[{'sentiment': 2, 'abstract': '\n论文结构合理<span></span>', 'prop': '结构', 'begin_pos': 13, 'end_pos': 13, 'adj': '合理'}]"
+0,5548572546153308093,"[{'sentiment': 2, 'abstract': '论文“间歇性能源大数据云存储负载均衡的研究”选题准确<span></span>', 'prop': '选题', 'begin_pos': 52, 'end_pos': 52, 'adj': '准确'}, {'sentiment': 2, 'abstract': '研究<span>思路清晰</span>', 'prop': '思路', 'begin_pos': 4, 'end_pos': 12, 'adj': '清晰'}, {'sentiment': 0, 'abstract': '<span>无法说明研究内容是否可以应用于实际生产环境</span>', 'prop': '环境一般', 'begin_pos': 0, 'end_pos': 42, 'adj': ''}, {'sentiment': 0, 'abstract': '<span>语言不够精炼</span>', 'prop': '语言', 'begin_pos': 0, 'end_pos': 12, 'adj': '不够精炼'}]"
+0,5888644064038913981,"[{'sentiment': 2, 'abstract': '<span>路线清晰</span>', 'prop': '路线', 'begin_pos': 0, 'end_pos': 8, 'adj': '清晰'}, {'sentiment': 2, 'abstract': '<span>语言准确</span>', 'prop': '语言', 'begin_pos': 0, 'end_pos': 8, 'adj': '准确'}, {'sentiment': 2, 'abstract': '\n文章选题合理<span></span>', 'prop': '感觉', 'begin_pos': 13, 'end_pos': 13, 'adj': '合理'}]"
+0,5509793731886872413,"[{'sentiment': 2, 'abstract': '在有机膨润土对沥青的改性机理分析<span>思路清晰</span>', 'prop': '思路', 'begin_pos': 32, 'end_pos': 40, 'adj': '清晰'}]"
+0,2203717409371842141,"[{'sentiment': 0, 'abstract': '6.3中的<span>图片模糊不清晰</span>', 'prop': '图片', 'begin_pos': 7, 'end_pos': 21, 'adj': '不清晰'}, {'sentiment': 2, 'abstract': '\n3.p55中公式5-5的合理性<span></span>', 'prop': '感觉', 'begin_pos': 23, 'end_pos': 23, 'adj': '合理'}]"
+0,4645591161809602909,[]
+0,1353904031626609757,[]
+0,5230066873887818141,[]
+0,8609746376675145053,[]
+0,4726906309076554365,"[{'sentiment': 2, 'abstract': '层次清晰<span></span>', 'prop': '层次', 'begin_pos': 8, 'end_pos': 8, 'adj': '清晰'}]"
+0,5089085921428470749,"[{'sentiment': 2, 'abstract': '降低了理论<span>研究的可信</span>性', 'prop': '研究', 'begin_pos': 10, 'end_pos': 20, 'adj': '可信'}]"
+0,3660802814513415677,[]
+0,2208789000021183069,[]
+0,5095999985298552381,"[{'sentiment': 2, 'abstract': '<span>论文结构符合专业学位类别要求</span>', 'prop': '专业不错', 'begin_pos': 0, 'end_pos': 28, 'adj': ''}]"
+0,6332550402570463901,[]
+0,218645656417033309,"[{'sentiment': 2, 'abstract': '文笔流畅<span></span>', 'prop': '文笔', 'begin_pos': 8, 'end_pos': 8, 'adj': '流畅'}]"
+0,8136164266003685981,"[{'sentiment': 2, 'abstract': '论文将更加优秀<span></span>', 'prop': '论文', 'begin_pos': 14, 'end_pos': 14, 'adj': '优秀'}]"
+0,8211886576704063901,[]
+0,2224978942747253021,"[{'sentiment': 2, 'abstract': '\n论文结构合理<span></span>', 'prop': '结构', 'begin_pos': 13, 'end_pos': 13, 'adj': '合理'}]"
+0,4829079428176542525,"[{'sentiment': 0, 'abstract': '论文理论分析不到位<span></span>', 'prop': '服务', 'begin_pos': 18, 'end_pos': 18, 'adj': '服务一般'}]"
+0,4192373976870141,"[{'sentiment': 0, 'abstract': '研究结果及成果的提炼不到位<span></span>', 'prop': '服务', 'begin_pos': 26, 'end_pos': 26, 'adj': '服务一般'}]"
+0,1062430059873316701,"[{'sentiment': 2, 'abstract': '研究<span>思路基本清晰</span>', 'prop': '思路', 'begin_pos': 4, 'end_pos': 16, 'adj': '清晰'}]"
+0,9054242420515384445,"[{'sentiment': 2, 'abstract': '<span>设计了蓄热式锻造加热炉的整体控制方案</span>', 'prop': '整体不错', 'begin_pos': 0, 'end_pos': 36, 'adj': ''}]"
+0,1925157986958471869,"[{'sentiment': 2, 'abstract': '本论文立论较为准确<span></span>', 'prop': '地方', 'begin_pos': 18, 'end_pos': 18, 'adj': '准确'}]"
+0,947210497214152093,"[{'sentiment': 0, 'abstract': '“螺栓预紧力对t形节点的力学性能<span>影响不大</span>”的结论应该是有条件的', 'prop': '影响', 'begin_pos': 31, 'end_pos': 39, 'adj': '不大'}, {'sentiment': 0, 'abstract': '而不是“略微”“<span>效果不明显</span>”等等', 'prop': '效果', 'begin_pos': 16, 'end_pos': 26, 'adj': '不明显'}, {'sentiment': 2, 'abstract': '<span>体现了作者具有较扎实的学科专业基础和较强的计算分析总结分析的能力</span>', 'prop': '专业不错', 'begin_pos': 0, 'end_pos': 64, 'adj': ''}, {'sentiment': 2, 'abstract': '论文总体<span>水平良好</span>', 'prop': '水平', 'begin_pos': 8, 'end_pos': 16, 'adj': '良好'}]"
+0,5952341492341821597,"[{'sentiment': 0, 'abstract': '作者并未在文中<span>详细说明</span>', 'prop': '说明', 'begin_pos': 14, 'end_pos': 22, 'adj': '详细'}]"
+0,2738330056019291037,"[{'sentiment': 0, 'abstract': '<span>实际土壤离子化学环境极其复杂</span>', 'prop': '环境一般', 'begin_pos': 0, 'end_pos': 28, 'adj': ''}]"
+0,3683719489020623933,"[{'sentiment': 2, 'abstract': '建议未来进一步完善数据库以提升<span>技术的实用</span>性', 'prop': '技术', 'begin_pos': 30, 'end_pos': 40, 'adj': '实用'}]"
+0,1575752089865695901,[]
+0,455140729961561533,"[{'sentiment': 2, 'abstract': '具有较好的实践意义<span></span>', 'prop': '感觉', 'begin_pos': 18, 'end_pos': 18, 'adj': '好'}, {'sentiment': 2, 'abstract': '研究<span>思路清晰</span>', 'prop': '思路', 'begin_pos': 4, 'end_pos': 12, 'adj': '清晰'}]"
+0,6006047906719181853,[]
+0,2803351782740599645,"[{'sentiment': 0, 'abstract': '英文摘要有的<span>地方时态不正确</span>', 'prop': '地方', 'begin_pos': 12, 'end_pos': 26, 'adj': '不正确'}, {'sentiment': 2, 'abstract': '实验<span>设计较合理</span>', 'prop': '设计', 'begin_pos': 4, 'end_pos': 14, 'adj': '合理'}]"
+0,7224547709430088029,[]
+0,6080659795009918493,[]
+0,6197736173054554269,"[{'sentiment': 2, 'abstract': '\n细胞毒性<span>实验缺乏可信</span>性', 'prop': '实验', 'begin_pos': 9, 'end_pos': 21, 'adj': '可信'}, {'sentiment': 2, 'abstract': '<span>论文研究方法和思路合理清晰</span>', 'prop': '思路', 'begin_pos': 0, 'end_pos': 26, 'adj': '清晰'}]"
+0,63338019727734557,"[{'sentiment': 2, 'abstract': '测试得到的极化曲线是总的平均值<span></span>', 'prop': '感觉', 'begin_pos': 30, 'end_pos': 30, 'adj': '值'}]"
+0,3566774165126629757,[]
+0,5600934913716156285,[]
+0,84520189036876061,"[{'sentiment': 2, 'abstract': '较好<span></span>', 'prop': '感觉', 'begin_pos': 4, 'end_pos': 4, 'adj': '好'}]"
+0,4435338625654795517,"[{'sentiment': 0, 'abstract': '语句不通的<span>地方较多</span>', 'prop': '地方', 'begin_pos': 10, 'end_pos': 18, 'adj': '多'}]"
+0,161207882952002909,"[{'sentiment': 2, 'abstract': '具有较好的实践意义<span></span>', 'prop': '感觉', 'begin_pos': 18, 'end_pos': 18, 'adj': '好'}, {'sentiment': 2, 'abstract': '研究<span>思路较清晰</span>', 'prop': '思路', 'begin_pos': 4, 'end_pos': 14, 'adj': '清晰'}, {'sentiment': 0, 'abstract': '但文中部分<span>图片不清晰</span>', 'prop': '图片', 'begin_pos': 10, 'end_pos': 20, 'adj': '不清晰'}, {'sentiment': 2, 'abstract': '较好<span></span>', 'prop': '感觉', 'begin_pos': 4, 'end_pos': 4, 'adj': '好'}]"
+0,4720767208778864381,"[{'sentiment': 2, 'abstract': '现场调试是最好的试验<span></span>', 'prop': '感觉', 'begin_pos': 20, 'end_pos': 20, 'adj': '好'}]"
+0,6915519266325765213,"[{'sentiment': 2, 'abstract': '较好<span></span>', 'prop': '感觉', 'begin_pos': 4, 'end_pos': 4, 'adj': '好'}]"
+0,7569365190146829053,[]
+0,7276205044123924189,"[{'sentiment': 2, 'abstract': '按照相似<span>研究方法多</span>采集样品', 'prop': '研究', 'begin_pos': 8, 'end_pos': 18, 'adj': '多'}, {'sentiment': 2, 'abstract': '<span>多选择</span>土壤类型', 'prop': '选择', 'begin_pos': 0, 'end_pos': 6, 'adj': '多'}]"
+0,2210426266142707165,[]
+0,688613723421510429,"[{'sentiment': 2, 'abstract': '论文描述故障诊断系统设计<span>过程比较详细</span>', 'prop': '过程', 'begin_pos': 24, 'end_pos': 36, 'adj': '详细'}]"
+0,2970720604039370205,[]
+0,7291502671716440285,"[{'sentiment': 2, 'abstract': '本文阐明水温和总磷对叶绿素a<span>影响较大</span>', 'prop': '影响', 'begin_pos': 27, 'end_pos': 35, 'adj': '大'}, {'sentiment': 2, 'abstract': '实验<span>内容丰富</span>', 'prop': '内容', 'begin_pos': 4, 'end_pos': 12, 'adj': '丰富'}, {'sentiment': 2, 'abstract': '结构<span>安排较合理</span>', 'prop': '安排', 'begin_pos': 4, 'end_pos': 14, 'adj': '合理'}, {'sentiment': 2, 'abstract': '<span>思路清晰</span>', 'prop': '思路', 'begin_pos': 0, 'end_pos': 8, 'adj': '清晰'}]"
+0,8356996442521865661,[]
+0,6236490692052518845,[]
+0,3372301793394941085,"[{'sentiment': 2, 'abstract': '没有明确石墨烯改性矿用材料的安全性和<span>良好性优势</span>', 'prop': '优势', 'begin_pos': 36, 'end_pos': 46, 'adj': '良好'}]"
+0,527746477994519837,"[{'sentiment': 0, 'abstract': '对桩土接触的设置与分析内容偏少<span></span>', 'prop': '内容', 'begin_pos': 30, 'end_pos': 30, 'adj': '少'}]"
+0,8314887338630483517,"[{'sentiment': 2, 'abstract': '论文选题准确<span></span>', 'prop': '选题', 'begin_pos': 12, 'end_pos': 12, 'adj': '准确'}, {'sentiment': 2, 'abstract': '部分<span>图片清晰</span>度不高（比如图2.5）', 'prop': '图片', 'begin_pos': 4, 'end_pos': 12, 'adj': '清晰'}, {'sentiment': 0, 'abstract': 'tomv病毒载体应用在西红柿上产生的抗<span>病毒效果</span>', 'prop': '效果', 'begin_pos': 34, 'end_pos': 42, 'adj': '病毒'}]"
+0,941806408791866237,"[{'sentiment': 0, 'abstract': '<span>但作为专业学位论文缺乏必要的实验研究</span>', 'prop': '专业一般', 'begin_pos': 0, 'end_pos': 36, 'adj': ''}]"
+0,3105006164677299165,[]
+0,5183094892340023485,"[{'sentiment': 2, 'abstract': '<span>语言表达准确</span>', 'prop': '语言', 'begin_pos': 0, 'end_pos': 12, 'adj': '准确'}]"
+0,5314861651954292541,[]
+0,1977280601408949341,[]
+0,236058090626546493,"[{'sentiment': 2, 'abstract': '撰写<span>思路较为清晰</span>', 'prop': '思路', 'begin_pos': 4, 'end_pos': 16, 'adj': '清晰'}, {'sentiment': 2, 'abstract': '<span>条理清晰</span>', 'prop': '条理', 'begin_pos': 0, 'end_pos': 8, 'adj': '清晰'}]"
+0,8718924710198325725,[]
+0,6705538594989015965,[]
+0,186654200758412477,"[{'sentiment': 0, 'abstract': '实际中一般这是不可行的<span></span>', 'prop': '感觉', 'begin_pos': 22, 'end_pos': 22, 'adj': '一般'}, {'sentiment': 2, 'abstract': '又如第3页“cao等测量了纳米银焊膏xxxxxx热稳定性最好[8]12”<span></span>', 'prop': '稳定性', 'begin_pos': 57, 'end_pos': 57, 'adj': '好'}, {'sentiment': 2, 'abstract': '<span>基础和专业知识的深入应用没有得到充分体现</span>', 'prop': '专业不错', 'begin_pos': 0, 'end_pos': 40, 'adj': ''}]"
+0,3565343206800292093,"[{'sentiment': 2, 'abstract': '研究具有较好的创新性<span></span>', 'prop': '感觉', 'begin_pos': 20, 'end_pos': 20, 'adj': '好'}, {'sentiment': 2, 'abstract': '研究<span>思路清晰</span>', 'prop': '思路', 'begin_pos': 4, 'end_pos': 12, 'adj': '清晰'}, {'sentiment': 2, 'abstract': '具有较<span>好的效果</span>', 'prop': '学习效果', 'begin_pos': 6, 'end_pos': 14, 'adj': '好'}, {'sentiment': 2, 'abstract': '文字表达较为准确<span></span>', 'prop': '地方', 'begin_pos': 16, 'end_pos': 16, 'adj': '准确'}]"
+0,7348871062431134877,[]
+0,611164983482919677,[]
+0,9062233838853423421,"[{'sentiment': 2, 'abstract': '研究<span>思路清晰</span>', 'prop': '思路', 'begin_pos': 4, 'end_pos': 12, 'adj': '清晰'}]"
+0,1581521265546546973,[]
+0,2881113737385849245,[]
+0,752617337474886845,"[{'sentiment': 2, 'abstract': '<span>思路清晰</span>', 'prop': '思路', 'begin_pos': 0, 'end_pos': 8, 'adj': '清晰'}]"
+0,4454345051918131581,[]
+0,7954817567476626301,"[{'sentiment': 2, 'abstract': '具有较好的创新性和灵活性<span></span>', 'prop': '感觉', 'begin_pos': 24, 'end_pos': 24, 'adj': '好'}, {'sentiment': 2, 'abstract': '\n材料制备和电池性能表征<span>内容丰富</span>', 'prop': '内容', 'begin_pos': 23, 'end_pos': 31, 'adj': '丰富'}]"
+0,700061706246834333,"[{'sentiment': 2, 'abstract': '研究<span>思路清晰</span>', 'prop': '思路', 'begin_pos': 4, 'end_pos': 12, 'adj': '清晰'}]"
+0,955588132136082461,"[{'sentiment': 2, 'abstract': '涉及静力学<span></span>', 'prop': '环境', 'begin_pos': 10, 'end_pos': 10, 'adj': '环境不错'}]"
+0,3632674449701295581,"[{'sentiment': 2, 'abstract': '<span>实验数据可信</span>', 'prop': '实验', 'begin_pos': 0, 'end_pos': 12, 'adj': '可信'}, {'sentiment': 2, 'abstract': '写作<span>水平良好</span>', 'prop': '水平', 'begin_pos': 4, 'end_pos': 12, 'adj': '良好'}, {'sentiment': 2, 'abstract': '由于高速钢组织中碳化物<span>种类相对较多</span>', 'prop': '种类', 'begin_pos': 22, 'end_pos': 34, 'adj': '很多'}, {'sentiment': 2, 'abstract': '但对碳化物种类确认证据尚<span>需要更多</span>的试验和文献证实1', 'prop': '需要', 'begin_pos': 24, 'end_pos': 32, 'adj': '多'}]"
+0,6570870563808560413,"[{'sentiment': 0, 'abstract': '参考文献<span>质量不高</span>', 'prop': '质量', 'begin_pos': 8, 'end_pos': 16, 'adj': '不高'}, {'sentiment': 2, 'abstract': '测试结果表明所设计的<span>系统能够很好</span>的满足设计的需求', 'prop': '系统', 'begin_pos': 20, 'end_pos': 32, 'adj': '很好'}]"
+0,4399396974731944189,"[{'sentiment': 2, 'abstract': '<span>研究具有很好</span>的创新性', 'prop': '研究', 'begin_pos': 0, 'end_pos': 12, 'adj': '很好'}, {'sentiment': 2, 'abstract': '研究<span>思路清晰</span>', 'prop': '思路', 'begin_pos': 4, 'end_pos': 12, 'adj': '清晰'}, {'sentiment': 2, 'abstract': '<span>研究具有很好</span>的理论和实际应用参考价值', 'prop': '研究', 'begin_pos': 0, 'end_pos': 12, 'adj': '很好'}]"
+0,8213710863720530077,"[{'sentiment': 0, 'abstract': '<span>但实际效果检验和指导曝气池改进设计很少提及</span>', 'prop': '效果一般', 'begin_pos': 0, 'end_pos': 42, 'adj': ''}, {'sentiment': 2, 'abstract': '实验<span>内容丰富</span>', 'prop': '内容', 'begin_pos': 4, 'end_pos': 12, 'adj': '丰富'}, {'sentiment': 2, 'abstract': '结构<span>安排较合理</span>', 'prop': '安排', 'begin_pos': 4, 'end_pos': 14, 'adj': '合理'}, {'sentiment': 2, 'abstract': '<span>思路清晰</span>', 'prop': '思路', 'begin_pos': 0, 'end_pos': 8, 'adj': '清晰'}]"
+0,7044991276077181789,"[{'sentiment': 0, 'abstract': '故障提取精度较高且噪声小<span></span>', 'prop': '噪声', 'begin_pos': 24, 'end_pos': 24, 'adj': '小'}, {'sentiment': 0, 'abstract': '工程应用<span>问题复杂</span>性分析和凝练不足', 'prop': '问题', 'begin_pos': 8, 'end_pos': 16, 'adj': '复杂'}]"
+0,5957018098902278045,"[{'sentiment': 2, 'abstract': '\n论文结构合理<span></span>', 'prop': '结构', 'begin_pos': 13, 'end_pos': 13, 'adj': '合理'}]"
+0,4014113155026299549,"[{'sentiment': 2, 'abstract': '再如：“自动化和智能化已成为科技发展对测试仪器的新要求[10]”<span></span>', 'prop': '确实', 'begin_pos': 60, 'end_pos': 60, 'adj': '新'}, {'sentiment': 2, 'abstract': '选题合理<span></span>', 'prop': '选题', 'begin_pos': 8, 'end_pos': 8, 'adj': '合理'}]"
+0,5629033679650683421,"[{'sentiment': 2, 'abstract': '论文<span>整体较好</span>', 'prop': '总体', 'begin_pos': 4, 'end_pos': 12, 'adj': '好'}]"
+0,8529497370592261437,[]
+0,2385323741232339549,"[{'sentiment': 2, 'abstract': '研究工作量饱满<span></span>', 'prop': '量', 'begin_pos': 14, 'end_pos': 14, 'adj': '饱满'}, {'sentiment': 2, 'abstract': '数据翔实且分析合理<span></span>', 'prop': '数据', 'begin_pos': 18, 'end_pos': 18, 'adj': '翔实'}]"
+0,6112747750281191069,"[{'sentiment': 2, 'abstract': '<span>研究具有很好</span>的创新性', 'prop': '研究', 'begin_pos': 0, 'end_pos': 12, 'adj': '很好'}, {'sentiment': 2, 'abstract': '研究<span>思路清晰</span>', 'prop': '思路', 'begin_pos': 4, 'end_pos': 12, 'adj': '清晰'}, {'sentiment': 2, 'abstract': '<span>研究具有很好</span>的理论和实际应用参考价值', 'prop': '研究', 'begin_pos': 0, 'end_pos': 12, 'adj': '很好'}]"
+0,3606027847321789437,"[{'sentiment': 0, 'abstract': '模拟核环境对电执行机构的影响<span></span>', 'prop': '环境', 'begin_pos': 28, 'end_pos': 28, 'adj': '环境一般'}]"
+0,7198708637682486205,"[{'sentiment': 2, 'abstract': '方案合理<span></span>', 'prop': '方案', 'begin_pos': 8, 'end_pos': 8, 'adj': '合理'}]"
+0,218593934536203997,"[{'sentiment': 2, 'abstract': '具有很好的创新性<span></span>', 'prop': '感觉', 'begin_pos': 16, 'end_pos': 16, 'adj': '好'}, {'sentiment': 2, 'abstract': '\n作者很好地掌握了相关领域的最新动态<span></span>', 'prop': '作者', 'begin_pos': 35, 'end_pos': 35, 'adj': '好'}, {'sentiment': 2, 'abstract': '实验方案合理<span></span>', 'prop': '方案', 'begin_pos': 12, 'end_pos': 12, 'adj': '合理'}, {'sentiment': 2, 'abstract': '研究<span>内容丰富</span>', 'prop': '内容', 'begin_pos': 4, 'end_pos': 12, 'adj': '丰富'}, {'sentiment': 2, 'abstract': '全文结构合理<span></span>', 'prop': '结构', 'begin_pos': 12, 'end_pos': 12, 'adj': '合理'}]"
+0,9037460781714151069,[]
+0,2678742736866588765,"[{'sentiment': 2, 'abstract': '论文选题合理<span></span>', 'prop': '感觉', 'begin_pos': 12, 'end_pos': 12, 'adj': '合理'}, {'sentiment': 2, 'abstract': '研究方案<span>设计合理</span>', 'prop': '设计', 'begin_pos': 8, 'end_pos': 16, 'adj': '合理'}, {'sentiment': 2, 'abstract': '文笔流畅<span></span>', 'prop': '文笔', 'begin_pos': 8, 'end_pos': 8, 'adj': '流畅'}]"
+0,7766228321020593277,"[{'sentiment': 2, 'abstract': '具有非常好的创新性和灵活性<span></span>', 'prop': '感觉', 'begin_pos': 26, 'end_pos': 26, 'adj': '好'}, {'sentiment': 2, 'abstract': '\n论文的实验方案合理<span></span>', 'prop': '方案', 'begin_pos': 19, 'end_pos': 19, 'adj': '合理'}, {'sentiment': 2, 'abstract': '研究<span>内容丰富</span>', 'prop': '内容', 'begin_pos': 4, 'end_pos': 12, 'adj': '丰富'}]"
+0,2261419218957167901,[]
+0,352310627939316509,[]
+0,3422809213180746173,"[{'sentiment': 2, 'abstract': '<span>能够依据专业进行试验测试</span>', 'prop': '专业不错', 'begin_pos': 0, 'end_pos': 24, 'adj': ''}, {'sentiment': 2, 'abstract': '文章结构<span>安排合理</span>.写作较规范', 'prop': '安排', 'begin_pos': 8, 'end_pos': 16, 'adj': '合理'}, {'sentiment': 2, 'abstract': '<span>语言表达准确</span>合理', 'prop': '语言', 'begin_pos': 0, 'end_pos': 12, 'adj': '准确'}]"
+0,3899220760630351901,"[{'sentiment': 0, 'abstract': '逻辑不合理<span></span>', 'prop': '价格', 'begin_pos': 10, 'end_pos': 10, 'adj': '价格高'}, {'sentiment': 0, 'abstract': '<span>理论深度和管理特征提炼不足</span>', 'prop': '管理一般', 'begin_pos': 0, 'end_pos': 26, 'adj': ''}]"
+0,7339320095696428733,"[{'sentiment': 0, 'abstract': '论文中<span>语言表达不够准确</span>', 'prop': '语言', 'begin_pos': 6, 'end_pos': 22, 'adj': '不够准确'}]"
+0,2369160116250338013,[]
+0,603320230568652253,"[{'sentiment': 2, 'abstract': '论文写作<span>条理清晰</span>', 'prop': '条理', 'begin_pos': 8, 'end_pos': 16, 'adj': '清晰'}, {'sentiment': 2, 'abstract': '论证合理<span></span>', 'prop': '感觉', 'begin_pos': 8, 'end_pos': 8, 'adj': '合理'}, {'sentiment': 2, 'abstract': '论证合理<span></span>', 'prop': '感觉', 'begin_pos': 8, 'end_pos': 8, 'adj': '合理'}, {'sentiment': 2, 'abstract': '论文写作<span>条理清晰</span>', 'prop': '条理', 'begin_pos': 8, 'end_pos': 16, 'adj': '清晰'}]"
+0,2094692855564100061,"[{'sentiment': 2, 'abstract': '论证合理<span></span>', 'prop': '感觉', 'begin_pos': 8, 'end_pos': 8, 'adj': '合理'}, {'sentiment': 2, 'abstract': '论文写作<span>条理清晰</span>', 'prop': '条理', 'begin_pos': 8, 'end_pos': 16, 'adj': '清晰'}, {'sentiment': 2, 'abstract': '论证合理<span></span>', 'prop': '感觉', 'begin_pos': 8, 'end_pos': 8, 'adj': '合理'}, {'sentiment': 2, 'abstract': '论文写作<span>条理清晰</span>', 'prop': '条理', 'begin_pos': 8, 'end_pos': 16, 'adj': '清晰'}, {'sentiment': 2, 'abstract': '论证合理<span></span>', 'prop': '感觉', 'begin_pos': 8, 'end_pos': 8, 'adj': '合理'}, {'sentiment': 2, 'abstract': '论文写作<span>条理清晰</span>', 'prop': '条理', 'begin_pos': 8, 'end_pos': 16, 'adj': '清晰'}]"
+0,2428591206798984765,"[{'sentiment': 2, 'abstract': '论证合理<span></span>', 'prop': '感觉', 'begin_pos': 8, 'end_pos': 8, 'adj': '合理'}, {'sentiment': 2, 'abstract': '论文写作<span>条理清晰</span>', 'prop': '条理', 'begin_pos': 8, 'end_pos': 16, 'adj': '清晰'}, {'sentiment': 0, 'abstract': '<span>工作量较大</span>', 'prop': '工作量', 'begin_pos': 0, 'end_pos': 10, 'adj': '大'}, {'sentiment': 2, 'abstract': '论文写作<span>条理清晰</span>', 'prop': '条理', 'begin_pos': 8, 'end_pos': 16, 'adj': '清晰'}, {'sentiment': 2, 'abstract': '论证合理<span></span>', 'prop': '感觉', 'begin_pos': 8, 'end_pos': 8, 'adj': '合理'}, {'sentiment': 0, 'abstract': '对种子萌发和幼苗生长的影响中所选种子<span>种类较少</span>', 'prop': '种类', 'begin_pos': 36, 'end_pos': 44, 'adj': '少'}, {'sentiment': 2, 'abstract': '论证合理<span></span>', 'prop': '感觉', 'begin_pos': 8, 'end_pos': 8, 'adj': '合理'}, {'sentiment': 2, 'abstract': '论文写作<span>条理清晰</span>', 'prop': '条理', 'begin_pos': 8, 'end_pos': 16, 'adj': '清晰'}, {'sentiment': 0, 'abstract': '<span>工作量较大</span>', 'prop': '工作量', 'begin_pos': 0, 'end_pos': 10, 'adj': '大'}]"
+0,4077606053188933213,"[{'sentiment': 2, 'abstract': '写作<span>条理清晰</span>', 'prop': '条理', 'begin_pos': 4, 'end_pos': 12, 'adj': '清晰'}, {'sentiment': 2, 'abstract': '论证合理<span></span>', 'prop': '感觉', 'begin_pos': 8, 'end_pos': 8, 'adj': '合理'}, {'sentiment': 2, 'abstract': '论文写作<span>条理非常清晰</span>', 'prop': '条理', 'begin_pos': 8, 'end_pos': 20, 'adj': '清晰'}, {'sentiment': 2, 'abstract': '个别<span>地方有大</span>段留白', 'prop': '场地', 'begin_pos': 4, 'end_pos': 12, 'adj': '大'}, {'sentiment': 2, 'abstract': '论文对本学科国内外发展状况及学术动态了解<span>程度较高</span>', 'prop': '程度', 'begin_pos': 40, 'end_pos': 48, 'adj': '高'}, {'sentiment': 2, 'abstract': '写作<span>条理清晰</span>', 'prop': '条理', 'begin_pos': 4, 'end_pos': 12, 'adj': '清晰'}]"
+0,6281126957630613373,[]
+0,6355827171371636573,"[{'sentiment': 2, 'abstract': '研究<span>路线清晰</span>', 'prop': '路线', 'begin_pos': 4, 'end_pos': 12, 'adj': '清晰'}]"
+0,1260809244249750269,"[{'sentiment': 2, 'abstract': '使得本工艺系统具有高效性和实用性没有更好体现<span></span>', 'prop': '感觉', 'begin_pos': 44, 'end_pos': 44, 'adj': '好'}, {'sentiment': 2, 'abstract': '-反硝化处理工艺实现了出水氨氮与亚硝氮的合理比例<span></span>', 'prop': '感觉', 'begin_pos': 47, 'end_pos': 47, 'adj': '合理'}, {'sentiment': 0, 'abstract': '<span>但研究成果解决专业问题现场案例突出性不强</span>', 'prop': '专业一般', 'begin_pos': 0, 'end_pos': 40, 'adj': ''}]"
+0,1089990759161961853,"[{'sentiment': 2, 'abstract': '研究<span>内容较丰富</span>', 'prop': '内容', 'begin_pos': 4, 'end_pos': 14, 'adj': '丰富'}, {'sentiment': 0, 'abstract': '<span>整体学术性提炼不够</span>', 'prop': '整体一般', 'begin_pos': 0, 'end_pos': 18, 'adj': ''}]"
+0,1665728882875928125,"[{'sentiment': 0, 'abstract': '本文的学术<span>水平较低</span>', 'prop': '水平', 'begin_pos': 10, 'end_pos': 18, 'adj': '低'}]"
+0,8082885490437168509,"[{'sentiment': 0, 'abstract': '所以论文<span>题目并不合适</span>', 'prop': '题目', 'begin_pos': 8, 'end_pos': 20, 'adj': '不合适'}]"
+0,6424138192630110429,"[{'sentiment': 2, 'abstract': '研究<span>内容丰富</span>', 'prop': '内容', 'begin_pos': 4, 'end_pos': 12, 'adj': '丰富'}]"
+0,3435532194060778013,"[{'sentiment': 2, 'abstract': '科研能力与<span>基础较好</span>', 'prop': '基础', 'begin_pos': 10, 'end_pos': 18, 'adj': '好'}, {'sentiment': 0, 'abstract': '<span>优化效果也不理想</span>', 'prop': '效果一般', 'begin_pos': 0, 'end_pos': 16, 'adj': ''}]"
+0,1708251137123737117,[]
+0,3745914829169029661,[]
+0,6772744231843853469,[]
+0,1860089071793897565,[]
+0,5889368181047497181,"[{'sentiment': 2, 'abstract': '研究<span>思路较为清晰</span>', 'prop': '思路', 'begin_pos': 4, 'end_pos': 16, 'adj': '清晰'}]"
+0,2884782107519719037,[]
+0,2619377463299740381,"[{'sentiment': 2, 'abstract': '第三章从对系统的静力学<span></span>', 'prop': '环境', 'begin_pos': 22, 'end_pos': 22, 'adj': '环境不错'}, {'sentiment': 2, 'abstract': '第三章的静力学和动力学分析<span></span>', 'prop': '环境', 'begin_pos': 26, 'end_pos': 26, 'adj': '环境不错'}]"
+0,1688299205373991229,"[{'sentiment': 2, 'abstract': '<span>实用效果将会更好</span>', 'prop': '效果不错', 'begin_pos': 0, 'end_pos': 16, 'adj': ''}, {'sentiment': 2, 'abstract': '提供线条<span>清晰的图片</span>', 'prop': '图片', 'begin_pos': 8, 'end_pos': 18, 'adj': '清晰'}]"
+0,8074785116368345181,"[{'sentiment': 0, 'abstract': '<span>1.对现有熏香制作设备的前期调研内容体现不足</span>', 'prop': '设备一般', 'begin_pos': 0, 'end_pos': 42, 'adj': ''}, {'sentiment': 2, 'abstract': '<span>工作较为细致</span>', 'prop': '工作', 'begin_pos': 0, 'end_pos': 12, 'adj': '细致'}]"
+0,3299085536247314237,[]
+0,4702126875557767133,"[{'sentiment': 2, 'abstract': '设计<span>思路清晰</span>', 'prop': '思路', 'begin_pos': 4, 'end_pos': 12, 'adj': '清晰'}]"
+0,2874778137962558749,"[{'sentiment': 0, 'abstract': '论文对研究对象及存在问题的分析不到位<span></span>', 'prop': '服务', 'begin_pos': 36, 'end_pos': 36, 'adj': '服务一般'}]"
+0,963284913887302493,[]
+0,7892360851634632701,[]
+0,1298163738573702429,"[{'sentiment': 2, 'abstract': '压装过程中自润滑衬垫的固化与粘贴<span>工艺还可以</span>进一步完善', 'prop': '工艺', 'begin_pos': 32, 'end_pos': 42, 'adj': '还可以'}]"
+0,6851672499722168669,[]
+0,8574879241969296701,[]
+0,2924249170710574013,"[{'sentiment': 2, 'abstract': '研究内容<span>安排合理</span>', 'prop': '安排', 'begin_pos': 8, 'end_pos': 16, 'adj': '合理'}]"
+0,2200519681582015581,[]
+0,679147589711448029,"[{'sentiment': 2, 'abstract': '\n科研能力与<span>基础较好</span>', 'prop': '基础', 'begin_pos': 11, 'end_pos': 19, 'adj': '好'}, {'sentiment': 0, 'abstract': '研究背景和意义阐述不到位<span></span>', 'prop': '服务', 'begin_pos': 24, 'end_pos': 24, 'adj': '服务一般'}]"
+0,6905709466420682205,"[{'sentiment': 2, 'abstract': '研究内容<span>安排合理</span>', 'prop': '安排', 'begin_pos': 8, 'end_pos': 16, 'adj': '合理'}]"
+0,3131857165408341437,"[{'sentiment': 0, 'abstract': '研究现状阐述不到位<span></span>', 'prop': '服务', 'begin_pos': 18, 'end_pos': 18, 'adj': '服务一般'}]"
+0,1082854235070742429,[]
+0,5908194651845612797,"[{'sentiment': 0, 'abstract': '“这种与其他制动系统结合制动<span>机构一般</span>分为串联制动和并联制动两种模式', 'prop': '机构', 'begin_pos': 28, 'end_pos': 36, 'adj': '一般'}, {'sentiment': 2, 'abstract': '论文<span>思路清晰</span>', 'prop': '思路', 'begin_pos': 4, 'end_pos': 12, 'adj': '清晰'}, {'sentiment': 0, 'abstract': '<span>工作量大</span>', 'prop': '工作量', 'begin_pos': 0, 'end_pos': 8, 'adj': '大'}]"
+0,1485059695628659133,"[{'sentiment': 2, 'abstract': '研究<span>内容较为丰富</span>', 'prop': '内容', 'begin_pos': 4, 'end_pos': 16, 'adj': '丰富'}]"
+0,3452877707635995581,[]
+0,1539985657613196253,"[{'sentiment': 0, 'abstract': '论文对研究对象及存在问题的分析不到位<span></span>', 'prop': '服务', 'begin_pos': 36, 'end_pos': 36, 'adj': '服务一般'}]"
+0,3232467354291892701,[]
+0,2453956712737484861,"[{'sentiment': 2, 'abstract': '取得了较<span>好的效果</span>', 'prop': '学习效果', 'begin_pos': 8, 'end_pos': 16, 'adj': '好'}, {'sentiment': 0, 'abstract': '<span>从而提高带钢的质量水平…”不科学</span>', 'prop': '水平一般', 'begin_pos': 0, 'end_pos': 32, 'adj': ''}]"
+0,3463501104271244317,"[{'sentiment': 0, 'abstract': '且理论分析<span>水平不高</span>', 'prop': '水平', 'begin_pos': 10, 'end_pos': 18, 'adj': '不高'}]"
+0,2398355275190907741,[]
+0,4149006219659052509,"[{'sentiment': 0, 'abstract': '论文的<span>工作量较大</span>', 'prop': '工作量', 'begin_pos': 6, 'end_pos': 16, 'adj': '大'}]"
+0,1369808797367735165,[]
+0,2085276158679575485,[]
+0,8761917700697409981,[]
+0,5037339151990563901,"[{'sentiment': 0, 'abstract': '结果可信度不高<span></span>', 'prop': '结果', 'begin_pos': 14, 'end_pos': 14, 'adj': '高'}, {'sentiment': 2, 'abstract': '研究<span>工作也比较合适</span>', 'prop': '工作', 'begin_pos': 4, 'end_pos': 18, 'adj': '合适'}]"
+0,6643210355016508061,"[{'sentiment': 0, 'abstract': '结果可信度不高<span></span>', 'prop': '结果', 'begin_pos': 14, 'end_pos': 14, 'adj': '高'}, {'sentiment': 0, 'abstract': '\n文献综述<span>水平一般</span>', 'prop': '水平', 'begin_pos': 9, 'end_pos': 17, 'adj': '一般'}, {'sentiment': 0, 'abstract': '写作<span>规范性一般</span>', 'prop': '规范', 'begin_pos': 4, 'end_pos': 14, 'adj': '一般'}]"
+0,1562456056024168349,"[{'sentiment': 2, 'abstract': '科研能力与<span>基础较好</span>', 'prop': '基础', 'begin_pos': 10, 'end_pos': 18, 'adj': '好'}]"
+0,6984225335512199421,"[{'sentiment': 2, 'abstract': '以上部分<span>需要更加详细</span>的描述', 'prop': '需要', 'begin_pos': 8, 'end_pos': 20, 'adj': '详细'}]"
+0,2836270436187970333,"[{'sentiment': 2, 'abstract': '科研能力与<span>基础良好</span>', 'prop': '基础', 'begin_pos': 10, 'end_pos': 18, 'adj': '良好'}]"
+0,7926453228869356637,[]
+0,6024966578775942365,[]
+0,7982052717068238589,"[{'sentiment': 2, 'abstract': '表达准确<span></span>', 'prop': '地方', 'begin_pos': 8, 'end_pos': 8, 'adj': '准确'}]"
+0,6141453279320613853,[]
+0,345554378154068253,"[{'sentiment': 0, 'abstract': '<span>整体研究缺乏关联性</span>', 'prop': '整体一般', 'begin_pos': 0, 'end_pos': 18, 'adj': ''}]"
+0,4273938908624706109,"[{'sentiment': 2, 'abstract': '论文组织结构合理<span></span>', 'prop': '结构', 'begin_pos': 16, 'end_pos': 16, 'adj': '合理'}]"
+0,8374962843852858333,"[{'sentiment': 2, 'abstract': '整体结构比较合理<span></span>', 'prop': '结构', 'begin_pos': 16, 'end_pos': 16, 'adj': '合理'}, {'sentiment': 2, 'abstract': '应该保证实验<span>内容准确</span>的同时做到语言简洁', 'prop': '内容', 'begin_pos': 12, 'end_pos': 20, 'adj': '准确'}, {'sentiment': 0, 'abstract': '具有一定的盲目性这三<span>大问题</span>', 'prop': '问题', 'begin_pos': 20, 'end_pos': 26, 'adj': '大'}, {'sentiment': 2, 'abstract': '该论文的实验结果表明了新算法具有一定的有效性<span></span>', 'prop': '确实', 'begin_pos': 44, 'end_pos': 44, 'adj': '新'}, {'sentiment': 2, 'abstract': '但最好能够补充核心算法的详细流程图和性能分析<span></span>', 'prop': '感觉', 'begin_pos': 44, 'end_pos': 44, 'adj': '好'}]"
+0,2955078676257385821,"[{'sentiment': 2, 'abstract': '逻辑<span>思路清晰</span>', 'prop': '思路', 'begin_pos': 4, 'end_pos': 12, 'adj': '清晰'}, {'sentiment': 0, 'abstract': '实验样本数量和对比实验算法不足<span></span>', 'prop': '算法', 'begin_pos': 30, 'end_pos': 30, 'adj': '不足'}, {'sentiment': 2, 'abstract': '图表清晰<span></span>', 'prop': '图表', 'begin_pos': 8, 'end_pos': 8, 'adj': '清晰'}]"
+0,8395398307999294813,"[{'sentiment': 2, 'abstract': '全文结构基本合理<span></span>', 'prop': '结构', 'begin_pos': 16, 'end_pos': 16, 'adj': '合理'}, {'sentiment': 2, 'abstract': '的收敛<span>速度和准确</span>率会严重下降', 'prop': '速度', 'begin_pos': 6, 'end_pos': 16, 'adj': '准确'}, {'sentiment': 0, 'abstract': '的值缓慢上升至大于<span></span>', 'prop': '价格', 'begin_pos': 18, 'end_pos': 18, 'adj': '价格高'}, {'sentiment': 2, 'abstract': '的值<span></span>', 'prop': '感觉', 'begin_pos': 4, 'end_pos': 4, 'adj': '值'}, {'sentiment': 2, 'abstract': '作者提出的新算法具有一定的有效性<span></span>', 'prop': '确实', 'begin_pos': 32, 'end_pos': 32, 'adj': '新'}, {'sentiment': 2, 'abstract': '图表清晰<span></span>', 'prop': '图表', 'begin_pos': 8, 'end_pos': 8, 'adj': '清晰'}]"
+0,3233123275777411133,"[{'sentiment': 2, 'abstract': '论文具有一定的创新性和很好的应用价值<span></span>', 'prop': '感觉', 'begin_pos': 36, 'end_pos': 36, 'adj': '好'}, {'sentiment': 0, 'abstract': '收敛<span>速度慢</span>的缺陷', 'prop': '速度', 'begin_pos': 4, 'end_pos': 10, 'adj': '慢'}, {'sentiment': 2, 'abstract': '论文撰写较好的符合本领域硕士学位论文的要求<span></span>', 'prop': '感觉', 'begin_pos': 42, 'end_pos': 42, 'adj': '好'}, {'sentiment': 2, 'abstract': '论文的实验方法基本正确<span></span>', 'prop': '方法', 'begin_pos': 22, 'end_pos': 22, 'adj': '正确'}, {'sentiment': 2, 'abstract': '<span>语言再精炼</span>些', 'prop': '语言', 'begin_pos': 0, 'end_pos': 10, 'adj': '精炼'}]"
+0,4575073092895671165,"[{'sentiment': 2, 'abstract': '论文撰写较好的符合本领域硕士学位论文的要求<span></span>', 'prop': '感觉', 'begin_pos': 42, 'end_pos': 42, 'adj': '好'}, {'sentiment': 2, 'abstract': '论文的实验方法基本正确<span></span>', 'prop': '方法', 'begin_pos': 22, 'end_pos': 22, 'adj': '正确'}, {'sentiment': 2, 'abstract': '缺少对复杂场景检测<span>效果的详细</span>分析', 'prop': '效果', 'begin_pos': 18, 'end_pos': 28, 'adj': '详细'}, {'sentiment': 2, 'abstract': '需要证明在复杂场景中是否比传统<span>方法好</span>', 'prop': '方法', 'begin_pos': 30, 'end_pos': 36, 'adj': '好'}]"
+0,7836303856782883421,"[{'sentiment': 0, 'abstract': '<span>1论文整体逻辑性不强</span>', 'prop': '整体一般', 'begin_pos': 0, 'end_pos': 19, 'adj': ''}]"
+0,3500726693584142749,[]
+0,2728319318063576157,"[{'sentiment': 2, 'abstract': '<span>1论文工作量整体充足</span>', 'prop': '整体不错', 'begin_pos': 0, 'end_pos': 19, 'adj': ''}]"
+0,3607600312623903901,"[{'sentiment': 2, 'abstract': '<span>思路清晰</span>', 'prop': '思路', 'begin_pos': 0, 'end_pos': 8, 'adj': '清晰'}, {'sentiment': 0, 'abstract': '论文成果对经济建设的<span>影响不大</span>', 'prop': '影响', 'begin_pos': 20, 'end_pos': 28, 'adj': '不大'}, {'sentiment': 0, 'abstract': '文字表达也有不<span>准确的地方</span>', 'prop': '地方', 'begin_pos': 14, 'end_pos': 24, 'adj': '不准确'}]"
+0,7281682925050648317,"[{'sentiment': 2, 'abstract': '采用的研究方法基本正确<span></span>', 'prop': '方法', 'begin_pos': 22, 'end_pos': 22, 'adj': '正确'}, {'sentiment': 2, 'abstract': '<span>不足之处：论文选题一定程度上超出了学科专业范围</span>', 'prop': '专业不错', 'begin_pos': 0, 'end_pos': 46, 'adj': ''}]"
+0,4983858986524913757,[]
+0,4957863916209023549,"[{'sentiment': 0, 'abstract': '个别<span>地方表述不够准确</span>', 'prop': '地方', 'begin_pos': 4, 'end_pos': 20, 'adj': '不够准确'}]"
+0,3882607726185746877,"[{'sentiment': 0, 'abstract': '<span>国内外高水平期刊文献太少</span>', 'prop': '水平一般', 'begin_pos': 0, 'end_pos': 24, 'adj': ''}]"
+0,8755762878302941085,"[{'sentiment': 2, 'abstract': '论文组织结构合理<span></span>', 'prop': '结构', 'begin_pos': 16, 'end_pos': 16, 'adj': '合理'}, {'sentiment': 2, 'abstract': '文字表述准确<span></span>', 'prop': '地方', 'begin_pos': 12, 'end_pos': 12, 'adj': '准确'}]"
+0,3480685702249783997,"[{'sentiment': 2, 'abstract': '属于<span>良好水准</span>', 'prop': '水准', 'begin_pos': 4, 'end_pos': 12, 'adj': '良好'}, {'sentiment': 0, 'abstract': '模型改进前后的主客观性能<span>评价等不够详细</span>', 'prop': '评价', 'begin_pos': 24, 'end_pos': 38, 'adj': '不够详细'}, {'sentiment': 2, 'abstract': 'rcnn模型基础理论<span>知识太多</span>', 'prop': '知识', 'begin_pos': 16, 'end_pos': 24, 'adj': '多'}]"
+0,7701788611948884669,[]
+0,1454876896082504221,"[{'sentiment': 2, 'abstract': '第四章虽然采用cnn取得了较<span>好的效果</span>', 'prop': '学习效果', 'begin_pos': 25, 'end_pos': 33, 'adj': '好'}, {'sentiment': 2, 'abstract': '<span>\n论文总体文笔流畅</span>', 'prop': '总体不错', 'begin_pos': 0, 'end_pos': 17, 'adj': ''}, {'sentiment': 2, 'abstract': '论文的理论分析和算法<span>研究比较多</span>', 'prop': '研究', 'begin_pos': 20, 'end_pos': 30, 'adj': '多'}]"
+0,7679697520450526461,"[{'sentiment': 2, 'abstract': '论文整体<span>质量较高</span>', 'prop': '质量', 'begin_pos': 8, 'end_pos': 16, 'adj': '高'}, {'sentiment': 0, 'abstract': '<span>图片不清晰</span>', 'prop': '图片', 'begin_pos': 0, 'end_pos': 10, 'adj': '不清晰'}, {'sentiment': 0, 'abstract': '模型改进前后的主客观性能<span>评价等不够详细</span>', 'prop': '评价', 'begin_pos': 24, 'end_pos': 38, 'adj': '不够详细'}]"
+0,1218200118852192061,"[{'sentiment': 0, 'abstract': '不够认真<span></span>', 'prop': '态度', 'begin_pos': 8, 'end_pos': 8, 'adj': '态度一般'}]"
+0,4200930097854005373,"[{'sentiment': 0, 'abstract': '<span>工作不够认真</span>细致', 'prop': '工作', 'begin_pos': 0, 'end_pos': 12, 'adj': '不够认真'}, {'sentiment': 2, 'abstract': '<span>\n论文总体具有一定创新性</span>', 'prop': '总体不错', 'begin_pos': 0, 'end_pos': 23, 'adj': ''}, {'sentiment': 2, 'abstract': '结构清晰<span></span>', 'prop': '结构', 'begin_pos': 8, 'end_pos': 8, 'adj': '清晰'}, {'sentiment': 2, 'abstract': '文笔流畅<span></span>', 'prop': '文笔', 'begin_pos': 8, 'end_pos': 8, 'adj': '流畅'}, {'sentiment': 2, 'abstract': '论文的实验方法等基本准确<span></span>', 'prop': '方法', 'begin_pos': 24, 'end_pos': 24, 'adj': '准确'}]"
+0,6745968880472143165,"[{'sentiment': 0, 'abstract': '该论文最后实验部分相关的测试标准和测试<span>实验不够详细</span>', 'prop': '实验', 'begin_pos': 38, 'end_pos': 50, 'adj': '不够详细'}]"
+0,7220337606377699037,"[{'sentiment': 2, 'abstract': '论文<span>工作细致</span>完备', 'prop': '工作', 'begin_pos': 4, 'end_pos': 12, 'adj': '细致'}]"
+0,5319242198624289309,[]
+0,5518062290230214589,"[{'sentiment': 2, 'abstract': '论文<span>工作细致</span>完备', 'prop': '工作', 'begin_pos': 4, 'end_pos': 12, 'adj': '细致'}]"
+0,7757828050808314685,"[{'sentiment': 2, 'abstract': '<span>\n论文总体具有一定创新性</span>', 'prop': '总体不错', 'begin_pos': 0, 'end_pos': 23, 'adj': ''}, {'sentiment': 2, 'abstract': '结构清晰<span></span>', 'prop': '结构', 'begin_pos': 8, 'end_pos': 8, 'adj': '清晰'}, {'sentiment': 2, 'abstract': '文笔流畅<span></span>', 'prop': '文笔', 'begin_pos': 8, 'end_pos': 8, 'adj': '流畅'}, {'sentiment': 2, 'abstract': '结构清晰<span></span>', 'prop': '结构', 'begin_pos': 8, 'end_pos': 8, 'adj': '清晰'}, {'sentiment': 2, 'abstract': '全文结构紧凑合理<span></span>', 'prop': '结构', 'begin_pos': 16, 'end_pos': 16, 'adj': '合理'}, {'sentiment': 2, 'abstract': '是一篇优秀的硕士论文<span></span>', 'prop': '确实', 'begin_pos': 20, 'end_pos': 20, 'adj': '优秀'}]"
+0,5945597276413802781,"[{'sentiment': 2, 'abstract': '<span>\n论文总体具有一定创新性</span>', 'prop': '总体不错', 'begin_pos': 0, 'end_pos': 23, 'adj': ''}, {'sentiment': 2, 'abstract': '结构清晰<span></span>', 'prop': '结构', 'begin_pos': 8, 'end_pos': 8, 'adj': '清晰'}, {'sentiment': 2, 'abstract': '文笔流畅<span></span>', 'prop': '文笔', 'begin_pos': 8, 'end_pos': 8, 'adj': '流畅'}, {'sentiment': 2, 'abstract': '结构清晰<span></span>', 'prop': '结构', 'begin_pos': 8, 'end_pos': 8, 'adj': '清晰'}, {'sentiment': 2, 'abstract': '全文结构紧凑合理<span></span>', 'prop': '结构', 'begin_pos': 16, 'end_pos': 16, 'adj': '合理'}, {'sentiment': 2, 'abstract': '是一篇优秀的硕士论文<span></span>', 'prop': '确实', 'begin_pos': 20, 'end_pos': 20, 'adj': '优秀'}]"
+0,8405057739667994909,"[{'sentiment': 2, 'abstract': '论文整体<span>质量较高</span>', 'prop': '质量', 'begin_pos': 8, 'end_pos': 16, 'adj': '高'}, {'sentiment': 2, 'abstract': '<span>论文总体具有一定创新性</span>', 'prop': '总体不错', 'begin_pos': 0, 'end_pos': 22, 'adj': ''}, {'sentiment': 2, 'abstract': '结构清晰<span></span>', 'prop': '结构', 'begin_pos': 8, 'end_pos': 8, 'adj': '清晰'}, {'sentiment': 2, 'abstract': '文笔流畅<span></span>', 'prop': '文笔', 'begin_pos': 8, 'end_pos': 8, 'adj': '流畅'}]"
+0,2990016983321261757,"[{'sentiment': 2, 'abstract': '论文<span>研究面向多</span>接口多信道网络的多目标优化模型', 'prop': '研究', 'begin_pos': 4, 'end_pos': 14, 'adj': '多'}, {'sentiment': 2, 'abstract': '如何选取最优值<span></span>', 'prop': '感觉', 'begin_pos': 14, 'end_pos': 14, 'adj': '值'}]"
+0,2652797235357048189,"[{'sentiment': 2, 'abstract': '论文<span>质量较高</span>', 'prop': '质量', 'begin_pos': 4, 'end_pos': 12, 'adj': '高'}, {'sentiment': 2, 'abstract': '全文结构紧凑合理<span></span>', 'prop': '结构', 'begin_pos': 16, 'end_pos': 16, 'adj': '合理'}, {'sentiment': 2, 'abstract': '是一篇优秀的硕士论文<span></span>', 'prop': '确实', 'begin_pos': 20, 'end_pos': 20, 'adj': '优秀'}]"
+0,6593353832897287357,[]
+0,5713072421393497501,"[{'sentiment': 0, 'abstract': '因此<span>题目不太合适</span>', 'prop': '题目', 'begin_pos': 4, 'end_pos': 16, 'adj': '不太合适'}]"
+0,5412634836333851613,[]
+0,7169859358451756765,"[{'sentiment': 0, 'abstract': '结论中常识性介绍偏多<span></span>', 'prop': '位置', 'begin_pos': 20, 'end_pos': 20, 'adj': '偏'}, {'sentiment': 2, 'abstract': '\n论文中提到的在复杂的地质环境背景下使用csamt进行煤炭资源的勘查工作<span></span>', 'prop': '环境', 'begin_pos': 66, 'end_pos': 66, 'adj': '环境不错'}]"
+0,8804891523688582173,[]
+0,7092320796277101917,[]
+0,9200655344581352573,[]
+0,2841851172462104381,"[{'sentiment': 0, 'abstract': '研究内容<span>技术含量不高</span>', 'prop': '技术', 'begin_pos': 8, 'end_pos': 20, 'adj': '不高'}]"
+0,6702691086097059581,"[{'sentiment': 2, 'abstract': '表明作者具有较<span>扎实的专业知识</span>', 'prop': '专业知识', 'begin_pos': 14, 'end_pos': 28, 'adj': '扎实'}, {'sentiment': 2, 'abstract': '科研<span>能力较强</span>', 'prop': '能力', 'begin_pos': 4, 'end_pos': 12, 'adj': '强'}, {'sentiment': 0, 'abstract': '否则难以判明表1数据的真实性和合理性<span></span>', 'prop': '价格', 'begin_pos': 35, 'end_pos': 35, 'adj': '价格高'}]"
+0,8077249075291562269,"[{'sentiment': 2, 'abstract': '论文<span>研究了多</span>因素对水化法制备单分散片状氢氧化镁过程的影响', 'prop': '研究', 'begin_pos': 4, 'end_pos': 12, 'adj': '多'}]"
+0,8067008662548638909,"[{'sentiment': 2, 'abstract': '论文研究方法合理<span></span>', 'prop': '方法', 'begin_pos': 16, 'end_pos': 16, 'adj': '合理'}, {'sentiment': 0, 'abstract': '<span>模拟部分缺少参数及荷载条件的说明解释</span>', 'prop': '条件一般', 'begin_pos': 0, 'end_pos': 36, 'adj': ''}]"
+0,2420161341370766013,[]
+0,2686078490148829533,[]
+0,3612114061774887293,[]
+0,6397697490057506685,"[{'sentiment': 0, 'abstract': '<span>图片不清晰</span>', 'prop': '图片', 'begin_pos': 0, 'end_pos': 10, 'adj': '不清晰'}]"
+0,4369285799945541853,[]
+0,1433557626171757885,"[{'sentiment': 2, 'abstract': '<span>同时现今基于移动端设备的手势识别技术已经非常成熟</span>', 'prop': '设备不错', 'begin_pos': 0, 'end_pos': 48, 'adj': ''}, {'sentiment': 2, 'abstract': '最好能采用算法描述语言进行描述<span></span>', 'prop': '感觉', 'begin_pos': 30, 'end_pos': 30, 'adj': '好'}]"
+0,682871529719094237,"[{'sentiment': 0, 'abstract': '<span>实际的处理效果需要进一步提高</span>', 'prop': '效果一般', 'begin_pos': 0, 'end_pos': 28, 'adj': ''}, {'sentiment': 0, 'abstract': '并且没有说明压缩<span>质量不好</span>的具体原因', 'prop': '教学质量', 'begin_pos': 16, 'end_pos': 24, 'adj': '不行'}]"
+0,3737322930085560765,[]
+0,4391877531181536413,"[{'sentiment': 0, 'abstract': '论文部分段落<span>语言不够精炼</span>', 'prop': '语言', 'begin_pos': 12, 'end_pos': 24, 'adj': '不够精炼'}]"
+0,8038095379961386781,[]
+0,3975878111364598237,"[{'sentiment': 2, 'abstract': '具有较好的实用价值和一定创新性<span></span>', 'prop': '感觉', 'begin_pos': 30, 'end_pos': 30, 'adj': '好'}, {'sentiment': 2, 'abstract': '体现了作者具备较为扎实的<span>专业知识和较强</span>的科研能力', 'prop': '专业知识', 'begin_pos': 24, 'end_pos': 38, 'adj': '强'}, {'sentiment': 0, 'abstract': '<span>缺乏对校园操场绿地下垫面类型的相关研究</span>', 'prop': '校园一般', 'begin_pos': 0, 'end_pos': 38, 'adj': ''}, {'sentiment': 2, 'abstract': '本论文选题准确<span></span>', 'prop': '选题', 'begin_pos': 14, 'end_pos': 14, 'adj': '准确'}, {'sentiment': 2, 'abstract': '科研<span>能力较强</span>', 'prop': '能力', 'begin_pos': 4, 'end_pos': 12, 'adj': '强'}, {'sentiment': 2, 'abstract': '论文<span>语言表达较准确</span>', 'prop': '语言', 'begin_pos': 4, 'end_pos': 18, 'adj': '准确'}]"
+0,166271019129327165,"[{'sentiment': 2, 'abstract': '方法和工艺比较合理<span></span>', 'prop': '感觉', 'begin_pos': 18, 'end_pos': 18, 'adj': '合理'}, {'sentiment': 0, 'abstract': '<span>而且水处理的涉及的设备成本是否经济也未提及</span>', 'prop': '设备一般', 'begin_pos': 0, 'end_pos': 42, 'adj': ''}]"
+0,3289094728255041341,"[{'sentiment': 2, 'abstract': '论文对之前文献的研究成果进行了对比分析以验证本文模型的准确性<span></span>', 'prop': '地方', 'begin_pos': 60, 'end_pos': 60, 'adj': '准确'}]"
+0,1714332744855129789,"[{'sentiment': 2, 'abstract': '图表清晰<span></span>', 'prop': '图表', 'begin_pos': 8, 'end_pos': 8, 'adj': '清晰'}, {'sentiment': 2, 'abstract': '如实测值与有限元模拟值的比较<span></span>', 'prop': '感觉', 'begin_pos': 28, 'end_pos': 28, 'adj': '值'}, {'sentiment': 2, 'abstract': '（6）本文研究的意义在于找到准确的用于进行此类气膜钢筋混凝土穹顶结构有限元分析计算的方法<span></span>', 'prop': '地方', 'begin_pos': 87, 'end_pos': 87, 'adj': '准确'}, {'sentiment': 2, 'abstract': '科学合理的有限元分析方法与结构设计方法<span></span>', 'prop': '价格', 'begin_pos': 38, 'end_pos': 38, 'adj': '价格低'}]"
+0,1770278983102315485,"[{'sentiment': 2, 'abstract': '基层顶面模量的合理取值范围<span></span>', 'prop': '价格', 'begin_pos': 26, 'end_pos': 26, 'adj': '价格低'}]"
+0,5542192693081404829,"[{'sentiment': 0, 'abstract': '内容偏少<span></span>', 'prop': '位置', 'begin_pos': 8, 'end_pos': 8, 'adj': '偏'}]"
+0,3112061329576584765,"[{'sentiment': 2, 'abstract': '所求得的挠度最大值小于实际工程中所规定的允许值<span></span>', 'prop': '感觉', 'begin_pos': 46, 'end_pos': 46, 'adj': '值'}, {'sentiment': 0, 'abstract': '这句话存在很<span>大的问题</span>', 'prop': '问题', 'begin_pos': 12, 'end_pos': 20, 'adj': '大'}, {'sentiment': 2, 'abstract': '如何保证所采用计算方法计算值的准确性<span></span>', 'prop': '感觉', 'begin_pos': 36, 'end_pos': 36, 'adj': '值'}, {'sentiment': 2, 'abstract': '常用的方法是与实测值进行比较<span></span>', 'prop': '感觉', 'begin_pos': 28, 'end_pos': 28, 'adj': '值'}, {'sentiment': 2, 'abstract': '请采用合理的方法说明本文所提出的厚板弯曲求解方法的正确性<span></span>', 'prop': '价格', 'begin_pos': 56, 'end_pos': 56, 'adj': '价格低'}, {'sentiment': 0, 'abstract': '作者在文整<span>过程中不够认真</span>', 'prop': '过程', 'begin_pos': 10, 'end_pos': 24, 'adj': '不够认真'}]"
+0,5916999918598437117,"[{'sentiment': 2, 'abstract': '保证模型的合理性<span></span>', 'prop': '感觉', 'begin_pos': 16, 'end_pos': 16, 'adj': '合理'}]"
+0,227272838986199101,"[{'sentiment': 1, 'abstract': '抽水<span>位置对</span>曹妃甸湿地海水入侵影响的真实结果与二维数值模拟所得到的结果一致性判定最好做误差对比分析', 'prop': '位置', 'begin_pos': 4, 'end_pos': 10, 'adj': '对'}, {'sentiment': 2, 'abstract': '作者理论<span>基础较好</span>', 'prop': '基础', 'begin_pos': 8, 'end_pos': 16, 'adj': '好'}]"
+0,6527300789434651773,"[{'sentiment': 0, 'abstract': '\n2.部分<span>内容表达不准确</span>', 'prop': '内容', 'begin_pos': 7, 'end_pos': 21, 'adj': '不准确'}]"
+0,2045285387991300797,"[{'sentiment': 2, 'abstract': '结构合理<span></span>', 'prop': '结构', 'begin_pos': 8, 'end_pos': 8, 'adj': '合理'}]"
+0,6180725671309265949,"[{'sentiment': 2, 'abstract': '<span>总体较好</span>', 'prop': '总体', 'begin_pos': 0, 'end_pos': 8, 'adj': '好'}, {'sentiment': 2, 'abstract': '科研<span>能力较强</span>', 'prop': '能力', 'begin_pos': 4, 'end_pos': 12, 'adj': '强'}]"
+0,4158524999285023581,[]
+0,6879726049084427101,"[{'sentiment': 2, 'abstract': '图表清晰<span></span>', 'prop': '图表', 'begin_pos': 8, 'end_pos': 8, 'adj': '清晰'}]"
+0,935154715035345469,"[{'sentiment': 2, 'abstract': '实验<span>设计科学合理</span>', 'prop': '设计', 'begin_pos': 4, 'end_pos': 16, 'adj': '合理'}, {'sentiment': 2, 'abstract': '请认真阅读相关文献<span></span>', 'prop': '态度', 'begin_pos': 18, 'end_pos': 18, 'adj': '态度不错'}]"
+0,5585726810706462813,"[{'sentiment': 2, 'abstract': '研究工作量饱满<span></span>', 'prop': '量', 'begin_pos': 14, 'end_pos': 14, 'adj': '饱满'}, {'sentiment': 2, 'abstract': '论文将更加严谨和优秀<span></span>', 'prop': '确实', 'begin_pos': 20, 'end_pos': 20, 'adj': '优秀'}]"
+0,633230699369210397,"[{'sentiment': 2, 'abstract': '<span>总体较好</span>', 'prop': '总体', 'begin_pos': 0, 'end_pos': 8, 'adj': '好'}]"
+0,165400173898491549,"[{'sentiment': 2, 'abstract': '研究<span>内容丰富</span>', 'prop': '内容', 'begin_pos': 4, 'end_pos': 12, 'adj': '丰富'}, {'sentiment': 2, 'abstract': '具有很好的创新性<span></span>', 'prop': '感觉', 'begin_pos': 16, 'end_pos': 16, 'adj': '好'}, {'sentiment': 2, 'abstract': '行文流畅<span></span>', 'prop': '环境', 'begin_pos': 8, 'end_pos': 8, 'adj': '行'}]"
+0,3840113495641720381,[]
+0,6122957314919566909,"[{'sentiment': 0, 'abstract': '但论文整体对国内外发展状况和动态的了解<span>程度一般</span>', 'prop': '程度', 'begin_pos': 38, 'end_pos': 46, 'adj': '一般'}, {'sentiment': 2, 'abstract': '论文中二异丁基二硫代次膦酸钠的降解机理及降解产物应给予<span>重点详细</span>分析', 'prop': '重点', 'begin_pos': 54, 'end_pos': 62, 'adj': '详细'}]"
+0,6332972312479846077,"[{'sentiment': 2, 'abstract': '是一篇研究<span>水平较好</span>的硕士论文', 'prop': '水平', 'begin_pos': 10, 'end_pos': 18, 'adj': '好'}]"
+0,3122108343703420349,[]
+0,5697454346655321437,[]
+0,6238359343985905789,[]
+0,4310962609081937373,"[{'sentiment': 2, 'abstract': '论文选题合理<span></span>', 'prop': '感觉', 'begin_pos': 12, 'end_pos': 12, 'adj': '合理'}, {'sentiment': 2, 'abstract': '实验方案合理<span></span>', 'prop': '方案', 'begin_pos': 12, 'end_pos': 12, 'adj': '合理'}, {'sentiment': 2, 'abstract': '<span>语言表达准确</span>', 'prop': '语言', 'begin_pos': 0, 'end_pos': 12, 'adj': '准确'}]"
+0,4856326743951827389,"[{'sentiment': 2, 'abstract': '<span>论文体现了作者在所研究领域具有宽广的理论基础和专业知识</span>', 'prop': '专业不错', 'begin_pos': 0, 'end_pos': 54, 'adj': ''}, {'sentiment': 2, 'abstract': '实验手段正确合理<span></span>', 'prop': '手段', 'begin_pos': 16, 'end_pos': 16, 'adj': '合理'}, {'sentiment': 2, 'abstract': '论文撰写的<span>条理清晰</span>', 'prop': '条理', 'begin_pos': 10, 'end_pos': 18, 'adj': '清晰'}, {'sentiment': 2, 'abstract': '<span>需要详细</span>给予陈述', 'prop': '需要', 'begin_pos': 0, 'end_pos': 8, 'adj': '详细'}, {'sentiment': 0, 'abstract': '<span>文中对效果较差的原因分析的不够细致</span>', 'prop': '效果一般', 'begin_pos': 0, 'end_pos': 34, 'adj': ''}, {'sentiment': 0, 'abstract': '应在实际水声环境下验证本文的工作<span></span>', 'prop': '环境', 'begin_pos': 32, 'end_pos': 32, 'adj': '环境一般'}]"
+0,3087985575460607869,"[{'sentiment': 2, 'abstract': '<span>论文体现了作者对所研究课题具备坚实的理论基础和系统的专业知识</span>', 'prop': '专业不错', 'begin_pos': 0, 'end_pos': 60, 'adj': ''}, {'sentiment': 2, 'abstract': '实验手段正确合理<span></span>', 'prop': '手段', 'begin_pos': 16, 'end_pos': 16, 'adj': '合理'}, {'sentiment': 2, 'abstract': '论文撰写的<span>条理清晰</span>', 'prop': '条理', 'begin_pos': 10, 'end_pos': 18, 'adj': '清晰'}]"
+0,1730253357498855901,"[{'sentiment': 2, 'abstract': '论文写作<span>条理清晰</span>', 'prop': '条理', 'begin_pos': 8, 'end_pos': 16, 'adj': '清晰'}, {'sentiment': 2, 'abstract': '文笔流畅<span></span>', 'prop': '文笔', 'begin_pos': 8, 'end_pos': 8, 'adj': '流畅'}]"
+0,169910187413576541,[]
+0,1658697373860656925,"[{'sentiment': 2, 'abstract': '<span>方法可信</span>', 'prop': '方法', 'begin_pos': 0, 'end_pos': 8, 'adj': '可信'}]"
+0,8740743033769672669,"[{'sentiment': 2, 'abstract': '实验<span>设计合理</span>', 'prop': '设计', 'begin_pos': 4, 'end_pos': 12, 'adj': '合理'}, {'sentiment': 2, 'abstract': '论文写作<span>条理清晰</span>', 'prop': '条理', 'begin_pos': 8, 'end_pos': 16, 'adj': '清晰'}, {'sentiment': 2, 'abstract': '文笔流畅<span></span>', 'prop': '文笔', 'begin_pos': 8, 'end_pos': 8, 'adj': '流畅'}]"
+0,6303205674494625277,"[{'sentiment': 0, 'abstract': '<span>1.论文缺乏整体设计</span>', 'prop': '整体一般', 'begin_pos': 0, 'end_pos': 18, 'adj': ''}, {'sentiment': 0, 'abstract': '\n5.表4中渣黏度的模拟值与实测值相差较大<span></span>', 'prop': '价格', 'begin_pos': 38, 'end_pos': 38, 'adj': '价格高'}]"
+0,1704500032735810589,[]
+0,3591729527356981021,[]
+0,5508231761648158109,"[{'sentiment': 2, 'abstract': '科研能力与<span>基础良好</span>', 'prop': '基础', 'begin_pos': 10, 'end_pos': 18, 'adj': '良好'}]"
+0,7952920005378273565,[]
+0,8725194764893222525,"[{'sentiment': 0, 'abstract': '对micro-ct采集控制技术存在主要<span>问题及复杂</span>性分析不足', 'prop': '问题', 'begin_pos': 30, 'end_pos': 40, 'adj': '复杂'}]"
+0,8726579561691930429,"[{'sentiment': 2, 'abstract': '通过仿真和真实环境测试<span></span>', 'prop': '环境', 'begin_pos': 22, 'end_pos': 22, 'adj': '环境不错'}, {'sentiment': 2, 'abstract': '验证课题方案的准确性<span></span>', 'prop': '地方', 'begin_pos': 20, 'end_pos': 20, 'adj': '准确'}, {'sentiment': 2, 'abstract': '\n参考文献可以多选用最近1-3年的新的权威文献<span></span>', 'prop': '确实', 'begin_pos': 42, 'end_pos': 42, 'adj': '新'}]"
+0,6911268678612386205,"[{'sentiment': 2, 'abstract': '准确<span></span>', 'prop': '地方', 'begin_pos': 4, 'end_pos': 4, 'adj': '准确'}]"
+0,2370220342291385181,"[{'sentiment': 0, 'abstract': '\n第五章<span>内容不够丰富</span>', 'prop': '内容', 'begin_pos': 7, 'end_pos': 19, 'adj': '不够丰富'}]"
+0,2971331916781583197,[]
+0,6740471250314368893,"[{'sentiment': 2, 'abstract': '论文<span>内容丰富</span>', 'prop': '内容', 'begin_pos': 4, 'end_pos': 12, 'adj': '丰富'}]"
+0,9197882121750937949,"[{'sentiment': 2, 'abstract': '准确<span></span>', 'prop': '地方', 'begin_pos': 4, 'end_pos': 4, 'adj': '准确'}, {'sentiment': 2, 'abstract': '准确<span></span>', 'prop': '地方', 'begin_pos': 4, 'end_pos': 4, 'adj': '准确'}]"
+0,9205585952880813917,"[{'sentiment': 0, 'abstract': '\n设计<span>问题较大</span>', 'prop': '问题', 'begin_pos': 5, 'end_pos': 13, 'adj': '大'}, {'sentiment': 0, 'abstract': '设计实例中自绘效果图<span>质量不高</span>', 'prop': '质量', 'begin_pos': 20, 'end_pos': 28, 'adj': '不高'}, {'sentiment': 0, 'abstract': '但内容偏薄弱<span></span>', 'prop': '位置', 'begin_pos': 12, 'end_pos': 12, 'adj': '偏'}]"
+0,170852955297823805,"[{'sentiment': 0, 'abstract': '<span>整体缺乏特色</span>', 'prop': '整体一般', 'begin_pos': 0, 'end_pos': 12, 'adj': ''}, {'sentiment': 0, 'abstract': '项目<span>设计依据不够准确</span>', 'prop': '设计', 'begin_pos': 4, 'end_pos': 20, 'adj': '不够准确'}]"
+0,7790406676164931645,[]
+0,2879755377340184829,[]
+0,6739554044594653405,"[{'sentiment': 2, 'abstract': '试验方法比较合理<span></span>', 'prop': '价格', 'begin_pos': 16, 'end_pos': 16, 'adj': '价格低'}]"
+0,8465957243350002877,[]
+0,8371833441801055453,[]
+0,2505310074281872253,[]
+0,1823125411869124893,[]
+0,8793060485778144605,[]
+0,899977548429429309,[]
+0,4933101125904740541,[]
+0,2373351737712851037,[]
+0,2231036357306003005,[]
+0,4435635140311117789,[]
+0,1151491093993457533,"[{'sentiment': 2, 'abstract': '实验地等<span>需要详细</span>描述', 'prop': '需要', 'begin_pos': 8, 'end_pos': 16, 'adj': '详细'}, {'sentiment': 2, 'abstract': '文字表达较准确<span></span>', 'prop': '地方', 'begin_pos': 14, 'end_pos': 14, 'adj': '准确'}]"
+0,106075118066430461,"[{'sentiment': 2, 'abstract': '试验<span>设计合理</span>', 'prop': '设计', 'begin_pos': 4, 'end_pos': 12, 'adj': '合理'}, {'sentiment': 2, 'abstract': '<span>图片清晰</span>', 'prop': '图片', 'begin_pos': 0, 'end_pos': 8, 'adj': '清晰'}, {'sentiment': 2, 'abstract': '总体来看是一篇不错的专业学位论文<span></span>', 'prop': '感觉', 'begin_pos': 32, 'end_pos': 32, 'adj': '不错'}, {'sentiment': 2, 'abstract': '试验<span>设计合理</span>', 'prop': '设计', 'begin_pos': 4, 'end_pos': 12, 'adj': '合理'}, {'sentiment': 2, 'abstract': '<span>图片清晰</span>', 'prop': '图片', 'begin_pos': 0, 'end_pos': 8, 'adj': '清晰'}]"
+0,1536380809759651965,"[{'sentiment': 2, 'abstract': '试验<span>设计合理</span>', 'prop': '设计', 'begin_pos': 4, 'end_pos': 12, 'adj': '合理'}, {'sentiment': 2, 'abstract': '<span>论文符合专业硕士学位论文要求</span>', 'prop': '专业不错', 'begin_pos': 0, 'end_pos': 28, 'adj': ''}]"
+0,1342472468275029789,[]
+0,2666198920303318941,"[{'sentiment': 2, 'abstract': '该论文选题准确且具有一定的应用价值<span></span>', 'prop': '选题', 'begin_pos': 34, 'end_pos': 34, 'adj': '准确'}]"
+0,3076054079029489853,"[{'sentiment': 2, 'abstract': '该论文选题准确且有一定的实用价值<span></span>', 'prop': '选题', 'begin_pos': 32, 'end_pos': 32, 'adj': '准确'}, {'sentiment': 2, 'abstract': '<span>结构完整且符合专业学位论文的要求</span>', 'prop': '专业不错', 'begin_pos': 0, 'end_pos': 32, 'adj': ''}, {'sentiment': 2, 'abstract': '<span>利用现代技术与专业知识相结合</span>', 'prop': '专业不错', 'begin_pos': 0, 'end_pos': 28, 'adj': ''}]"
+0,6759148043004462589,[]
+0,2092676715787060029,[]
+0,471011802702789661,"[{'sentiment': 2, 'abstract': '<span>符合专业学位论文选题要求</span>', 'prop': '专业不错', 'begin_pos': 0, 'end_pos': 24, 'adj': ''}]"
+0,6232534781488252381,"[{'sentiment': 0, 'abstract': '<span>1.该选题为棉花价格波动影响因素分析</span>', 'prop': '价格高', 'begin_pos': 0, 'end_pos': 34, 'adj': ''}, {'sentiment': 0, 'abstract': '市场价格的形成也受产品供给与需求的影响<span></span>', 'prop': '价格', 'begin_pos': 38, 'end_pos': 38, 'adj': '价格高'}, {'sentiment': 0, 'abstract': '农产品价格还存在蛛网<span>理论的一般</span>规律性', 'prop': '理论', 'begin_pos': 20, 'end_pos': 30, 'adj': '一般'}, {'sentiment': 2, 'abstract': '而作者人为重新定义变量值<span></span>', 'prop': '变量', 'begin_pos': 24, 'end_pos': 24, 'adj': '值'}]"
+0,5572486420233670269,[]
+0,4716719312560154397,"[{'sentiment': 0, 'abstract': '2.文章中理论<span>基础没有很好</span>地与实证相结合', 'prop': '基础', 'begin_pos': 12, 'end_pos': 24, 'adj': '不好'}]"
+0,775327186697297789,"[{'sentiment': 0, 'abstract': '1.文章部分地方<span>语言表达不准确</span>', 'prop': '语言', 'begin_pos': 14, 'end_pos': 28, 'adj': '不准确'}]"
+0,8197248982972020925,"[{'sentiment': 2, 'abstract': '试验<span>设计合理</span>', 'prop': '设计', 'begin_pos': 4, 'end_pos': 12, 'adj': '合理'}, {'sentiment': 2, 'abstract': '语言流畅<span></span>', 'prop': '语言', 'begin_pos': 8, 'end_pos': 8, 'adj': '流畅'}, {'sentiment': 2, 'abstract': '是一篇不错的学位毕业论文<span></span>', 'prop': '感觉', 'begin_pos': 24, 'end_pos': 24, 'adj': '不错'}, {'sentiment': 2, 'abstract': '合理开发利用和高效<span>管理提供科学</span>建议', 'prop': '管理', 'begin_pos': 18, 'end_pos': 30, 'adj': '科学'}]"
+0,5847046459788222845,[]
+0,1412049277271073917,"[{'sentiment': 0, 'abstract': '1.研究问题的<span>理论依据没有很好</span>与所分析问题相结合', 'prop': '理论', 'begin_pos': 12, 'end_pos': 28, 'adj': '不很好'}]"
+0,4289274260758719965,[]
+0,827181863719373341,"[{'sentiment': 2, 'abstract': '<span>论文符合专业硕士学位论文要求</span>', 'prop': '专业不错', 'begin_pos': 0, 'end_pos': 28, 'adj': ''}]"
+0,6193812609465106013,[]
+0,8334290540312301661,"[{'sentiment': 2, 'abstract': '试验<span>设计合理</span>', 'prop': '设计', 'begin_pos': 4, 'end_pos': 12, 'adj': '合理'}, {'sentiment': 2, 'abstract': '<span>论文符合专业硕士学位论文要求</span>', 'prop': '专业不错', 'begin_pos': 0, 'end_pos': 28, 'adj': ''}]"
+0,7487894032142065853,"[{'sentiment': 2, 'abstract': '<span>论文符合专业硕士学位论文要求</span>', 'prop': '专业不错', 'begin_pos': 0, 'end_pos': 28, 'adj': ''}]"
+0,1726203105795755229,"[{'sentiment': 2, 'abstract': '试验<span>设计合理</span>', 'prop': '设计', 'begin_pos': 4, 'end_pos': 12, 'adj': '合理'}, {'sentiment': 2, 'abstract': '<span>论文符合专业硕士学位论文要求</span>', 'prop': '专业不错', 'begin_pos': 0, 'end_pos': 28, 'adj': ''}]"
+0,2628533852598458653,[]
+0,437045975784344061,[]
+0,5100450851305764541,[]
+0,181848117381141469,"[{'sentiment': 2, 'abstract': '本论文选题准确<span></span>', 'prop': '选题', 'begin_pos': 14, 'end_pos': 14, 'adj': '准确'}, {'sentiment': 2, 'abstract': '<span>体现了专业知识的系统性</span>', 'prop': '专业不错', 'begin_pos': 0, 'end_pos': 22, 'adj': ''}]"
+0,5343823991445061149,"[{'sentiment': 0, 'abstract': '<span>应将灭菌条件的结果合并</span>', 'prop': '条件一般', 'begin_pos': 0, 'end_pos': 22, 'adj': ''}]"
+0,5760646419749728221,[]
+0,4316016846762545725,[]
+0,5713894450212865213,[]
+0,1903381938626146813,[]
+0,3277562284113398973,[]
+0,477445212968528829,"[{'sentiment': 2, 'abstract': '94优秀<span></span>', 'prop': '确实', 'begin_pos': 6, 'end_pos': 6, 'adj': '优秀'}]"
+0,4386784277095658621,[]
+0,854096802413364349,[]
+0,6954768455526536925,[]
+0,4924763930128352829,[]
+0,2220207312729421181,[]
+0,3388213956694074621,[]
+0,160298222279561533,[]
+0,1343746401716139197,"[{'sentiment': 0, 'abstract': '对于bsd-pg突变体的<span>研究介绍不多</span>', 'prop': '研究', 'begin_pos': 18, 'end_pos': 30, 'adj': '不多'}]"
+0,3957374212274930653,[]
+0,405140348446201725,"[{'sentiment': 2, 'abstract': '<span>论文整体来看结构合理</span>', 'prop': '整体不错', 'begin_pos': 0, 'end_pos': 20, 'adj': ''}, {'sentiment': 2, 'abstract': '<span>思路清晰</span>', 'prop': '思路', 'begin_pos': 0, 'end_pos': 8, 'adj': '清晰'}, {'sentiment': 2, 'abstract': '需要从理论到实践的角度<span>选择合适</span>的智能估算方法', 'prop': '选择', 'begin_pos': 22, 'end_pos': 30, 'adj': '合适'}]"
+0,6590207687436553565,[]
+0,3247641615241926941,[]
+0,571583570729209213,"[{'sentiment': 0, 'abstract': '主题选题欠新颖1.个别评价指标牵强<span></span>', 'prop': '指标', 'begin_pos': 32, 'end_pos': 32, 'adj': '牵强'}]"
+0,872642608345137437,[]
+0,8277993390178369501,"[{'sentiment': 2, 'abstract': '不足：1.<span>题目缺准确</span>', 'prop': '题目', 'begin_pos': 8, 'end_pos': 18, 'adj': '准确'}]"
+0,8144912957094985501,[]
+0,5434119812945760637,[]
+0,188908220495027965,[]
+0,4012997842212787229,"[{'sentiment': 2, 'abstract': '论文<span>设计合理</span>', 'prop': '设计', 'begin_pos': 4, 'end_pos': 12, 'adj': '合理'}, {'sentiment': 2, 'abstract': '数据准确<span></span>', 'prop': '数据', 'begin_pos': 8, 'end_pos': 8, 'adj': '准确'}]"
+0,8927632174777335165,"[{'sentiment': 2, 'abstract': '研究方案合理<span></span>', 'prop': '方案', 'begin_pos': 12, 'end_pos': 12, 'adj': '合理'}]"
+0,5874194454079275869,"[{'sentiment': 0, 'abstract': '讨论分析不到位<span></span>', 'prop': '服务', 'begin_pos': 14, 'end_pos': 14, 'adj': '服务一般'}, {'sentiment': 0, 'abstract': '说服力不够<span></span>', 'prop': '说服力', 'begin_pos': 10, 'end_pos': 10, 'adj': '不够'}, {'sentiment': 0, 'abstract': '讨论分析不到位<span></span>', 'prop': '服务', 'begin_pos': 14, 'end_pos': 14, 'adj': '服务一般'}]"
+0,1880539626967548829,[]
+0,6845024959196721021,[]
+0,4274126702515972285,[]
+0,5399865848248092669,[]
+0,3866951680296100317,[]
+0,8500708382055176317,[]
+0,7599553783242556509,"[{'sentiment': 2, 'abstract': '研究<span>思路清晰</span>', 'prop': '思路', 'begin_pos': 4, 'end_pos': 12, 'adj': '清晰'}]"
+0,4446379246741961629,"[{'sentiment': 0, 'abstract': 'blot图片<span>质量太差</span>', 'prop': '质量', 'begin_pos': 8, 'end_pos': 16, 'adj': '差'}]"
+0,1612408126335654621,[]
+0,5997993267296899325,"[{'sentiment': 0, 'abstract': '<span>npy转录差异滞后于npy的水平</span>', 'prop': '水平一般', 'begin_pos': 0, 'end_pos': 26, 'adj': ''}]"
+0,2490772044579647197,"[{'sentiment': 0, 'abstract': '<span>缺少相关分子maker的水平检测</span>', 'prop': '水平一般', 'begin_pos': 0, 'end_pos': 27, 'adj': ''}, {'sentiment': 2, 'abstract': '<span>设计合理</span>', 'prop': '设计', 'begin_pos': 0, 'end_pos': 8, 'adj': '合理'}, {'sentiment': 0, 'abstract': '结论客观<span></span>', 'prop': '结论', 'begin_pos': 8, 'end_pos': 8, 'adj': '客观'}]"
+0,4599700570833638717,"[{'sentiment': 2, 'abstract': '论文具有很好的理论意义<span></span>', 'prop': '感觉', 'begin_pos': 22, 'end_pos': 22, 'adj': '好'}]"
+0,6361493523636674685,[]
+0,1729920107108090653,"[{'sentiment': 2, 'abstract': '科研<span>能力较强</span>', 'prop': '能力', 'begin_pos': 4, 'end_pos': 12, 'adj': '强'}]"
+0,809559947189747453,[]
+0,3931265567429428669,[]
+0,5073137023596389917,"[{'sentiment': 2, 'abstract': '<span>设计合理</span>', 'prop': '设计', 'begin_pos': 0, 'end_pos': 8, 'adj': '合理'}]"
+0,7775951186242074877,[]
+0,5398019602511402397,[]
+0,5129973899911450237,[]
+0,743498229209715677,[]
+0,2959406067053711229,[]
+0,8842642526076158877,"[{'sentiment': 2, 'abstract': '论文<span>设计合理</span>', 'prop': '设计', 'begin_pos': 4, 'end_pos': 12, 'adj': '合理'}, {'sentiment': 2, 'abstract': '<span>思路清晰</span>', 'prop': '思路', 'begin_pos': 0, 'end_pos': 8, 'adj': '清晰'}]"
+0,2364053365512261085,"[{'sentiment': 0, 'abstract': '参考文献<span>数目偏少</span>', 'prop': '数目', 'begin_pos': 8, 'end_pos': 16, 'adj': '少'}]"
+0,3604230257634322333,[]
+0,8701654680692011677,"[{'sentiment': 2, 'abstract': '①课题分组设计欠严谨\n②专业术语<span>使用欠准确</span>\n③伦理不恰当1.伦理未考虑\n2.部分用语未用专业术语\n3.讨论太繁琐', 'prop': '使用', 'begin_pos': 31, 'end_pos': 41, 'adj': '准确'}]"
+0,7497353799230651165,"[{'sentiment': 0, 'abstract': '1.诊断依据不足<span></span>', 'prop': '依据', 'begin_pos': 14, 'end_pos': 14, 'adj': '不足'}]"
+0,2841342789582609981,"[{'sentiment': 0, 'abstract': '病例数不足①课题<span>设计不合理</span>', 'prop': '设计', 'begin_pos': 16, 'end_pos': 26, 'adj': '不合理'}]"
+0,6785762802974327549,[]
+0,5965115749447405949,"[{'sentiment': 0, 'abstract': '①课题<span>设计不合理</span>', 'prop': '设计', 'begin_pos': 6, 'end_pos': 16, 'adj': '不合理'}]"
+0,591106145066244925,[]
+0,2093140343605302845,[]
+0,789892347304144157,[]
+0,7844026526277643837,[]
+0,4380937663387711485,[]
+0,5015077958788559805,"[{'sentiment': 0, 'abstract': '纳入的文献不够合理<span></span>', 'prop': '价格', 'begin_pos': 18, 'end_pos': 18, 'adj': '价格高'}]"
+0,3222328851944752637,[]
+0,3501179365151893661,[]
+0,3882941195458714557,[]
+0,2648660028426481693,"[{'sentiment': 2, 'abstract': '1.实验<span>设计欠合理</span>', 'prop': '设计', 'begin_pos': 6, 'end_pos': 16, 'adj': '合理'}, {'sentiment': 2, 'abstract': 'aa等做对照<span>设计欠合理</span>', 'prop': '设计', 'begin_pos': 10, 'end_pos': 20, 'adj': '合理'}, {'sentiment': 2, 'abstract': '<span>设计欠合理</span>', 'prop': '设计', 'begin_pos': 0, 'end_pos': 10, 'adj': '合理'}]"
+0,3559347303002630941,"[{'sentiment': 0, 'abstract': '综述参考文献近期文献比例偏小选题缺乏创新性<span></span>', 'prop': '位置', 'begin_pos': 42, 'end_pos': 42, 'adj': '偏'}]"
+0,5503629018477202717,[]
+0,5250918770223612733,[]
+0,8656519833126642301,[]
+0,4761322991223023613,[]
+0,3557069682475032349,"[{'sentiment': 0, 'abstract': '创新略显不足1.创新性一般<span></span>', 'prop': '感觉', 'begin_pos': 24, 'end_pos': 24, 'adj': '一般'}]"
+0,8313382597950013021,[]
+0,3376218825244894941,"[{'sentiment': 0, 'abstract': '参考文献偏少偏旧<span></span>', 'prop': '文献', 'begin_pos': 16, 'end_pos': 16, 'adj': '偏'}]"
+0,7694701894715216893,[]
+0,6507854142816390237,[]
+0,3335805356039253277,"[{'sentiment': 2, 'abstract': '研究分组及<span>指标欠详细</span>例数较少', 'prop': '指标', 'begin_pos': 10, 'end_pos': 20, 'adj': '详细'}]"
+0,2745862854603907229,[]
+0,7264200147507104541,"[{'sentiment': 2, 'abstract': '\n2.建议<span>选择合适</span>的统计方法', 'prop': '选择', 'begin_pos': 7, 'end_pos': 15, 'adj': '合适'}]"
+0,5548851922609397885,"[{'sentiment': 0, 'abstract': '文献格式欠规范1.综述参考文献近期文献偏少\n2.讨论部分设计课题自身内容较少<span></span>', 'prop': '位置', 'begin_pos': 71, 'end_pos': 71, 'adj': '偏'}]"
+0,2842347644089171517,"[{'sentiment': 2, 'abstract': '<span>选题符合本专业</span>', 'prop': '专业不错', 'begin_pos': 0, 'end_pos': 14, 'adj': ''}]"
+0,3172614152302217117,[]
+0,6351248295463847197,"[{'sentiment': 2, 'abstract': '<span>设计合理</span>', 'prop': '设计', 'begin_pos': 0, 'end_pos': 8, 'adj': '合理'}, {'sentiment': 0, 'abstract': '结论繁琐<span></span>', 'prop': '结论', 'begin_pos': 8, 'end_pos': 8, 'adj': '繁琐'}]"
+0,1287352677304313149,[]
+0,4818998616947054045,[]
+0,3167742402512521533,"[{'sentiment': 0, 'abstract': '<span>1.论文书写水平有待提高</span>', 'prop': '水平一般', 'begin_pos': 0, 'end_pos': 22, 'adj': ''}]"
+0,3895103232903582717,[]
+0,4215486097201732413,[]
+0,772233835466454173,[]
+0,1433315992990933501,[]
+0,4423140537648323165,"[{'sentiment': 2, 'abstract': '注意文字表达准确及规范性<span></span>', 'prop': '地方', 'begin_pos': 24, 'end_pos': 24, 'adj': '准确'}]"
+0,6943767828270366909,[]
+0,8637044014649307453,[]
+0,6714040449327303357,[]
+0,7863853256880331421,[]
+0,9132213770005660957,"[{'sentiment': 0, 'abstract': '有些图<span>质量不高</span>', 'prop': '质量', 'begin_pos': 6, 'end_pos': 14, 'adj': '不高'}]"
+0,8184236227969401629,[]
+0,7488795638751147677,[]
+0,7253638935829599997,[]
+0,2796510279537760317,[]
+0,5268024613020342077,[]
+0,1226711211878751581,"[{'sentiment': 2, 'abstract': '选题合理<span></span>', 'prop': '选题', 'begin_pos': 8, 'end_pos': 8, 'adj': '合理'}]"
+0,6593117152755522429,[]
+0,4497403006275706013,[]
+0,8462600220999981533,[]
+0,7903393793584899229,[]
+0,1357204555348928285,[]
+0,5957505595194144317,"[{'sentiment': 0, 'abstract': '纳入文献部分<span>质量不高</span>', 'prop': '质量', 'begin_pos': 12, 'end_pos': 20, 'adj': '不高'}, {'sentiment': 0, 'abstract': '\n2.纳入的文献有的<span>质量不高</span>', 'prop': '质量', 'begin_pos': 17, 'end_pos': 25, 'adj': '不高'}, {'sentiment': 0, 'abstract': '应认真筛选\n3.参考文献格式混乱<span></span>', 'prop': '态度', 'begin_pos': 29, 'end_pos': 29, 'adj': '态度一般'}]"
+0,2652525762210116509,[]
+0,8994400775467228253,"[{'sentiment': 2, 'abstract': '<span>语言表达准确</span>性欠佳', 'prop': '语言', 'begin_pos': 0, 'end_pos': 12, 'adj': '准确'}]"
+0,3889147754261534237,"[{'sentiment': 0, 'abstract': '讨论部分对\n本实验结果的讨论内容不足<span></span>', 'prop': '内容', 'begin_pos': 35, 'end_pos': 35, 'adj': '不足'}, {'sentiment': 2, 'abstract': '<span>设计较合理</span>', 'prop': '设计', 'begin_pos': 0, 'end_pos': 10, 'adj': '合理'}]"
+0,8311536995032010173,[]
+0,7106184694650423581,[]
+0,3878187092986942525,[]
+0,6321620718725440381,"[{'sentiment': 0, 'abstract': '结果可靠性不足①创新性不足\n②论文设计欠严谨\n③病例数不足<span></span>', 'prop': '结果', 'begin_pos': 56, 'end_pos': 56, 'adj': '不足'}]"
+0,1365338080800636797,[]
+0,950949833202497789,[]
+0,2194875317387477149,"[{'sentiment': 2, 'abstract': '并对抑郁症患者的病情等一般<span>资料进行详细</span>描述', 'prop': '资料', 'begin_pos': 26, 'end_pos': 38, 'adj': '详细'}]"
+0,6688043060936740061,[]
+0,6978517019570539069,[]
+0,9055359405138744221,[]
+0,8792821063654870909,[]
+0,5790452581091496925,[]
+0,8282692481077905277,[]
+0,8423087980359077885,"[{'sentiment': 2, 'abstract': '论文<span>语言表达准确</span>性有瑕疵', 'prop': '语言', 'begin_pos': 4, 'end_pos': 16, 'adj': '准确'}, {'sentiment': 2, 'abstract': '<span>中文摘要第一句话整体研究较新颖</span>', 'prop': '整体不错', 'begin_pos': 0, 'end_pos': 30, 'adj': ''}]"
+0,5072505156866829085,[]
+0,286841894303151421,[]
+0,1325094635867967709,"[{'sentiment': 2, 'abstract': '有一定深入研究价值综述参考文献近期文献较少语言表达的准确性有不精准处<span></span>', 'prop': '地方', 'begin_pos': 68, 'end_pos': 68, 'adj': '准确'}]"
+0,1932157895960965469,"[{'sentiment': 2, 'abstract': '<span>可以专业角度硕士毕业</span>', 'prop': '专业不错', 'begin_pos': 0, 'end_pos': 20, 'adj': ''}]"
+0,7433932476394234653,"[{'sentiment': 0, 'abstract': '病人例数偏少<span></span>', 'prop': '位置', 'begin_pos': 12, 'end_pos': 12, 'adj': '偏'}]"
+0,3315100646616653277,"[{'sentiment': 2, 'abstract': '<span>设计较合理</span>', 'prop': '设计', 'begin_pos': 0, 'end_pos': 10, 'adj': '合理'}]"
+0,3089974447351074173,[]
+0,9010366523137143517,"[{'sentiment': 0, 'abstract': '论文<span>题目表述不准确</span>', 'prop': '题目', 'begin_pos': 4, 'end_pos': 18, 'adj': '不准确'}]"
+0,7681757471446910813,[]
+0,8142343135205087165,"[{'sentiment': 0, 'abstract': '讨论部分应更加论述几种固有相互间关系细胞实验<span>工作量较大</span>', 'prop': '工作量', 'begin_pos': 44, 'end_pos': 54, 'adj': '大'}, {'sentiment': 0, 'abstract': '因此临床意义不足<span></span>', 'prop': '意义', 'begin_pos': 16, 'end_pos': 16, 'adj': '不足'}]"
+0,455715093083357757,[]
+0,344094167751287677,[]
+0,4653081888117415325,"[{'sentiment': 0, 'abstract': '临床检测价值也不够明显<span></span>', 'prop': '价值', 'begin_pos': 22, 'end_pos': 22, 'adj': '不够'}]"
+0,935517565180584349,"[{'sentiment': 0, 'abstract': '②课程严谨性稍不足应解析手术+放化疗与同步放化疗相比对阴道微环境及阴道组织学特征的影响<span></span>', 'prop': '环境', 'begin_pos': 85, 'end_pos': 85, 'adj': '环境一般'}]"
+0,6515156252806331709,"[{'sentiment': 2, 'abstract': '但行文流畅<span></span>', 'prop': '但行文', 'begin_pos': 10, 'end_pos': 10, 'adj': '流畅'}, {'sentiment': 0, 'abstract': '<span>创新不足课程新颖性稍欠缺</span>', 'prop': '课程一般', 'begin_pos': 0, 'end_pos': 24, 'adj': ''}]"
+0,2461193221893387325,[]
+0,2919640140943061501,"[{'sentiment': 0, 'abstract': '（1）病房<span>数目较少</span>\n（2）对于输注细胞数目没有明确说明多因素分析中应除allo-hsct后嵌合状态一并进行分析', 'prop': '数目', 'begin_pos': 9, 'end_pos': 17, 'adj': '少'}]"
+0,4788565075668292797,[]
+0,2069029624821355389,[]
+0,1026456754698518269,[]
+0,7901078282794206717,[]
+0,5499443901768406045,[]
+0,1638495564212314973,"[{'sentiment': 2, 'abstract': '摘要中少分期<span>信息欠全面</span>摘要写作不妥', 'prop': '信息', 'begin_pos': 12, 'end_pos': 22, 'adj': '全面'}]"
+0,2762937605758650493,"[{'sentiment': 1, 'abstract': 's<span>位置不对</span>', 'prop': '位置', 'begin_pos': 1, 'end_pos': 9, 'adj': '不对'}]"
+0,6161975092171335229,[]
+0,8580941514262726301,[]
+0,1083485928369746269,"[{'sentiment': 0, 'abstract': '逻辑性差<span></span>', 'prop': '服务', 'begin_pos': 8, 'end_pos': 8, 'adj': '服务一般'}]"
+0,2263276614599347101,[]
+0,8455531532439309565,[]
+0,7290624885712745501,"[{'sentiment': 2, 'abstract': '整体讨论<span>水平较高</span>', 'prop': '水平', 'begin_pos': 8, 'end_pos': 16, 'adj': '高'}]"
+0,1442514799392126909,[]
+0,9195675667223603549,"[{'sentiment': 0, 'abstract': '深度不够<span></span>', 'prop': '深度', 'begin_pos': 8, 'end_pos': 8, 'adj': '不够'}]"
+0,396413547651893917,"[{'sentiment': 0, 'abstract': '<span>1.p15组间tg水平已有统计学差异</span>', 'prop': '水平一般', 'begin_pos': 0, 'end_pos': 29, 'adj': ''}]"
+0,313023010500303133,[]
+0,8747400648235994461,[]
+0,2244875746582651869,[]
+0,6051117853761327453,[]
+0,2915074596290867357,[]
+0,8053686387493044157,"[{'sentiment': 0, 'abstract': '样本量偏少对讨论部分应加大力度1.例数较少<span></span>', 'prop': '位置', 'begin_pos': 40, 'end_pos': 40, 'adj': '偏'}]"
+0,7473525840381402973,[]
+0,2346758473048519485,[]
+0,6093047203850172989,[]
+0,3906705725107657789,[]
+0,3673745882551420381,[]
+0,8754222397122583485,[]
+0,7795484635544167293,[]
+0,137508120449598429,[]
+0,2962317739895959293,[]
+0,8410505943817339261,[]
+0,6671998485120353085,[]
+0,5392935579604963837,[]
+0,7913297397589486141,"[{'sentiment': 0, 'abstract': '参考文献格式不一致且文献较旧<span></span>', 'prop': '文献', 'begin_pos': 28, 'end_pos': 28, 'adj': '旧'}]"
+0,3650244475042462941,[]
+0,2223056326108186493,[]
+0,6383907423042184125,[]
+0,3529802456307395965,"[{'sentiment': 0, 'abstract': '图的标注序号不太合理<span></span>', 'prop': '价格', 'begin_pos': 20, 'end_pos': 20, 'adj': '价格高'}]"
+0,6550969766719869021,[]
+0,5227685617432816125,[]
+0,5225267219195962333,[]
+0,152388200089590781,[]
+0,3503268956933094013,[]
+0,5190359622176085053,[]
+0,1550319330555298141,[]
+0,4183108085029314877,"[{'sentiment': 0, 'abstract': '试验<span>方法描述不详细</span>', 'prop': '方法', 'begin_pos': 4, 'end_pos': 18, 'adj': '不详细'}]"
+0,5824841718173025501,[]
+0,6321522077937982301,[]
+0,3717919968509472893,"[{'sentiment': 2, 'abstract': '论文选题合理<span></span>', 'prop': '感觉', 'begin_pos': 12, 'end_pos': 12, 'adj': '合理'}, {'sentiment': 2, 'abstract': '<span>思路清晰</span>', 'prop': '思路', 'begin_pos': 0, 'end_pos': 8, 'adj': '清晰'}]"
+0,3543504930080238109,"[{'sentiment': 2, 'abstract': '论文选题合理<span></span>', 'prop': '感觉', 'begin_pos': 12, 'end_pos': 12, 'adj': '合理'}, {'sentiment': 2, 'abstract': '<span>思路清晰</span>', 'prop': '思路', 'begin_pos': 0, 'end_pos': 8, 'adj': '清晰'}, {'sentiment': 2, 'abstract': '<span>研究结果可信</span>', 'prop': '研究', 'begin_pos': 0, 'end_pos': 12, 'adj': '可信'}]"
+0,1960989729028975293,"[{'sentiment': 2, 'abstract': '注意语言表述的准确性<span></span>', 'prop': '地方', 'begin_pos': 20, 'end_pos': 20, 'adj': '准确'}]"
+0,1361017627229377885,[]
+0,6687409835608849693,[]
+0,6728799214106728989,[]
+0,4173009124898999773,[]
+0,4619352173309815389,[]
+0,8303783654996658045,"[{'sentiment': 2, 'abstract': '建议讨论部分根据研究结果进行讨论英文摘要<span>需要认真</span>撰写英文摘要语法问题较多', 'prop': '需要', 'begin_pos': 40, 'end_pos': 48, 'adj': '认真'}]"
+0,3756513413318214621,[]
+0,8775405097655867037,[]
+0,2327967058460737373,[]
+0,4099943656775598749,[]
+0,146840422811356925,"[{'sentiment': 0, 'abstract': '参考文献陈旧论文<span>题目描述不够准确</span>', 'prop': '题目', 'begin_pos': 16, 'end_pos': 32, 'adj': '不够准确'}]"
+0,6244959519199730525,[]
+0,4950361522383492381,"[{'sentiment': 0, 'abstract': '结论部分<span>语言不够精炼</span>', 'prop': '语言', 'begin_pos': 8, 'end_pos': 20, 'adj': '不够精炼'}]"
+0,7397642518242733117,"[{'sentiment': 2, 'abstract': '课题<span>设计欠合理</span>', 'prop': '设计', 'begin_pos': 4, 'end_pos': 14, 'adj': '合理'}]"
+0,953913555934979069,[]
+0,4851085959351344125,[]
+0,656155031736979453,"[{'sentiment': 0, 'abstract': '<span>研究成果解决专业问题案例欠突出</span>', 'prop': '专业一般', 'begin_pos': 0, 'end_pos': 30, 'adj': ''}]"
+0,1057686476061027453,"[{'sentiment': 0, 'abstract': '1.参考文献偏旧<span></span>', 'prop': '位置', 'begin_pos': 14, 'end_pos': 14, 'adj': '偏'}]"
+0,2998743534446061917,[]
+0,3956617161076069693,[]
+0,8940311988872561885,"[{'sentiment': 0, 'abstract': '研究成果社会<span>应用价值一般</span>', 'prop': '应用', 'begin_pos': 12, 'end_pos': 24, 'adj': '一般'}]"
+0,8585011425444269725,[]
+0,8942898844022230013,"[{'sentiment': 0, 'abstract': '研究成果社会<span>应用价值一般</span>', 'prop': '应用', 'begin_pos': 12, 'end_pos': 24, 'adj': '一般'}]"
+0,7780773788519657885,[]
+0,7224070132778345469,[]
+0,1340118395190882749,"[{'sentiment': 2, 'abstract': '研究成果具备较好的应用价值<span></span>', 'prop': '感觉', 'begin_pos': 26, 'end_pos': 26, 'adj': '好'}]"
+0,1523008438876030493,[]
+0,1259450443814451229,[]
+0,5473153061918006077,[]
+0,2967911634588261245,[]
+0,3525149029588118557,[]
+0,1140430632430942205,"[{'sentiment': 2, 'abstract': '论计<span>设计合理</span>', 'prop': '设计', 'begin_pos': 4, 'end_pos': 12, 'adj': '合理'}]"
+0,7975593327692954461,"[{'sentiment': 0, 'abstract': '部分<span>语言表达不准确</span>', 'prop': '语言', 'begin_pos': 4, 'end_pos': 18, 'adj': '不准确'}]"
+0,6951406371182619037,[]
+0,292480739413805789,[]
+0,342921794516779549,[]
+0,6346674153467081693,"[{'sentiment': 2, 'abstract': '3.工作<span>内容丰富</span>', 'prop': '内容', 'begin_pos': 6, 'end_pos': 14, 'adj': '丰富'}]"
+0,7849527169994260957,"[{'sentiment': 2, 'abstract': '1.工作<span>内容丰富</span>', 'prop': '内容', 'begin_pos': 6, 'end_pos': 14, 'adj': '丰富'}]"
+0,4708096256979966909,[]
+0,7352221752779063773,[]
+0,678898157877771709,[]
+0,9042532561283080317,"[{'sentiment': 0, 'abstract': '讨论中<span>语言不够精炼</span>', 'prop': '语言', 'begin_pos': 6, 'end_pos': 18, 'adj': '不够精炼'}]"
+0,8218449125951035837,"[{'sentiment': 0, 'abstract': '<span>语言表述不准确</span>', 'prop': '语言', 'begin_pos': 0, 'end_pos': 14, 'adj': '不准确'}]"
+0,3686920078302263229,[]
+0,6718668169657782909,"[{'sentiment': 2, 'abstract': '论文<span>设计合理</span>', 'prop': '设计', 'begin_pos': 4, 'end_pos': 12, 'adj': '合理'}]"
+0,2829302292123711517,"[{'sentiment': 2, 'abstract': '获得了4份转基因新种质<span></span>', 'prop': '确实', 'begin_pos': 21, 'end_pos': 21, 'adj': '新'}, {'sentiment': 2, 'abstract': '最好有具体的描述<span></span>', 'prop': '感觉', 'begin_pos': 16, 'end_pos': 16, 'adj': '好'}, {'sentiment': 0, 'abstract': '论文针对大豆磷素利用<span>效率不高</span>的问题', 'prop': '效率', 'begin_pos': 20, 'end_pos': 28, 'adj': '不高'}]"
+0,2164007041848365117,"[{'sentiment': 0, 'abstract': '全文的结构<span>安排不合理</span>', 'prop': '安排', 'begin_pos': 10, 'end_pos': 20, 'adj': '不合理'}, {'sentiment': 0, 'abstract': '结果部分内容偏少<span></span>', 'prop': '位置', 'begin_pos': 16, 'end_pos': 16, 'adj': '偏'}]"
+0,1276073999841571293,"[{'sentiment': 2, 'abstract': '分析较到位<span></span>', 'prop': '服务', 'begin_pos': 10, 'end_pos': 10, 'adj': '服务不错'}, {'sentiment': 2, 'abstract': '<span>内容丰富</span>', 'prop': '内容', 'begin_pos': 0, 'end_pos': 8, 'adj': '丰富'}]"
+0,4568746120168089277,"[{'sentiment': 0, 'abstract': '章节<span>安排不合理</span>', 'prop': '安排', 'begin_pos': 4, 'end_pos': 14, 'adj': '不合理'}, {'sentiment': 0, 'abstract': '<span>缺少近3年高水平文献的引用</span>', 'prop': '水平一般', 'begin_pos': 0, 'end_pos': 25, 'adj': ''}]"
+0,5439605080494483869,"[{'sentiment': 0, 'abstract': '<span>应查找现在应收账款管理的新方法和新理论</span>', 'prop': '管理一般', 'begin_pos': 0, 'end_pos': 38, 'adj': ''}]"
+0,5697955674617403645,"[{'sentiment': 0, 'abstract': '<span>前沿理论不足如智能服务缺乏1.参考文献数量和质量欠缺</span>', 'prop': '服务一般', 'begin_pos': 0, 'end_pos': 50, 'adj': ''}, {'sentiment': 0, 'abstract': '\n2.研究设计能力不足<span></span>', 'prop': '能力', 'begin_pos': 19, 'end_pos': 19, 'adj': '不足'}, {'sentiment': 2, 'abstract': '但方案<span>设计的合理</span>性论证不充分', 'prop': '设计', 'begin_pos': 6, 'end_pos': 16, 'adj': '合理'}]"
+0,8008734247573584733,[]
+0,1711899005533364637,[]
+0,8751616743801413789,"[{'sentiment': 2, 'abstract': '论文结构较好<span></span>', 'prop': '结构', 'begin_pos': 12, 'end_pos': 12, 'adj': '好'}]"
+0,8491782599784170973,"[{'sentiment': 0, 'abstract': '政策因素分析不到位<span></span>', 'prop': '服务', 'begin_pos': 18, 'end_pos': 18, 'adj': '服务一般'}, {'sentiment': 0, 'abstract': '相应对策不到位<span></span>', 'prop': '服务', 'begin_pos': 14, 'end_pos': 14, 'adj': '服务一般'}]"
+0,600267157531952605,"[{'sentiment': 0, 'abstract': '<span>缺少对近年高水平论文的引用</span>', 'prop': '水平一般', 'begin_pos': 0, 'end_pos': 26, 'adj': ''}]"
+0,8084720223498224797,"[{'sentiment': 0, 'abstract': '（1）定量分析内容与研究的其他<span>内容没有很好</span>地结合', 'prop': '内容', 'begin_pos': 29, 'end_pos': 41, 'adj': '不很好'}]"
+0,7966803863669503485,"[{'sentiment': 0, 'abstract': '说服力不够<span></span>', 'prop': '说服力', 'begin_pos': 10, 'end_pos': 10, 'adj': '不够'}]"
+0,2176612624569765149,[]
+0,8096920024767833117,"[{'sentiment': 0, 'abstract': '<span>2.对公司员工的培训效果评估过于简单</span>', 'prop': '效果一般', 'begin_pos': 0, 'end_pos': 34, 'adj': ''}, {'sentiment': 0, 'abstract': '<span>3.调查问卷只涉及培训管理模式优化之前员工的情况</span>', 'prop': '管理一般', 'begin_pos': 0, 'end_pos': 46, 'adj': ''}, {'sentiment': 0, 'abstract': '<span>在开展培训管理模式优化后没有相应的跟进调查</span>', 'prop': '管理一般', 'begin_pos': 0, 'end_pos': 42, 'adj': ''}, {'sentiment': 2, 'abstract': '层次结构较好<span></span>', 'prop': '结构', 'begin_pos': 12, 'end_pos': 12, 'adj': '好'}, {'sentiment': 2, 'abstract': '4.1波士顿矩阵的<span>应用是否合适</span>', 'prop': '应用', 'begin_pos': 15, 'end_pos': 27, 'adj': '合适'}]"
+0,9174816845603936861,[]
+0,6798220071813141021,[]
+0,7997146315422133693,"[{'sentiment': 0, 'abstract': '3.对投资开发集团的内部环境分析和swot分析不够深入<span></span>', 'prop': '环境', 'begin_pos': 48, 'end_pos': 48, 'adj': '环境一般'}]"
+0,8684867284042012509,[]
+0,7725404702606113149,[]
+0,5677233500010195037,"[{'sentiment': 0, 'abstract': '<span>没有系统梳理人力资源管理的理论体系</span>', 'prop': '管理一般', 'begin_pos': 0, 'end_pos': 34, 'adj': ''}]"
+0,2731636008730761757,"[{'sentiment': 2, 'abstract': '行业动态掌握较好<span></span>', 'prop': '感觉', 'begin_pos': 16, 'end_pos': 16, 'adj': '好'}]"
+0,7772185429085078717,"[{'sentiment': 0, 'abstract': '安装过程质量控制存在的问题分析不到位<span></span>', 'prop': '服务', 'begin_pos': 36, 'end_pos': 36, 'adj': '服务一般'}]"
+0,7794722289497637565,[]
+0,4051014476920436701,"[{'sentiment': 0, 'abstract': '\n（2）分析问题不够深入<span></span>', 'prop': '问题', 'begin_pos': 22, 'end_pos': 22, 'adj': '深入'}]"
+0,5404441425702464989,"[{'sentiment': 2, 'abstract': '<span>论文选题符合专业要求</span>', 'prop': '专业不错', 'begin_pos': 0, 'end_pos': 20, 'adj': ''}, {'sentiment': 2, 'abstract': '层次清晰<span></span>', 'prop': '层次', 'begin_pos': 8, 'end_pos': 8, 'adj': '清晰'}, {'sentiment': 0, 'abstract': '<span>三支柱模型的运用没有提出原有的人力资源管理者如何进行职责分配及如何改进</span>', 'prop': '管理一般', 'begin_pos': 0, 'end_pos': 70, 'adj': ''}]"
+0,8797472070834056829,"[{'sentiment': 2, 'abstract': '等精益生产的方法对生产线进行优化和运用山积图识别消除生产线浪费）都属于<span>管理科学</span>与工程的内容', 'prop': '管理', 'begin_pos': 70, 'end_pos': 78, 'adj': '科学'}]"
+0,7754147347621784701,[]
+0,4068565499860479901,[]
+0,6285035372636821405,[]
+0,2337976676831965917,"[{'sentiment': 0, 'abstract': '<span>但缺乏整体性结论</span>', 'prop': '整体一般', 'begin_pos': 0, 'end_pos': 16, 'adj': ''}]"
+0,3301493667687119453,"[{'sentiment': 0, 'abstract': '同时对汽车4s店的内外部环境分析不够深入<span></span>', 'prop': '环境', 'begin_pos': 38, 'end_pos': 38, 'adj': '环境一般'}]"
+0,7133101449340858397,[]
+0,2812005070986380381,"[{'sentiment': 2, 'abstract': '结构清晰<span></span>', 'prop': '结构', 'begin_pos': 8, 'end_pos': 8, 'adj': '清晰'}]"
+0,4410549456102945725,[]
+0,3451548213184260765,"[{'sentiment': 2, 'abstract': '论文研究<span>思路基本清晰</span>', 'prop': '思路', 'begin_pos': 8, 'end_pos': 20, 'adj': '清晰'}]"
+0,8823985406055639453,[]
+0,4333782637094942525,[]
+0,1701947996943766109,"[{'sentiment': 0, 'abstract': '<span>营销水平体系评价指标选取缺乏有效论证</span>', 'prop': '水平一般', 'begin_pos': 0, 'end_pos': 36, 'adj': ''}]"
+0,25498457172446653,[]
+0,3749359252271241085,[]
+0,8915233056765507517,"[{'sentiment': 0, 'abstract': '<span>1.第2章应该是ppp项目风险管理理论</span>', 'prop': '管理一般', 'begin_pos': 0, 'end_pos': 32, 'adj': ''}, {'sentiment': 0, 'abstract': '\n2.研究<span>方法描述不准确</span>', 'prop': '方法', 'begin_pos': 7, 'end_pos': 21, 'adj': '不准确'}]"
+0,2387867357164754333,"[{'sentiment': 2, 'abstract': '<span>论文选题符合专业要求</span>', 'prop': '专业不错', 'begin_pos': 0, 'end_pos': 20, 'adj': ''}]"
+0,6302625077550119005,[]
+0,8894798394503728445,[]
+0,5146438923813827709,"[{'sentiment': 2, 'abstract': '研究<span>思路较清晰</span>', 'prop': '思路', 'begin_pos': 4, 'end_pos': 14, 'adj': '清晰'}, {'sentiment': 2, 'abstract': '研究方案<span>设计较合理</span>', 'prop': '设计', 'begin_pos': 8, 'end_pos': 18, 'adj': '合理'}]"
+0,401527084822279101,[]
+0,2517932894415094845,"[{'sentiment': 2, 'abstract': '研究框架中满意度中出现overall<span></span>', 'prop': '服务', 'begin_pos': 29, 'end_pos': 29, 'adj': '服务不错'}, {'sentiment': 2, 'abstract': '最大值最小值分析<span></span>', 'prop': '感觉', 'begin_pos': 16, 'end_pos': 16, 'adj': '值'}]"
+0,1583096591092259517,[]
+0,377714644931490557,[]
+0,2221687507790664093,"[{'sentiment': 0, 'abstract': '\n（2）内外环境分析不够深入<span></span>', 'prop': '环境', 'begin_pos': 26, 'end_pos': 26, 'adj': '环境一般'}]"
+0,932217069809863389,"[{'sentiment': 2, 'abstract': '论文层次结构较好<span></span>', 'prop': '结构', 'begin_pos': 16, 'end_pos': 16, 'adj': '好'}]"
+0,2234540115560936637,[]
+0,3246674661976251869,"[{'sentiment': 0, 'abstract': 'p38-p40的模糊综合评价法<span>应用不准确</span>', 'prop': '应用', 'begin_pos': 23, 'end_pos': 33, 'adj': '不准确'}]"
+0,3344441319498401373,"[{'sentiment': 2, 'abstract': '<span>结构符合该专业学位要求</span>', 'prop': '专业不错', 'begin_pos': 0, 'end_pos': 22, 'adj': ''}]"
+0,5867997112945265469,[]
+0,1826987787856243037,[]
+0,8402951535024740797,"[{'sentiment': 0, 'abstract': '服务提升对策部分对企业本身的特性论证不充分<span></span>', 'prop': '服务', 'begin_pos': 42, 'end_pos': 42, 'adj': '服务一般'}]"
+0,718760663307973885,"[{'sentiment': 0, 'abstract': '但个别地方存在<span>语言表达不准确</span>的问题比如', 'prop': '语言', 'begin_pos': 14, 'end_pos': 28, 'adj': '不准确'}]"
+0,8288570420791732349,[]
+0,3175572930123554493,[]
+0,7242080848747704765,"[{'sentiment': 2, 'abstract': '论文能够较好的整理文献<span></span>', 'prop': '论文', 'begin_pos': 22, 'end_pos': 22, 'adj': '好'}]"
+0,17413700296224349,"[{'sentiment': 0, 'abstract': '但是文章说理<span>能力不强</span>', 'prop': '能力', 'begin_pos': 12, 'end_pos': 20, 'adj': '不强'}]"
+0,8004231803052032413,[]
+0,4009477342068231741,"[{'sentiment': 2, 'abstract': '结构<span>安排合理</span>.写作较规范', 'prop': '安排', 'begin_pos': 4, 'end_pos': 12, 'adj': '合理'}, {'sentiment': 2, 'abstract': '<span>语言表达准确</span>合理', 'prop': '语言', 'begin_pos': 0, 'end_pos': 12, 'adj': '准确'}]"
+0,2471778177648932797,[]
+0,118703444160205469,"[{'sentiment': 2, 'abstract': '较好<span></span>', 'prop': '感觉', 'begin_pos': 4, 'end_pos': 4, 'adj': '好'}, {'sentiment': 0, 'abstract': '有的脚注注释<span>专业性不强</span>', 'prop': '专业性', 'begin_pos': 12, 'end_pos': 22, 'adj': '不强'}]"
+0,5446804765360848381,[]
+0,5689347167942526813,[]
+0,2656383994131584701,"[{'sentiment': 2, 'abstract': '研究<span>思路较清晰</span>', 'prop': '思路', 'begin_pos': 4, 'end_pos': 14, 'adj': '清晰'}, {'sentiment': 0, 'abstract': '结论与展望偏于简单<span></span>', 'prop': '位置', 'begin_pos': 18, 'end_pos': 18, 'adj': '偏'}]"
+0,4253689432329048125,"[{'sentiment': 0, 'abstract': '1.写作不规范\n2.研究方法简单\n<span></span>', 'prop': '方法', 'begin_pos': 28, 'end_pos': 28, 'adj': '简单'}]"
+0,4158033885442915901,"[{'sentiment': 2, 'abstract': '结构<span>安排合理</span>.写作较规范', 'prop': '安排', 'begin_pos': 4, 'end_pos': 12, 'adj': '合理'}]"
+0,5060301725714644637,[]
+0,2894679357429279581,"[{'sentiment': 0, 'abstract': '建议直接“邯郸市d房地产企业投资战略优化研究”似乎较妥当<span></span>', 'prop': '建议', 'begin_pos': 55, 'end_pos': 55, 'adj': ''}]"
+0,1840763269041345149,[]
+0,7577918543079609757,"[{'sentiment': 0, 'abstract': '\n问题和建议：1.题目偏大<span></span>', 'prop': '位置', 'begin_pos': 23, 'end_pos': 23, 'adj': '偏'}, {'sentiment': 2, 'abstract': '<span>语言表达准确</span>合理', 'prop': '语言', 'begin_pos': 0, 'end_pos': 12, 'adj': '准确'}, {'sentiment': 2, 'abstract': '结构<span>安排合理</span>.研究的内容较广泛', 'prop': '安排', 'begin_pos': 4, 'end_pos': 12, 'adj': '合理'}]"
+0,3963526733362418909,[]
+0,5159750258922509597,[]
+0,998831503901192445,[]
+0,8274973810559283357,[]
+0,6634737507314849629,[]
+0,3046976113047948253,[]
+0,4864361828734607869,[]
+0,4111319423509139101,[]
+0,2475170760922093341,[]
+0,1778034141636829277,[]
+0,5887231592104664317,"[{'sentiment': 2, 'abstract': '论文选题较好<span></span>', 'prop': '选题', 'begin_pos': 12, 'end_pos': 12, 'adj': '好'}]"
+0,5362916706403748093,"[{'sentiment': 2, 'abstract': '研究<span>思路较清晰</span>', 'prop': '思路', 'begin_pos': 4, 'end_pos': 14, 'adj': '清晰'}, {'sentiment': 0, 'abstract': '对研究方法的掌握<span>程度一般</span>', 'prop': '程度', 'begin_pos': 16, 'end_pos': 24, 'adj': '一般'}]"
+0,2723538420928733213,[]
+0,335995644819956093,[]
+0,8376492989503865693,[]
+0,2444848831041435965,[]
+0,4029081152493807069,"[{'sentiment': 0, 'abstract': '<span>缺乏对应用效果分析的理论建构和优化分析</span>', 'prop': '效果一般', 'begin_pos': 0, 'end_pos': 38, 'adj': ''}, {'sentiment': 0, 'abstract': '<span>应增加医保院内智能审核系统应用效果方面的考察内容设计和研究方法方面的内容章节</span>', 'prop': '效果一般', 'begin_pos': 0, 'end_pos': 76, 'adj': ''}]"
+0,6289047579222847389,"[{'sentiment': 2, 'abstract': '<span>语言表达准确</span>合理', 'prop': '语言', 'begin_pos': 0, 'end_pos': 12, 'adj': '准确'}]"
+0,5481620914864592349,[]
+0,3456510379139932893,"[{'sentiment': 0, 'abstract': '<span>”第四章的审批流程优化效果分析过于主观</span>', 'prop': '效果一般', 'begin_pos': 0, 'end_pos': 38, 'adj': ''}]"
+0,7076913315947048477,[]
+0,3865202395153441597,[]
+0,1327153901254533437,"[{'sentiment': 0, 'abstract': '创新性一般1.各章标题字数太少<span></span>', 'prop': '感觉', 'begin_pos': 28, 'end_pos': 28, 'adj': '一般'}]"
+0,4293330830519890557,[]
+0,2630843741359159549,"[{'sentiment': 0, 'abstract': '<span>在分析农村留守青少年相关教育管理理论的基础上对其教育管理问题进行了研究</span>', 'prop': '管理一般', 'begin_pos': 0, 'end_pos': 70, 'adj': ''}, {'sentiment': 2, 'abstract': '论文结构合理<span></span>', 'prop': '结构', 'begin_pos': 12, 'end_pos': 12, 'adj': '合理'}]"
+0,2216958642479654973,"[{'sentiment': 0, 'abstract': '1.参考文献偏陈旧<span></span>', 'prop': '位置', 'begin_pos': 16, 'end_pos': 16, 'adj': '偏'}, {'sentiment': 0, 'abstract': '<span>分析了秦皇岛税务局现行绩效管理现状和存在问题</span>', 'prop': '管理一般', 'begin_pos': 0, 'end_pos': 44, 'adj': ''}, {'sentiment': 0, 'abstract': '<span>\n问题和建议：1.加强设定的管理理论与工具和分析问题的衔接和针对性</span>', 'prop': '管理一般', 'begin_pos': 0, 'end_pos': 63, 'adj': ''}, {'sentiment': 0, 'abstract': '第四章原因查找不到位<span></span>', 'prop': '服务', 'begin_pos': 20, 'end_pos': 20, 'adj': '服务一般'}]"
+0,3566546356202769725,"[{'sentiment': 0, 'abstract': '<span>分析方法有些简单1.关于水资源管理政策的外文文献没有提及</span>', 'prop': '管理一般', 'begin_pos': 0, 'end_pos': 54, 'adj': ''}, {'sentiment': 2, 'abstract': '论文结构较为合理<span></span>', 'prop': '结构', 'begin_pos': 16, 'end_pos': 16, 'adj': '合理'}]"
+0,5430562466382332669,"[{'sentiment': 2, 'abstract': '结构<span>安排合理</span>', 'prop': '安排', 'begin_pos': 4, 'end_pos': 12, 'adj': '合理'}, {'sentiment': 2, 'abstract': '<span>语言表达准确</span>合理', 'prop': '语言', 'begin_pos': 0, 'end_pos': 12, 'adj': '准确'}, {'sentiment': 0, 'abstract': '标题顶格与否不统一\n4.研究方法简单\n5.论据不充分1.创新点不成立<span></span>', 'prop': '方法', 'begin_pos': 60, 'end_pos': 60, 'adj': '简单'}]"
+0,5411616363383303645,"[{'sentiment': 2, 'abstract': '框架<span>思路比较清晰</span>', 'prop': '思路', 'begin_pos': 4, 'end_pos': 16, 'adj': '清晰'}, {'sentiment': 2, 'abstract': '结构<span>安排合理</span>.写作较规范', 'prop': '安排', 'begin_pos': 4, 'end_pos': 12, 'adj': '合理'}, {'sentiment': 2, 'abstract': '<span>语言表达准确</span>合理', 'prop': '语言', 'begin_pos': 0, 'end_pos': 12, 'adj': '准确'}]"
+0,8123514681322797821,[]
+0,8189378832662320605,"[{'sentiment': 2, 'abstract': '<span>语言表达准确</span>合理', 'prop': '语言', 'begin_pos': 0, 'end_pos': 12, 'adj': '准确'}]"
+0,5229897776378411869,[]
+0,3218601888007334301,"[{'sentiment': 0, 'abstract': '<span>\n问题和建议：1.应明确涉密管理的概念</span>', 'prop': '管理一般', 'begin_pos': 0, 'end_pos': 35, 'adj': ''}, {'sentiment': 2, 'abstract': '结构<span>安排合理</span>.写作较规范', 'prop': '安排', 'begin_pos': 4, 'end_pos': 12, 'adj': '合理'}, {'sentiment': 2, 'abstract': '<span>语言表达准确</span>', 'prop': '语言', 'begin_pos': 0, 'end_pos': 12, 'adj': '准确'}]"
+0,3940980897651380157,"[{'sentiment': 0, 'abstract': '1.调查的样本量偏少<span></span>', 'prop': '位置', 'begin_pos': 18, 'end_pos': 18, 'adj': '偏'}]"
+0,2239877427801446973,"[{'sentiment': 2, 'abstract': '结构<span>安排合理</span>', 'prop': '安排', 'begin_pos': 4, 'end_pos': 12, 'adj': '合理'}, {'sentiment': 0, 'abstract': '3.内容偏少<span></span>', 'prop': '位置', 'begin_pos': 10, 'end_pos': 10, 'adj': '偏'}]"
+0,7490904900677465693,"[{'sentiment': 2, 'abstract': '1.论文研究<span>内容需要丰富</span>', 'prop': '内容', 'begin_pos': 10, 'end_pos': 22, 'adj': '丰富'}, {'sentiment': 0, 'abstract': '<span>缺乏实施效果分析</span>', 'prop': '效果一般', 'begin_pos': 0, 'end_pos': 16, 'adj': ''}]"
+0,8830127938921679805,[]
+0,7396552667641477437,[]
+0,6217014672308030749,[]
+0,4128489602402495613,"[{'sentiment': 0, 'abstract': '论文<span>规范性一般</span>', 'prop': '规范', 'begin_pos': 4, 'end_pos': 14, 'adj': '一般'}]"
+0,4316397888218904509,[]
+0,1049325546193909213,[]
+0,2780409610823877949,[]
+0,175024040191587485,[]
+0,8999582163282697533,"[{'sentiment': 2, 'abstract': '较好<span></span>', 'prop': '感觉', 'begin_pos': 4, 'end_pos': 4, 'adj': '好'}]"
+0,3861391826996091741,282134,input empty
+0,3253444552818187453,[]
+0,8392827722145700637,"[{'sentiment': 0, 'abstract': '2.范畴偏大的旅游企业与酒店案例有待契合<span></span>', 'prop': '位置', 'begin_pos': 38, 'end_pos': 38, 'adj': '偏'}]"
+0,2100172929899922045,[]
+0,2957169876745329085,[]
+0,4851768509117189629,"[{'sentiment': 0, 'abstract': '<span>现状综述不够专业</span>', 'prop': '专业一般', 'begin_pos': 0, 'end_pos': 16, 'adj': ''}]"
+0,5045163291803038397,[]
+0,2897879798364196413,[]
+0,8753295729571251901,"[{'sentiment': 2, 'abstract': '<span>整体看调研分析较好</span>', 'prop': '整体不错', 'begin_pos': 0, 'end_pos': 18, 'adj': ''}]"
+0,189220117068869117,"[{'sentiment': 2, 'abstract': '<span>整体看调研分析较好</span>', 'prop': '整体不错', 'begin_pos': 0, 'end_pos': 18, 'adj': ''}]"
+0,7926540495790554269,"[{'sentiment': 2, 'abstract': '实践部分<span>设计较合理</span>', 'prop': '设计', 'begin_pos': 8, 'end_pos': 18, 'adj': '合理'}, {'sentiment': 2, 'abstract': '<span>整体看调研分析较好</span>', 'prop': '整体不错', 'begin_pos': 0, 'end_pos': 18, 'adj': ''}]"
+0,3418152420646587485,"[{'sentiment': 0, 'abstract': '论文章节逻辑<span>关系不准确</span>', 'prop': '关系', 'begin_pos': 12, 'end_pos': 22, 'adj': '不准确'}, {'sentiment': 0, 'abstract': '对“知识分子艺术家”的界定与<span>研究不够准确</span>充分', 'prop': '研究', 'begin_pos': 28, 'end_pos': 40, 'adj': '不够准确'}]"
+0,7607512335982500317,[]
+0,2772196939015514493,"[{'sentiment': 2, 'abstract': '文章简洁<span></span>', 'prop': '文章', 'begin_pos': 8, 'end_pos': 8, 'adj': '简洁'}]"
+0,9188986898496403965,"[{'sentiment': 0, 'abstract': '<span>研究深度总体显得不够</span>', 'prop': '总体一般', 'begin_pos': 0, 'end_pos': 20, 'adj': ''}]"
+0,1027326659938679581,[]
+0,6442473219121551709,[]
+0,2015125697298148157,[]
+0,6408537437649086557,[]
+0,5658990831655746269,"[{'sentiment': 2, 'abstract': '<span>论文选题符合专业硕士学位要求</span>', 'prop': '专业不错', 'begin_pos': 0, 'end_pos': 28, 'adj': ''}, {'sentiment': 0, 'abstract': '论文<span>质量一般</span>', 'prop': '质量', 'begin_pos': 4, 'end_pos': 12, 'adj': '一般'}, {'sentiment': 0, 'abstract': '理论陈旧<span></span>', 'prop': '理论', 'begin_pos': 8, 'end_pos': 8, 'adj': '陈旧'}]"
+0,5426310696714234397,"[{'sentiment': 2, 'abstract': '实践部分<span>设计较合理</span>', 'prop': '设计', 'begin_pos': 8, 'end_pos': 18, 'adj': '合理'}, {'sentiment': 2, 'abstract': '<span>整体看调研分析较好</span>', 'prop': '整体不错', 'begin_pos': 0, 'end_pos': 18, 'adj': ''}]"
+0,4378305042013149597,"[{'sentiment': 2, 'abstract': '主题清晰<span></span>', 'prop': '主题', 'begin_pos': 8, 'end_pos': 8, 'adj': '清晰'}]"
+0,8329717876597973885,[]
+0,4879595753984759581,"[{'sentiment': 0, 'abstract': '<span>设计水平有待提升</span>', 'prop': '水平一般', 'begin_pos': 0, 'end_pos': 16, 'adj': ''}]"
+0,8898345414101969245,[]
+0,5788952578217316989,"[{'sentiment': 2, 'abstract': '论文<span>整体情况良好</span>', 'prop': '整体', 'begin_pos': 4, 'end_pos': 16, 'adj': '良好'}, {'sentiment': 0, 'abstract': '专业设计<span>能力一般</span>', 'prop': '能力', 'begin_pos': 8, 'end_pos': 16, 'adj': '一般'}]"
+0,1981200726467321981,[]
+0,3486411673436387421,[]
+0,429983398192741597,"[{'sentiment': 0, 'abstract': '<span>研究深度总体显得不够</span>', 'prop': '总体一般', 'begin_pos': 0, 'end_pos': 20, 'adj': ''}]"
+0,1085328453039185373,[]
+0,399672678107441981,"[{'sentiment': 2, 'abstract': '主题清晰<span></span>', 'prop': '主题', 'begin_pos': 8, 'end_pos': 8, 'adj': '清晰'}]"
+0,8908333155092057213,[]
+0,2911084131843290877,"[{'sentiment': 2, 'abstract': '对格式塔理论的掌握和<span>使用不够准确</span>', 'prop': '使用', 'begin_pos': 20, 'end_pos': 32, 'adj': '准确'}, {'sentiment': 2, 'abstract': '结构合理<span></span>', 'prop': '结构', 'begin_pos': 8, 'end_pos': 8, 'adj': '合理'}, {'sentiment': 0, 'abstract': '这是该文最<span>大的问题</span>', 'prop': '问题', 'begin_pos': 10, 'end_pos': 18, 'adj': '大'}]"
+0,6412523232295430365,[]
+0,8429455154606011677,"[{'sentiment': 2, 'abstract': '<span>具有一定的专业理论基础</span>', 'prop': '专业不错', 'begin_pos': 0, 'end_pos': 22, 'adj': ''}]"
+0,3247842804427528573,"[{'sentiment': 2, 'abstract': '<span>具有一定的专业理论基础</span>', 'prop': '专业不错', 'begin_pos': 0, 'end_pos': 22, 'adj': ''}]"
+0,1781299507743765949,"[{'sentiment': 2, 'abstract': '文章精致<span></span>', 'prop': '文章', 'begin_pos': 8, 'end_pos': 8, 'adj': '精致'}, {'sentiment': 2, 'abstract': '<span>上海国立音乐专科学校的建校时间是某某年</span>', 'prop': '学校不错', 'begin_pos': 0, 'end_pos': 38, 'adj': ''}]"
