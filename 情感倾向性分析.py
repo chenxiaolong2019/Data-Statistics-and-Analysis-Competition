@@ -13,9 +13,9 @@ import time
 
 """ 你的 APPID AK SK """
 
-APP_ID = '	24245258'
-API_KEY = '8xjWxdMjtVNsr4WigDzwWmnh'
-SECRET_KEY = '4qIiKSRuvZ7DWmVk6pA7lppWCQlkNe5V'
+APP_ID = 'xxx'
+API_KEY = 'xxx'
+SECRET_KEY = 'xxx'
 client = AipNlp(APP_ID, API_KEY, SECRET_KEY)
 #########################################################
 
