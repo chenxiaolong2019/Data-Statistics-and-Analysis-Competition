@@ -7,9 +7,9 @@ Created on Sat May 29 21:07:56 2021
 """ 你的 APPID AK SK """
 from aip import AipNlp
 
-APP_ID = '	24245258'
-API_KEY = '8xjWxdMjtVNsr4WigDzwWmnh'
-SECRET_KEY = '4qIiKSRuvZ7DWmVk6pA7lppWCQlkNe5V'
+APP_ID = '	2424'
+API_KEY = '8xjWxdMjtVNsr4WiWmnh'
+SECRET_KEY = '4qIiKSRuvZ7DWmVpWCQlkNe5V'
 client = AipNlp(APP_ID, API_KEY, SECRET_KEY)
 
 
